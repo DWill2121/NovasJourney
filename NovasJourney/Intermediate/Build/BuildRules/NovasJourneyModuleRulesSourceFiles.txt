@@ -1,0 +1,3 @@
+C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Source\NovasJourney\NovasJourney.Build.cs
+C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Source\NovasJourney.Target.cs
+C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Source\NovasJourneyEditor.Target.cs

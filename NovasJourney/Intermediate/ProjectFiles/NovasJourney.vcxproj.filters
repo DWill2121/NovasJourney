@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NovasJourney.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8855A713-A986-4224-8387-BC84AB34C2C7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NovasJourney.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NovasJourneyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1601AC2C-4E81-4D06-AEAC-1D71E4E5E0A7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NovasJourney">
+      <UniqueIdentifier>{8D072027-81A6-48D6-960E-A7679C1BAA4B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NovasJourney\NovasJourney.Build.cs">
+      <Filter>Source\NovasJourney</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NovasJourney\NovasJourney.cpp">
+      <Filter>Source\NovasJourney</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NovasJourney\NovasJourney.h">
+      <Filter>Source\NovasJourney</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NovasJourney\NovasJourneyGameModeBase.cpp">
+      <Filter>Source\NovasJourney</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NovasJourney\NovasJourneyGameModeBase.h">
+      <Filter>Source\NovasJourney</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

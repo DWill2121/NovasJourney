@@ -1,0 +1,2 @@
+C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\Definitions.NovasJourney.h
+C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Source\NovasJourney\NovasJourney.h
