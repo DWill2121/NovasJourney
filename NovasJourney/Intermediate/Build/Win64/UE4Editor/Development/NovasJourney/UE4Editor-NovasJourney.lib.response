@@ -7,8 +7,12 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\NovasJourneyEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\Abilities.cpp.obj"
+"C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\Nova.cpp.obj"
 "C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\NovasJourney.cpp.obj"
 "C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\NovasJourneyGameModeBase.cpp.obj"
+"C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\Abilities.gen.cpp.obj"
+"C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\Nova.gen.cpp.obj"
 "C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\NovasJourney.init.gen.cpp.obj"
 "C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\NovasJourneyGameModeBase.gen.cpp.obj"
 "C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\Default.rc2.res"

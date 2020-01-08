@@ -42,4 +42,20 @@
       <Filter>Source\NovasJourney</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\NovasJourney\Nova.h">
+      <Filter>Source\NovasJourney</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NovasJourney\Abilities.h">
+      <Filter>Source\NovasJourney</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\NovasJourney\Nova.cpp">
+      <Filter>Source\NovasJourney</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NovasJourney\Abilities.cpp">
+      <Filter>Source\NovasJourney</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
