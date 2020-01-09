@@ -40,6 +40,8 @@ protected:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
 		FVector AbilityOffSet;
 
+	void Regeneration();
+
 	void PushAbility();
 
 

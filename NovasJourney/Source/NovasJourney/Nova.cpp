@@ -14,9 +14,6 @@ ANova::ANova()
 	MaxStrain = 100;
 
 	AbilitySpawn = CreateDefaultSubobject<USceneComponent>(TEXT("AbilitySpawn"));
-	AbilitySpawn->SetRelativeLocation(FVector(0.2f, 48.4f, -10.6f));
-
-
 	AbilityOffSet = FVector(100.0f, 0.0f, 10.0f);
 
 
@@ -60,11 +57,16 @@ void ANova::PushAbility()
 	{
 		const FRotator SpawnRotation = GetActorRotation();
 		// MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
-		const FVector SpawnLocation = AbilityOffSet;
+		const FVector SpawnLocation = AbilitySpawn->GetComponentLocation();
 		FActorSpawnParameters ActorSpawnParams;
 		//ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButDontSpawnIfColliding;
 		World->SpawnActor<AActor>(PushActor, SpawnLocation, SpawnRotation, ActorSpawnParams);
 	}
+
+}
+
+void ANova::Regeneration()
+{
 
 }
 
