@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeNovasJourney_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x61C54BA0,
+				0x3C4A16B0,
 				0xB519B9D2,
 				METADATA_PARAMS(nullptr, 0)
 			};

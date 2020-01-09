@@ -3,19 +3,33 @@
 
 #include "Nova.h"
 #include "Kismet/GameplayStatics.h"
+#include "Camera/CameraComponent.h"
+#include "Components/CapsuleComponent.h"
+#include "Components/InputComponent.h"
+#include "HeadMountedDisplayFunctionLibrary.h"
 #include "Engine/World.h"
 
 // Sets default values
 ANova::ANova()
 {
-	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
+
+	Blast = CreateDefaultSubobject<USkeletalMeshComponent>(TEXT("Blast"));
+	Blast->SetOnlyOwnerSee(true);			// only the owning player will see this mesh
+	Blast->bCastDynamicShadow = false;
+	Blast->CastShadow = false;
+	// FP_Gun->SetupAttachment(Mesh1P, TEXT("GripPoint"));
+	Blast->SetupAttachment(RootComponent);
+
+	SpawnPoint = CreateDefaultSubobject<USceneComponent>(TEXT("SpawnPoint"));
+	SpawnPoint->SetupAttachment(Blast);
+	SpawnPoint->SetRelativeLocation(FVector(0.2f, 48.4f, -10.6f));
+
+	AbilitySpawn = FVector(100.0f, 0.0f, 10.0f);
+
+
 	MaxHP = 100;
 	MaxStrain = 100;
-
-	AbilitySpawn = CreateDefaultSubobject<USceneComponent>(TEXT("AbilitySpawn"));
-	AbilityOffSet = FVector(100.0f, 0.0f, 10.0f);
-
 
 }
 
@@ -57,7 +71,7 @@ void ANova::PushAbility()
 	{
 		const FRotator SpawnRotation = GetActorRotation();
 		// MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
-		const FVector SpawnLocation = AbilitySpawn->GetComponentLocation();
+		const FVector SpawnLocation = ((Blast != nullptr) ? Blast->GetComponentLocation() : GetActorLocation()) + SpawnRotation.RotateVector(AbilitySpawn);
 		FActorSpawnParameters ActorSpawnParams;
 		//ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButDontSpawnIfColliding;
 		World->SpawnActor<AActor>(PushActor, SpawnLocation, SpawnRotation, ActorSpawnParams);

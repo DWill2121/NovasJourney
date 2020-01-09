@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define NOVASJOURNEY_Nova_generated_h
 
-#define NovasJourney_Source_NovasJourney_Nova_h_12_RPC_WRAPPERS
-#define NovasJourney_Source_NovasJourney_Nova_h_12_RPC_WRAPPERS_NO_PURE_DECLS
-#define NovasJourney_Source_NovasJourney_Nova_h_12_INCLASS_NO_PURE_DECLS \
+#define NovasJourney_Source_NovasJourney_Nova_h_16_RPC_WRAPPERS
+#define NovasJourney_Source_NovasJourney_Nova_h_16_RPC_WRAPPERS_NO_PURE_DECLS
+#define NovasJourney_Source_NovasJourney_Nova_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesANova(); \
 	friend struct Z_Construct_UClass_ANova_Statics; \
@@ -24,7 +24,7 @@ public: \
 	DECLARE_SERIALIZER(ANova)
 
 
-#define NovasJourney_Source_NovasJourney_Nova_h_12_INCLASS \
+#define NovasJourney_Source_NovasJourney_Nova_h_16_INCLASS \
 private: \
 	static void StaticRegisterNativesANova(); \
 	friend struct Z_Construct_UClass_ANova_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(ANova)
 
 
-#define NovasJourney_Source_NovasJourney_Nova_h_12_STANDARD_CONSTRUCTORS \
+#define NovasJourney_Source_NovasJourney_Nova_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ANova(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ANova) \
@@ -46,7 +46,7 @@ private: \
 public:
 
 
-#define NovasJourney_Source_NovasJourney_Nova_h_12_ENHANCED_CONSTRUCTORS \
+#define NovasJourney_Source_NovasJourney_Nova_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ANova(ANova&&); \
@@ -57,35 +57,36 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ANova); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ANova)
 
 
-#define NovasJourney_Source_NovasJourney_Nova_h_12_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__AbilitySpawn() { return STRUCT_OFFSET(ANova, AbilitySpawn); } \
+#define NovasJourney_Source_NovasJourney_Nova_h_16_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__Blast() { return STRUCT_OFFSET(ANova, Blast); } \
+	FORCEINLINE static uint32 __PPO__SpawnPoint() { return STRUCT_OFFSET(ANova, SpawnPoint); } \
 	FORCEINLINE static uint32 __PPO__MaxHP() { return STRUCT_OFFSET(ANova, MaxHP); } \
 	FORCEINLINE static uint32 __PPO__HP() { return STRUCT_OFFSET(ANova, HP); } \
 	FORCEINLINE static uint32 __PPO__MaxStrain() { return STRUCT_OFFSET(ANova, MaxStrain); } \
 	FORCEINLINE static uint32 __PPO__Strain() { return STRUCT_OFFSET(ANova, Strain); } \
 	FORCEINLINE static uint32 __PPO__PushActor() { return STRUCT_OFFSET(ANova, PushActor); } \
-	FORCEINLINE static uint32 __PPO__AbilityOffSet() { return STRUCT_OFFSET(ANova, AbilityOffSet); }
+	FORCEINLINE static uint32 __PPO__AbilitySpawn() { return STRUCT_OFFSET(ANova, AbilitySpawn); }
 
 
-#define NovasJourney_Source_NovasJourney_Nova_h_9_PROLOG
-#define NovasJourney_Source_NovasJourney_Nova_h_12_GENERATED_BODY_LEGACY \
+#define NovasJourney_Source_NovasJourney_Nova_h_13_PROLOG
+#define NovasJourney_Source_NovasJourney_Nova_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	NovasJourney_Source_NovasJourney_Nova_h_12_PRIVATE_PROPERTY_OFFSET \
-	NovasJourney_Source_NovasJourney_Nova_h_12_RPC_WRAPPERS \
-	NovasJourney_Source_NovasJourney_Nova_h_12_INCLASS \
-	NovasJourney_Source_NovasJourney_Nova_h_12_STANDARD_CONSTRUCTORS \
+	NovasJourney_Source_NovasJourney_Nova_h_16_PRIVATE_PROPERTY_OFFSET \
+	NovasJourney_Source_NovasJourney_Nova_h_16_RPC_WRAPPERS \
+	NovasJourney_Source_NovasJourney_Nova_h_16_INCLASS \
+	NovasJourney_Source_NovasJourney_Nova_h_16_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define NovasJourney_Source_NovasJourney_Nova_h_12_GENERATED_BODY \
+#define NovasJourney_Source_NovasJourney_Nova_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	NovasJourney_Source_NovasJourney_Nova_h_12_PRIVATE_PROPERTY_OFFSET \
-	NovasJourney_Source_NovasJourney_Nova_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	NovasJourney_Source_NovasJourney_Nova_h_12_INCLASS_NO_PURE_DECLS \
-	NovasJourney_Source_NovasJourney_Nova_h_12_ENHANCED_CONSTRUCTORS \
+	NovasJourney_Source_NovasJourney_Nova_h_16_PRIVATE_PROPERTY_OFFSET \
+	NovasJourney_Source_NovasJourney_Nova_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	NovasJourney_Source_NovasJourney_Nova_h_16_INCLASS_NO_PURE_DECLS \
+	NovasJourney_Source_NovasJourney_Nova_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

@@ -4,6 +4,10 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "Camera/CameraComponent.h"
+#include "Components/CapsuleComponent.h"
+#include "Components/InputComponent.h"
+#include "HeadMountedDisplayFunctionLibrary.h"
 #include "Nova.generated.h"
 
 UCLASS()
@@ -11,8 +15,12 @@ class NOVASJOURNEY_API ANova : public ACharacter
 {
 	GENERATED_BODY()
 
-		UPROPERTY(VisibleDefaultsOnly, Category = Components)
-		class USceneComponent* AbilitySpawn;
+	UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
+		class USkeletalMeshComponent* Blast;
+
+	/** Location on gun mesh where projectiles should spawn. */
+	UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
+		class USceneComponent* SpawnPoint;
 
 public:
 	// Sets default values for this character's properties
@@ -38,7 +46,7 @@ protected:
 		TSubclassOf<AActor> PushActor;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
-		FVector AbilityOffSet;
+		FVector AbilitySpawn;
 
 	void Regeneration();
 

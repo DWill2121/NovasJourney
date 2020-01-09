@@ -21,6 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeNova() {}
 	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 	ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USceneComponent_NoRegister();
+	ENGINE_API UClass* Z_Construct_UClass_USkeletalMeshComponent_NoRegister();
 // End Cross Module References
 	void ANova::StaticRegisterNativesANova()
 	{
@@ -36,9 +37,9 @@ void EmptyLinkFunctionForGeneratedCodeNova() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
 #if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_AbilityOffSet_MetaData[];
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_AbilitySpawn_MetaData[];
 #endif
-		static const UE4CodeGen_Private::FStructPropertyParams NewProp_AbilityOffSet;
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_AbilitySpawn;
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_PushActor_MetaData[];
 #endif
@@ -60,9 +61,13 @@ void EmptyLinkFunctionForGeneratedCodeNova() {}
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_MaxHP;
 #if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_AbilitySpawn_MetaData[];
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_SpawnPoint_MetaData[];
 #endif
-		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_AbilitySpawn;
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_SpawnPoint;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Blast_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_Blast;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -79,12 +84,12 @@ void EmptyLinkFunctionForGeneratedCodeNova() {}
 	};
 #endif
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANova_Statics::NewProp_AbilityOffSet_MetaData[] = {
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANova_Statics::NewProp_AbilitySpawn_MetaData[] = {
 		{ "Category", "Gameplay" },
 		{ "ModuleRelativePath", "Nova.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_ANova_Statics::NewProp_AbilityOffSet = { "AbilityOffSet", nullptr, (EPropertyFlags)0x0020080000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ANova, AbilityOffSet), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_ANova_Statics::NewProp_AbilityOffSet_MetaData, ARRAY_COUNT(Z_Construct_UClass_ANova_Statics::NewProp_AbilityOffSet_MetaData)) };
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_ANova_Statics::NewProp_AbilitySpawn = { "AbilitySpawn", nullptr, (EPropertyFlags)0x0020080000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ANova, AbilitySpawn), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_ANova_Statics::NewProp_AbilitySpawn_MetaData, ARRAY_COUNT(Z_Construct_UClass_ANova_Statics::NewProp_AbilitySpawn_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANova_Statics::NewProp_PushActor_MetaData[] = {
 		{ "Category", "Abilities" },
@@ -121,21 +126,31 @@ void EmptyLinkFunctionForGeneratedCodeNova() {}
 #endif
 	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ANova_Statics::NewProp_MaxHP = { "MaxHP", nullptr, (EPropertyFlags)0x0020080000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ANova, MaxHP), METADATA_PARAMS(Z_Construct_UClass_ANova_Statics::NewProp_MaxHP_MetaData, ARRAY_COUNT(Z_Construct_UClass_ANova_Statics::NewProp_MaxHP_MetaData)) };
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANova_Statics::NewProp_AbilitySpawn_MetaData[] = {
-		{ "Category", "Components" },
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANova_Statics::NewProp_SpawnPoint_MetaData[] = {
+		{ "Category", "Mesh" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "Nova.h" },
+		{ "ToolTip", "Location on gun mesh where projectiles should spawn." },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ANova_Statics::NewProp_SpawnPoint = { "SpawnPoint", nullptr, (EPropertyFlags)0x00400000000b0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ANova, SpawnPoint), Z_Construct_UClass_USceneComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ANova_Statics::NewProp_SpawnPoint_MetaData, ARRAY_COUNT(Z_Construct_UClass_ANova_Statics::NewProp_SpawnPoint_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANova_Statics::NewProp_Blast_MetaData[] = {
+		{ "Category", "Mesh" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Nova.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ANova_Statics::NewProp_AbilitySpawn = { "AbilitySpawn", nullptr, (EPropertyFlags)0x00400000000b0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ANova, AbilitySpawn), Z_Construct_UClass_USceneComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ANova_Statics::NewProp_AbilitySpawn_MetaData, ARRAY_COUNT(Z_Construct_UClass_ANova_Statics::NewProp_AbilitySpawn_MetaData)) };
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ANova_Statics::NewProp_Blast = { "Blast", nullptr, (EPropertyFlags)0x00400000000b0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ANova, Blast), Z_Construct_UClass_USkeletalMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ANova_Statics::NewProp_Blast_MetaData, ARRAY_COUNT(Z_Construct_UClass_ANova_Statics::NewProp_Blast_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ANova_Statics::PropPointers[] = {
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANova_Statics::NewProp_AbilityOffSet,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANova_Statics::NewProp_AbilitySpawn,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANova_Statics::NewProp_PushActor,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANova_Statics::NewProp_Strain,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANova_Statics::NewProp_MaxStrain,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANova_Statics::NewProp_HP,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANova_Statics::NewProp_MaxHP,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANova_Statics::NewProp_AbilitySpawn,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANova_Statics::NewProp_SpawnPoint,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANova_Statics::NewProp_Blast,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ANova_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ANova>::IsAbstract,
@@ -164,7 +179,7 @@ void EmptyLinkFunctionForGeneratedCodeNova() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ANova, 2576195888);
+	IMPLEMENT_CLASS(ANova, 3263465619);
 	template<> NOVASJOURNEY_API UClass* StaticClass<ANova>()
 	{
 		return ANova::StaticClass();
