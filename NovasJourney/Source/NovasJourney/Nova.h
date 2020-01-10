@@ -13,6 +13,7 @@
 UCLASS()
 class NOVASJOURNEY_API ANova : public ACharacter
 {
+
 	GENERATED_BODY()
 
 	UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
