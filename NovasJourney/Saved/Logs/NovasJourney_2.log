@@ -1,0 +1,1394 @@
+﻿Log file open, 01/12/20 17:58:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NovasJourney
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 17.608547
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.12-22.58.35:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.12-22.58.35:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.12-22.58.35:127][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.12-22.58.35:243][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.12-22.58.35:243][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.12-22.58.35:245][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.12-22.58.35:265][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.12-22.58.35:265][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.12-22.58.35:337][  0]LogHAL: Display: Platform has ~ 12 GB [12777775104 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.12-22.58.35:337][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.12-22.58.35:337][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.12-22.58.35:337][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:337][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.12-22.58.35:337][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.12-22.58.35:337][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:337][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.12-22.58.35:337][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:337][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.12-22.58.35:337][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.12-22.58.35:337][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.12-22.58.35:338][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.12-22.58.35:339][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.12-22.58.35:339][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.12-22.58.35:339][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.12-22.58.35:350][  0]LogInit: Computer: DESKTOP-8LB3I6G
+[2020.01.12-22.58.35:350][  0]LogInit: User: dewil
+[2020.01.12-22.58.35:350][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.12-22.58.35:350][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.12-22.58.35:350][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.01.12-22.58.35:373][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.12-22.58.35:373][  0]LogMemory: Process Physical Memory: 97.40 MB used, 97.41 MB peak
+[2020.01.12-22.58.35:373][  0]LogMemory: Process Virtual Memory: 92.60 MB used, 92.60 MB peak
+[2020.01.12-22.58.35:373][  0]LogMemory: Physical Memory: 8775.41 MB used,  3410.42 MB free, 12185.84 MB total
+[2020.01.12-22.58.35:373][  0]LogMemory: Virtual Memory: 4645.83 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.01.12-22.58.38:237][  0]LogInit: Using OS detected language (en-US).
+[2020.01.12-22.58.38:237][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.12-22.58.38:286][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.12-22.58.40:665][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.12-22.58.42:093][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.12-22.58.42:093][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.12-22.58.46:646][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.12-22.58.46:646][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.12-22.58.48:552][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.01.12-22.58.48:552][  0]LogD3D11RHI:       128/0/6092 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.01.12-22.58.48:554][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.12-22.58.48:554][  0]LogD3D11RHI:       0/0/6092 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.12-22.58.48:554][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.12-22.58.48:578][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.12-22.58.48:578][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.12-22.58.48:599][  0]LogWindows: EnumDisplayDevices:
+[2020.01.12-22.58.48:599][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.01.12-22.58.48:600][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.01.12-22.58.48:600][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.01.12-22.58.48:600][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.01.12-22.58.48:600][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2020.01.12-22.58.48:600][  0]LogD3D11RHI:   Driver Version: 26.20.100.7262 (internal:26.20.100.7262, unified:26.20.100.7262)
+[2020.01.12-22.58.48:600][  0]LogD3D11RHI:      Driver Date: 9-25-2019
+[2020.01.12-22.58.48:600][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2020.01.12-22.58.48:699][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.12-22.58.48:866][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.12-22.58.48:866][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.12-22.58.48:866][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.12-22.58.48:922][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.01.12-22.58.51:851][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.12-22.58.51:922][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.12-22.58.52:023][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.12-22.58.52:038][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.12-22.58.52:190][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.12-22.58.52:472][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.12-22.58.52:640][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.12-22.58.52:748][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.12-22.58.52:847][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.12-22.58.53:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.12-22.58.53:185][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.12-22.58.53:525][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.12-22.58.53:525][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.12-22.58.53:586][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.12-22.58.53:586][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.12-22.58.53:701][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.12-22.58.53:791][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.12-22.58.53:894][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.12-22.58.54:014][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.12-22.58.54:264][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.12-22.58.54:264][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.12-22.58.54:265][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.12-22.58.54:620][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.12-22.58.58:187][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Intermediate/Shaders/WorkingDirectory/8624/).
+[2020.01.12-22.58.58:187][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dewil/AppData/Local/Temp/UnrealShaderWorkingDir/CAF9D9D74DB9E80EDA58F69943027A84/'.
+[2020.01.12-22.58.58:287][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.12-22.58.58:287][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.12-22.58.58:287][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.12-22.59.09:723][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.12-22.59.11:476][  0]LogDerivedDataCache: Loaded boot cache 1.73s 71MB C:/Users/dewil/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.12-22.59.11:476][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dewil/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.12-22.59.11:476][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.12-22.59.11:476][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.12-22.59.11:476][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.12-22.59.11:476][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.12-22.59.11:575][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.12-22.59.11:575][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.12-22.59.11:575][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.12-22.59.11:588][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dewil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.12-22.59.11:588][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.12-22.59.11:588][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.12-22.59.11:649][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.12-22.59.11:708][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.12-22.59.11:862][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.12-22.59.17:353][  0]LogAssetRegistry: FAssetRegistry took 0.0332 seconds to start up
+[2020.01.12-22.59.22:170][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.12-22.59.24:782][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.12-22.59.24:782][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.12-22.59.24:782][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.12-22.59.24:782][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.12-22.59.24:799][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.12-22.59.25:231][  0]LogNetVersion: NovasJourney 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 477171736)
+[2020.01.12-22.59.32:740][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.305285 seconds
+[2020.01.12-22.59.32:746][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.12-22.59.32:746][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.12-22.59.32:746][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.12-23.00.02:300][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.12-23.00.02:316][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.12-23.00.03:308][  0]SourceControl: Source control is disabled
+[2020.01.12-23.00.03:308][  0]SourceControl: Source control is disabled
+[2020.01.12-23.00.03:361][  0]SourceControl: Source control is disabled
+[2020.01.12-23.00.03:365][  0]SourceControl: Source control is disabled
+[2020.01.12-23.00.04:515][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.12-23.00.05:521][  0]LogOcInput: OculusInput pre-init called
+[2020.01.12-23.00.07:282][  0]LogEngine: Initializing Engine...
+[2020.01.12-23.00.07:310][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.12-23.00.07:329][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.017 s
+[2020.01.12-23.00.08:305][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.12-23.00.08:548][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.12-23.00.08:574][  0]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-23.00.10:100][  0]LogInit: FAudioDevice initialized.
+[2020.01.12-23.00.10:100][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.12-23.00.10:670][  0]LogDerivedDataCache: Saved boot cache 0.57s 71MB C:/Users/dewil/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.12-23.00.10:677][  0]LogInit: Texture streaming: Enabled
+[2020.01.12-23.00.10:917][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.12-23.00.11:198][  0]LogInit: Transaction tracking system initialized
+[2020.01.12-23.00.12:222][  0]BlueprintLog: New page: Editor Load
+[2020.01.12-23.00.13:796][  0]LocalizationService: Localization service is disabled
+[2020.01.12-23.00.18:175][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/' took 0.02s
+[2020.01.12-23.00.18:175][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.12-23.00.18:175][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.12-23.00.22:321][  0]SourceControl: Source control is disabled
+[2020.01.12-23.00.22:322][  0]Cmd: MAP LOAD FILE="../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/NovaTechConcept.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.12-23.00.22:331][  0]LightingResults: New page: Lighting Build
+[2020.01.12-23.00.22:349][  0]MapCheck: New page: Map Check
+[2020.01.12-23.00.22:350][  0]LightingResults: New page: Lighting Build
+[2020.01.12-23.00.22:372][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.01.12-23.00.28:241][  0]LogAIModule: Creating AISystem for world NovaTechConcept
+[2020.01.12-23.00.28:277][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.12-23.00.28:367][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.01.12-23.00.28:602][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.12-23.00.28:603][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.314ms to complete.
+[2020.01.12-23.00.28:603][  0]LogFileHelpers: Loading map 'NovaTechConcept' took 6.281
+[2020.01.12-23.00.31:779][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.12-23.00.32:465][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.00.32:481][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.00.32:487][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.00.32:495][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.00.32:769][  0]LogCollectionManager: Loaded 0 collections in 0.002023 seconds
+[2020.01.12-23.00.32:977][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Collections/' took 0.01s
+[2020.01.12-23.00.32:977][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Developers/dewil/Collections/' took 0.01s
+[2020.01.12-23.00.32:977][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Collections/' took 0.01s
+[2020.01.12-23.00.32:977][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.01.12-23.00.33:006][  0]LogContentBrowser: Native class hierarchy populated in 0.0288 seconds. Added 2735 classes and 661 folders.
+[2020.01.12-23.00.33:110][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.01.12-23.00.33:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:298][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:373][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:404][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:411][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:483][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:619][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:709][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:717][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.33:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-23.00.38:617][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.12-23.00.39:271][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.01.12-23.00.39:757][  0]LogSlate: Took 0.159726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.12-23.00.39:899][  0]LogSlate: Took 0.140953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.12-23.00.40:252][  0]LogSlate: Took 0.273321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.12-23.00.40:949][  0]LogRenderer: Reallocating scene render targets to support 828x460 Format 10 NumSamples 1 (Frame:1).
+[2020.01.12-23.00.41:558][  0]LogSlate: Took 0.072274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.12-23.00.42:109][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.01.12-23.00.42:109][  0]LogLoad: (Engine Initialization) Total time: 259.86 seconds
+[2020.01.12-23.00.42:109][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.12-23.00.42:898][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.12-23.00.43:194][  1]LogAssetRegistry: Asset discovery search completed in 85.8636 seconds
+[2020.01.12-23.00.43:196][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.01.12-23.00.43:196][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2020.01.12-23.00.43:795][  3]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.12-23.00.51:693][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.00.51:883][ 95]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/Character/Nova1.Nova1
+[2020.01.12-23.00.52:538][ 95]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.01.12-23.00.53:572][ 95]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/Objects/Barrel.Barrel
+[2020.01.12-23.00.53:969][ 95]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/AI/DashAI.DashAI
+[2020.01.12-23.00.54:295][ 95]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/SpawnedActors/BarrelLevel.BarrelLevel
+[2020.01.12-23.00.54:635][ 95]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/Objects/Push.Push
+[2020.01.12-23.00.54:968][ 95]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/AI/ShootAI.ShootAI
+[2020.01.12-23.00.55:306][ 95]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/Enemy_Anim/EnemyAnimations.EnemyAnimations
+[2020.01.12-23.00.55:330][ 95]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2020.01.12-23.00.55:330][ 95]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.01.12-23.00.55:554][ 95]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.00.55:558][ 95]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2020.01.12-23.00.55:558][ 95]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.01.12-23.00.55:825][ 95]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.00.56:050][ 95]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemy_Bullet1234.Enemy_Bullet1234
+[2020.01.12-23.00.56:379][ 95]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Animations/Enemy_Anim/Final_Idle_holding_Gun.Final_Idle_holding_Gun
+[2020.01.12-23.00.56:396][ 95]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.00.56:422][ 95]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.00.57:358][ 95]LogSlate: Took 0.022666 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.12-23.00.57:463][ 95]LogRenderer: Reallocating scene render targets to support 828x712 Format 10 NumSamples 1 (Frame:1).
+[2020.01.12-23.00.59:540][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.00.59:583][137]LogSlate: Took 0.035471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.12-23.01.17:752][168]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-23.01.17:788][168]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.12-23.01.17:789][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-23.01.17:868][168]PIE: New page: PIE session: NovaTechConcept (Jan 12, 2020, 1:01:17 PM)
+[2020.01.12-23.01.17:881][168]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept
+[2020.01.12-23.01.17:902][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020977s)
+[2020.01.12-23.01.17:902][168]LogAIModule: Creating AISystem for world NovaTechConcept
+[2020.01.12-23.01.17:902][168]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2020.01.12-23.01.17:902][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept to /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept.NovaTechConcept (0.022060s)
+[2020.01.12-23.01.17:973][168]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.01.12-23.01.17:976][168]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-23.01.18:057][168]LogInit: FAudioDevice initialized.
+[2020.01.12-23.01.18:089][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.01.18:145][168]LogLoad: Game class is 'NovasJourney_C'
+[2020.01.12-23.01.18:151][168]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept.NovaTechConcept up for play (max tick rate 60) at 2020.01.12-18.01.18
+[2020.01.12-23.01.18:153][168]LogWorld: Bringing up level for play took: 0.007039
+[2020.01.12-23.01.18:181][168]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.01.12-23.01.18:202][168]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.01.12-23.01.18:203][168]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.01.12-23.01.18:205][168]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.01.18:205][168]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.01.18:252][168]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept 0.522
+[2020.01.12-23.01.18:257][168]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.12-23.01.18:292][169]LogRenderer: Reallocating scene render targets to support 1016x712 Format 10 NumSamples 1 (Frame:1).
+[2020.01.12-23.01.20:098][200]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.01.20:149][201]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.01.20:199][202]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.01.20:199][202]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.01.20:988][217]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.01.21:764][232]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.01.21:923][235]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.01.21:924][235]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.01.21:976][236]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.01.22:091][238]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.01.23:333][262]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.01.24:470][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.12-23.01.24:583][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.01.24:623][285]LogSlate: Window 'NovasJourney Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.12-23.01.24:693][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-23.01.24:694][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.12-23.01.24:878][285]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2020.01.12-23.01.24:899][286]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.12-23.01.37:196][869]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.12-23.01.37:889][907]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.12-23.01.38:714][953]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.12-23.01.40:287][985]LogSlate: Window 'EnemyAnimations' being destroyed
+[2020.01.12-23.01.40:291][985]LogSlate: Window 'EnemyAnimations' being destroyed
+[2020.01.12-23.01.40:291][985]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.12-23.01.40:367][985]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.12-23.01.40:461][985]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.12-23.01.46:807][ 68]LogEditorViewport: Clicking on Actor (LMB): ShootAI_C (ShootAI)
+[2020.01.12-23.01.54:974][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.02.00:545][199]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/dewil/Downloads/AI_walk_gun_animation.fbx)
+[2020.01.12-23.02.00:608][199]LogFbx: Loading FBX Scene from ../../../../../../Users/dewil/Downloads/AI_walk_gun_animation.fbx
+[2020.01.12-23.02.00:653][199]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.12-23.02.07:745][199]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.12-23.02.07:790][199]LogFbx: =================================================
+[2020.01.12-23.02.07:790][199]LogFbx: Dumping Node START [CASSoldier] 
+[2020.01.12-23.02.07:790][199]LogFbx: 	Total Deformer Count -721688960.
+[2020.01.12-23.02.07:790][199]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.12-23.02.07:790][199]LogFbx: =================================================
+[2020.01.12-23.02.07:790][199]LogFbx: 	Attribute () Type (4).
+[2020.01.12-23.02.07:790][199]LogFbx: 		[Node Attribute Child 1] CASSoldier (Type Mesh).
+[2020.01.12-23.02.07:790][199]LogFbx: Dumping Node END [CASSoldier]
+[2020.01.12-23.02.07:791][199]LogFbx: =================================================
+[2020.01.12-23.02.07:791][199]LogFbx: Dumping Node START [CASSoldier] 
+[2020.01.12-23.02.07:791][199]LogFbx: 	Total Deformer Count -721688960.
+[2020.01.12-23.02.07:791][199]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.12-23.02.07:791][199]LogFbx: =================================================
+[2020.01.12-23.02.07:791][199]LogFbx: 	Attribute () Type (4).
+[2020.01.12-23.02.07:791][199]LogFbx: 		[Node Attribute Child 1] CASSoldier (Type Mesh).
+[2020.01.12-23.02.07:791][199]LogFbx: Dumping Node END [CASSoldier]
+[2020.01.12-23.02.07:792][199]LogFbx: Valid bind pose for Pose (skinCluster1) - CASSoldier
+[2020.01.12-23.02.07:967][199]LogMaterial: Warning: Material /Game/Animations/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.12-23.02.07:970][199]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.01.12-23.02.08:038][199]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.01.12-23.02.08:068][199]LogFbx: Triangulating skeletal mesh CASSoldier
+[2020.01.12-23.02.08:453][199]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.12-23.02.08:453][199]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.12-23.02.08:453][199]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.12-23.02.08:453][199]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.12-23.02.08:453][199]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.12-23.02.08:656][199]LogSkeletalMesh: Section 0: 3986 vertices, 20 active bones
+[2020.01.12-23.02.08:657][199]LogSkeletalMesh: Section 0: Material=0, 6958 triangles
+[2020.01.12-23.02.08:661][199]LogSkeletalMesh: Building Skeletal Mesh AI_walk_gun_animation...
+[2020.01.12-23.02.08:670][199]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Animations/AI_walk_gun_animation.AI_walk_gun_animation
+[2020.01.12-23.02.08:676][199]LogLinker: Can't find file '/Game/Animations/AI_walk_gun_animation_PhysicsAsset'
+[2020.01.12-23.02.08:676][199]LogLinker: Can't find file '/Game/Animations/AI_walk_gun_animation_PhysicsAsset'
+[2020.01.12-23.02.08:709][199]LogFbx: =================================================
+[2020.01.12-23.02.08:709][199]LogFbx: Dumping Node START [CASSoldier] 
+[2020.01.12-23.02.08:709][199]LogFbx: 	Total Deformer Count 129199680.
+[2020.01.12-23.02.08:709][199]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.12-23.02.08:709][199]LogFbx: =================================================
+[2020.01.12-23.02.08:709][199]LogFbx: 	Attribute () Type (4).
+[2020.01.12-23.02.08:709][199]LogFbx: 		[Node Attribute Child 1] CASSoldier (Type Mesh).
+[2020.01.12-23.02.08:709][199]LogFbx: Dumping Node END [CASSoldier]
+[2020.01.12-23.02.08:709][199]LogFbx: =================================================
+[2020.01.12-23.02.08:709][199]LogFbx: Dumping Node START [CASSoldier] 
+[2020.01.12-23.02.08:709][199]LogFbx: 	Total Deformer Count 129199680.
+[2020.01.12-23.02.08:710][199]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.12-23.02.08:710][199]LogFbx: =================================================
+[2020.01.12-23.02.08:710][199]LogFbx: 	Attribute () Type (4).
+[2020.01.12-23.02.08:710][199]LogFbx: 		[Node Attribute Child 1] CASSoldier (Type Mesh).
+[2020.01.12-23.02.08:710][199]LogFbx: Dumping Node END [CASSoldier]
+[2020.01.12-23.02.08:711][199]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.12-23.02.08:712][199]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
+[2020.01.12-23.02.08:713][199]LogFbx: Parsing AnimStack Take 001
+[2020.01.12-23.02.08:714][199]LogLinker: Can't find file '/Game/Animations/AI_walk_gun_animation_Anim'
+[2020.01.12-23.02.08:715][199]LogLinker: Can't find file '/Game/Animations/AI_walk_gun_animation_Anim'
+[2020.01.12-23.02.08:799][199]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AI_walk_gun_animation_Anim.AI_walk_gun_animation_Anim
+[2020.01.12-23.02.08:800][199]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AI_walk_gun_animation_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.12-23.02.08:806][199]LogSkeletalMesh: Building Skeletal Mesh AI_walk_gun_animation...
+[2020.01.12-23.02.08:820][199]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Animations/AI_walk_gun_animation.AI_walk_gun_animation
+[2020.01.12-23.02.08:839][199]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.12-23.02.08:841][199]LogSkeletalMesh: Building Skeletal Mesh AI_walk_gun_animation...
+[2020.01.12-23.02.08:852][199]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Animations/AI_walk_gun_animation.AI_walk_gun_animation
+[2020.01.12-23.02.13:781][243]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.12-23.02.14:339][248]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.12-23.02.31:047][481]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/AI/ShootAI.ShootAI
+[2020.01.12-23.02.33:692][538]LogSlate: Window 'ShootAI' being destroyed
+[2020.01.12-23.02.39:321][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-23.02.46:962][ 21]BlueprintLog: New page: Compile ShootAI
+[2020.01.12-23.02.47:407][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.01.12-23.02.52:234][112]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/Enemy_Anim/EnemyAnimations.EnemyAnimations
+[2020.01.12-23.02.52:270][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.02.52:635][112]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.02.53:232][112]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.03.07:728][565]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AIAnimations.AIAnimations
+[2020.01.12-23.03.07:777][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.03.08:205][565]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.03.08:934][565]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.03.35:840][702]BlueprintLog: New page: Compile EnemyAnimations
+[2020.01.12-23.03.36:156][702]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.01.12-23.03.47:511][107]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-23.03.47:547][107]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.12-23.03.47:547][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-23.03.47:548][107]PIE: New page: PIE session: NovaTechConcept (Jan 12, 2020, 1:03:47 PM)
+[2020.01.12-23.03.47:548][107]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept
+[2020.01.12-23.03.47:577][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029188s)
+[2020.01.12-23.03.47:577][107]LogAIModule: Creating AISystem for world NovaTechConcept
+[2020.01.12-23.03.47:578][107]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2020.01.12-23.03.47:578][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept to /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept.NovaTechConcept (0.029958s)
+[2020.01.12-23.03.47:614][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.01.12-23.03.47:618][107]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-23.03.47:701][107]LogInit: FAudioDevice initialized.
+[2020.01.12-23.03.47:710][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.03.47:740][107]LogLoad: Game class is 'NovasJourney_C'
+[2020.01.12-23.03.47:747][107]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept.NovaTechConcept up for play (max tick rate 60) at 2020.01.12-18.03.47
+[2020.01.12-23.03.47:750][107]LogWorld: Bringing up level for play took: 0.008405
+[2020.01.12-23.03.47:764][107]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.03.47:764][107]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.03.47:767][107]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept 0.038
+[2020.01.12-23.03.47:767][107]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.12-23.03.49:611][149]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.03.49:652][150]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.03.49:773][153]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.03.50:682][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.12-23.03.50:683][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.03.50:724][174]LogSlate: Window 'NovasJourney Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.12-23.03.50:799][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-23.03.50:799][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.12-23.03.50:884][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.01.12-23.03.50:984][175]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.01.12-23.04.42:480][225]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animations/AI_walk_gun_animation_Anim.AI_walk_gun_animation_Anim
+[2020.01.12-23.04.42:560][225]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2020.01.12-23.04.42:583][225]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.04.42:859][225]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.04.43:663][225]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.04.46:117][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.01.12-23.04.46:188][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.01.12-23.04.46:761][313]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/NovaTechConcept7CE3E2D343A1E0A48D6FEFA90EDC6B2E.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/NovaTechConcept.umap'
+[2020.01.12-23.04.46:794][313]LogFileHelpers: Saving map 'NovaTechConcept' took 0.651
+[2020.01.12-23.04.46:827][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Actors/AI/ShootAI" FILE="../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Actors/AI/ShootAI.uasset" SILENT=true
+[2020.01.12-23.04.47:025][313]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/ShootAI1A291D34412D434B49DE049330E81211.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Actors/AI/ShootAI.uasset'
+[2020.01.12-23.04.47:127][313]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/EnemyAnimations43626F28409AC2E0E06DF7831EDC32FE.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/EnemyAnimations.uasset'
+[2020.01.12-23.04.47:183][313]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_walk_gun_animation346B75314DA4A8BD76FA91B645645851.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/AI_walk_gun_animation.uasset'
+[2020.01.12-23.04.47:218][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/lambert2" FILE="../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/lambert2.uasset" SILENT=true
+[2020.01.12-23.04.47:233][313]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/lambert23CD6F83A4EDBFBC450EFB8A923B1A788.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/lambert2.uasset'
+[2020.01.12-23.04.47:313][313]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_walk_gun_animation_PhysicsAss66A7D88C456AD4C9C2B2FC8146FD85AC.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/AI_walk_gun_animation_PhysicsAsset.uasset'
+[2020.01.12-23.04.47:362][313]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_walk_gun_animation_Anim12651CC948C461BE914069A52679856A.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/AI_walk_gun_animation_Anim.uasset'
+[2020.01.12-23.06.04:831][640]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.01.12-23.06.06:395][640]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.12-23.06.07:072][640]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Animations/AI_walk_gun_animation_Anim1.AI_walk_gun_animation_Anim1
+[2020.01.12-23.06.08:928][640]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.01.12-23.06.26:942][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/AIShoot_WalkAnim" FILE="../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/AIShoot_WalkAnim.uasset" SILENT=true
+[2020.01.12-23.06.26:969][903]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/AIShoot_WalkAnim2011944942E22E65A086B0BF761F6E8E.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/AIShoot_WalkAnim.uasset'
+[2020.01.12-23.06.27:189][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.01.12-23.06.27:230][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.01.12-23.06.27:264][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.01.12-23.06.35:774][160]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animations/AIShoot_WalkAnim.AIShoot_WalkAnim
+[2020.01.12-23.06.35:803][160]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.06.35:840][160]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.06.36:346][160]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.06.38:774][213]LogSlate: Window 'AIShoot_WalkAnim' being destroyed
+[2020.01.12-23.06.57:381][518]LogSlate: Window 'Create New Animation Object' being destroyed
+[2020.01.12-23.06.57:388][518]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/ShootWalk'
+[2020.01.12-23.06.57:389][518]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/ShootWalk'
+[2020.01.12-23.07.08:153][877]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Enemy_Anim/ShootWalk.ShootWalk
+[2020.01.12-23.07.08:154][877]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ShootWalk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.12-23.07.42:272][377]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.01.12-23.07.43:372][377]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.12-23.07.43:573][377]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Animations/Enemy_Anim/ShootWalk.ShootWalk
+[2020.01.12-23.07.43:914][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.01.12-23.07.47:582][437]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animations/AIShoot_WalkAnim.AIShoot_WalkAnim
+[2020.01.12-23.07.47:652][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.07.47:701][437]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.07.48:209][437]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.07.50:059][478]LogSlate: Window 'AIShoot_WalkAnim' being destroyed
+[2020.01.12-23.08.04:023][808]LogSlate: Window 'Create New Animation Object' being destroyed
+[2020.01.12-23.08.07:499][926]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Enemy_Anim/ShootWalk.ShootWalk
+[2020.01.12-23.08.07:501][926]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ShootWalk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.12-23.08.25:074][417]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/Enemy_Anim/EnemyAnimations.EnemyAnimations
+[2020.01.12-23.08.25:113][417]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.08.25:507][417]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.08.25:983][417]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.08.32:128][714]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.01.12-23.08.33:375][773]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.08.58:492][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ShootWalk" FILE="../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/ShootWalk.uasset" SILENT=true
+[2020.01.12-23.08.58:509][807]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/ShootWalk662C67F3499C7E322665EDB30BF9C56F.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/ShootWalk.uasset'
+[2020.01.12-23.08.58:670][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.01.12-23.08.58:709][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.01.12-23.08.58:743][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.01.12-23.09.16:116][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.09.21:593][778]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Animations/Nova_final_runcycle_Skeleton.Nova_final_runcycle_Skeleton
+[2020.01.12-23.09.21:702][778]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.09.21:835][778]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.09.37:714][357]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Animations/Nova_final_runcycleOLD.Nova_final_runcycleOLD
+[2020.01.12-23.09.37:737][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.09.37:787][357]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.10.00:386][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.01.12-23.10.05:146][976]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.12-23.10.19:917][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.01.12-23.10.21:883][283]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.12-23.10.22:089][283]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AIAnimations.AIAnimations
+[2020.01.12-23.10.22:880][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.01.12-23.10.22:909][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.01.12-23.10.22:935][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.01.12-23.10.35:661][650]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.01.12-23.10.40:801][650]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.01.12-23.10.52:193][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.01.12-23.10.53:314][794]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/NovasJourney.ZActor'
+[2020.01.12-23.10.53:314][794]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2020.01.12-23.10.57:409][794]LogSlate: Window 'Replace References?' being destroyed
+[2020.01.12-23.10.57:415][794]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.12-23.10.58:222][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.01.12-23.10.58:661][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.01.12-23.10.59:972][794]LogSlate: Window 'Save Content' being destroyed
+[2020.01.12-23.11.00:028][794]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/EnemyAnimations1D6016A44569FD314AF9AEB28BA5B401.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/EnemyAnimations.uasset'
+[2020.01.12-23.11.00:036][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Actors/AI/ShootAI" FILE="../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Actors/AI/ShootAI.uasset" SILENT=true
+[2020.01.12-23.11.00:110][794]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/ShootAIBBF252D64B807EB57945419ECB4E5B3A.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Actors/AI/ShootAI.uasset'
+[2020.01.12-23.11.00:143][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.01.12-23.11.00:498][794]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/NovaTechConceptAF2D8CA84E32F5E309FFCAA90568A501.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/NovaTechConcept.umap'
+[2020.01.12-23.11.00:534][794]LogFileHelpers: Saving map 'NovaTechConcept' took 0.416
+[2020.01.12-23.11.01:577][807]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/Enemy_Anim/AIAnimations.AIAnimations
+[2020.01.12-23.11.01:633][807]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.01:902][807]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.11.02:394][807]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.11.04:353][849]LogSlate: Window 'AIAnimations' being destroyed
+[2020.01.12-23.11.18:742][385]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/NovaAnimations.NovaAnimations
+[2020.01.12-23.11.18:774][385]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.19:156][385]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.11.19:666][385]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.11.50:437][620]LogEditorTransaction: Undo Create Pin Link
+[2020.01.12-23.11.50:741][620]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.50:745][620]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.51:338][643]LogEditorTransaction: Undo Move Node
+[2020.01.12-23.11.51:612][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.51:614][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.52:216][667]LogEditorTransaction: Undo Delete current selection
+[2020.01.12-23.11.52:478][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.52:480][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.53:826][725]LogEditorTransaction: Redo Delete current selection
+[2020.01.12-23.11.54:131][725]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.54:132][725]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.54:135][725]LogEditorTransaction: Redo Move Node
+[2020.01.12-23.11.54:337][725]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.54:337][725]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.54:340][725]LogEditorTransaction: Redo Create Pin Link
+[2020.01.12-23.11.54:535][725]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.54:536][725]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.11.57:081][826]BlueprintLog: New page: Compile AIAnimations
+[2020.01.12-23.11.57:086][826]LogBlueprint: Warning: [Compiler AIAnimations] Could not find a variable named "IsinAir" in 'AIAnimations_C'.
+Make sure 'AIAnimations_C' has been compiled for  Set IsinAir
+[2020.01.12-23.11.57:086][826]LogBlueprint: Warning: [Compiler AIAnimations] Could not find a variable named "Speed" in 'AIAnimations_C'.
+Make sure 'AIAnimations_C' has been compiled for  Set Speed
+[2020.01.12-23.11.57:093][826]LogBlueprint: Warning: [Compiler AIAnimations] Could not find a variable named "IsinAir" in 'AIAnimations_C'.
+Make sure 'AIAnimations_C' has been compiled for  Set IsinAir
+[2020.01.12-23.11.57:093][826]LogBlueprint: Warning: [Compiler AIAnimations] Could not find a variable named "Speed" in 'AIAnimations_C'.
+Make sure 'AIAnimations_C' has been compiled for  Set Speed
+[2020.01.12-23.11.57:095][826]LogBlueprint: Error: [Compiler AIAnimations] The property associated with  Isin Air  could not be found in '/Game/Animations/Enemy_Anim/AIAnimations.AIAnimations_C'
+[2020.01.12-23.11.57:095][826]LogBlueprint: Error: [Compiler AIAnimations] The property associated with  Speed  could not be found in '/Game/Animations/Enemy_Anim/AIAnimations.AIAnimations_C'
+[2020.01.12-23.11.57:346][826]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.01.12-23.11.57:366][826]LogBlueprint: Warning: [Compiler AIAnimations] [0935.11] Compile of AIAnimations failed. 2 Fatal Issue(s) 4 Warning(s) [in 285 ms] (/Game/Animations/Enemy_Anim/AIAnimations.AIAnimations)
+[2020.01.12-23.12.08:667][320]LogSlate: Took 0.025702 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.12-23.12.11:021][370]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.01.12-23.12.27:375][ 86]BlueprintLog: New page: Compile AIAnimations
+[2020.01.12-23.12.27:380][ 86]LogBlueprint: Warning: [Compiler AIAnimations] Could not find a variable named "IsinAir" in 'AIAnimations_C'.
+Make sure 'AIAnimations_C' has been compiled for  Set IsinAir
+[2020.01.12-23.12.27:388][ 86]LogBlueprint: Warning: [Compiler AIAnimations] Could not find a variable named "IsinAir" in 'AIAnimations_C'.
+Make sure 'AIAnimations_C' has been compiled for  Set IsinAir
+[2020.01.12-23.12.27:390][ 86]LogBlueprint: Error: [Compiler AIAnimations] The property associated with  Isin Air  could not be found in '/Game/Animations/Enemy_Anim/AIAnimations.AIAnimations_C'
+[2020.01.12-23.12.27:677][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.01.12-23.12.27:699][ 86]LogBlueprint: Warning: [Compiler AIAnimations] [0965.45] Compile of AIAnimations failed. 1 Fatal Issue(s) 2 Warning(s) [in 323 ms] (/Game/Animations/Enemy_Anim/AIAnimations.AIAnimations)
+[2020.01.12-23.12.42:184][698]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.01.12-23.12.49:523][  1]BlueprintLog: New page: Compile AIAnimations
+[2020.01.12-23.12.49:774][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.01.12-23.13.36:297][978]BlueprintLog: New page: Compile AIAnimations
+[2020.01.12-23.13.36:307][978]LogBlueprint: Error: [Compiler AIAnimations] Blendspace Player 'Idle_Run_Anim'  references blendspace that uses different skeleton  Nova_final_runcycle_Skeleton
+[2020.01.12-23.13.36:308][978]LogBlueprint: Error: [Compiler AIAnimations] Play JumpTransition  references sequence that uses different skeleton  Nova_final_runcycle_Skeleton
+[2020.01.12-23.13.36:309][978]LogBlueprint: Error: [Compiler AIAnimations] Play Nova_final_pushcycle_Anim  references sequence that uses different skeleton  Nova_final_runcycle_Skeleton
+[2020.01.12-23.13.36:310][978]LogBlueprint: Error: [Compiler AIAnimations] Play AimingAnim  references sequence that uses different skeleton  Nova_final_runcycle_Skeleton
+[2020.01.12-23.13.36:312][978]LogBlueprint: Error: [Compiler AIAnimations] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.12-23.13.36:312][978]LogBlueprint: Error: [Compiler AIAnimations] Missing allocated node for AnimGraphNode_SequencePlayer_3 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.12-23.13.36:312][978]LogBlueprint: Error: [Compiler AIAnimations] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.12-23.13.36:312][978]LogBlueprint: Error: [Compiler AIAnimations] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.12-23.13.36:557][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.01.12-23.13.36:577][978]LogBlueprint: Warning: [Compiler AIAnimations] [1034.32] Compile of AIAnimations failed. 8 Fatal Issue(s) 0 Warning(s) [in 279 ms] (/Game/Animations/Enemy_Anim/AIAnimations.AIAnimations)
+[2020.01.12-23.14.03:692][ 61]LogEditorTransaction: Undo Move Node
+[2020.01.12-23.14.04:036][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.14.04:043][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.14.04:598][ 83]LogEditorTransaction: Undo Create Pin Link
+[2020.01.12-23.14.04:829][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.14.04:832][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.14.05:377][106]LogEditorTransaction: Undo Add Node
+[2020.01.12-23.14.05:633][106]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.14.05:636][106]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.14.15:524][562]LogEditorTransaction: Undo Delete current selection
+[2020.01.12-23.14.15:863][562]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.14.15:866][562]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.14.32:555][327]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Animations/Idle_Run_Anim.Idle_Run_Anim
+[2020.01.12-23.14.32:586][327]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.14.32:638][327]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.14.33:271][327]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.14.52:275][957]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.01.12-23.14.57:660][ 29]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Animations/Enemy_Anim/Movement.Movement
+[2020.01.12-23.14.57:721][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.14.57:747][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.15.01:716][ 29]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.15.07:973][225]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Movement5DD9253D44F676D50F711BBC0C58B1E6.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/Movement.uasset'
+[2020.01.12-23.15.30:835][961]LogEditorTransaction: Undo Create Pin Link
+[2020.01.12-23.15.31:269][961]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.31:273][961]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.31:291][961]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.31:292][961]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.31:298][961]LogEditorTransaction: Undo Move Node
+[2020.01.12-23.15.31:634][961]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.31:636][961]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.31:638][961]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.31:638][961]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.32:928][996]LogEditorTransaction: Undo Add Node
+[2020.01.12-23.15.33:338][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.33:341][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.33:342][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.33:343][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.34:000][ 19]LogEditorTransaction: Undo Delete current selection
+[2020.01.12-23.15.34:553][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.34:556][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.34:557][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.34:558][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.37:463][ 83]LogEditorTransaction: Redo Delete current selection
+[2020.01.12-23.15.37:850][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.37:851][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.37:852][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.37:853][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.37:956][ 85]LogEditorTransaction: Redo Add Node
+[2020.01.12-23.15.38:325][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.38:326][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.38:328][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.38:329][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.38:332][ 85]LogEditorTransaction: Redo Move Node
+[2020.01.12-23.15.38:684][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.38:685][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.38:687][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.38:687][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.39:970][ 88]LogEditorTransaction: Redo Create Pin Link
+[2020.01.12-23.15.40:363][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.40:365][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.40:366][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.15.40:367][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.16.04:696][693]BlueprintLog: New page: Compile AIAnimations
+[2020.01.12-23.16.04:957][693]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.01.12-23.16.08:654][838]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-23.16.08:693][838]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.12-23.16.08:693][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-23.16.08:693][838]PIE: New page: PIE session: NovaTechConcept (Jan 12, 2020, 1:16:08 PM)
+[2020.01.12-23.16.08:693][838]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept
+[2020.01.12-23.16.08:873][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178913s)
+[2020.01.12-23.16.08:874][838]LogAIModule: Creating AISystem for world NovaTechConcept
+[2020.01.12-23.16.08:874][838]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2020.01.12-23.16.08:874][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept to /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept.NovaTechConcept (0.180032s)
+[2020.01.12-23.16.08:918][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.01.12-23.16.08:922][838]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-23.16.09:021][838]LogInit: FAudioDevice initialized.
+[2020.01.12-23.16.09:066][838]LogLoad: Game class is 'NovasJourney_C'
+[2020.01.12-23.16.09:072][838]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept.NovaTechConcept up for play (max tick rate 60) at 2020.01.12-18.16.09
+[2020.01.12-23.16.09:074][838]LogWorld: Bringing up level for play took: 0.006857
+[2020.01.12-23.16.09:089][838]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.16.09:089][838]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.16.09:094][838]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept 1.365
+[2020.01.12-23.16.09:094][838]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.12-23.16.09:108][839]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.058036 > MaxSimulationTimeStep (0.050) for 'Nova1_C_0', movement 'Walking'
+[2020.01.12-23.16.10:993][895]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.16.10:994][895]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.16.11:059][897]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.16.11:093][898]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.16.12:424][935]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.16.13:640][966]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.16.14:854][  0]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.16.16:060][ 34]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.16.17:275][ 68]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.16.17:702][ 80]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.16.18:517][103]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.16.19:761][138]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.16.20:989][171]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.16.21:684][189]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.16.22:065][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.12-23.16.22:065][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.16.22:166][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-23.16.22:166][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.12-23.16.22:231][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.16.22:240][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.01.12-23.16.22:275][200]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.01.12-23.16.27:532][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.21.06:079][154]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.01.12-23.21.06:080][154]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Levels/Maps/NovaTechConcept' took 0.079
+[2020.01.12-23.21.06:122][154]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Enemy_Anim/AIAnimations] ([1] browsable assets)...
+[2020.01.12-23.21.06:165][154]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animations/Enemy_Anim/AIAnimations.AIAnimations]
+[2020.01.12-23.21.06:165][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Enemy_Anim/AIAnimations]
+[2020.01.12-23.21.06:285][154]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/AIAnimations_Auto1E04B312248F578213300918225B94857.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Enemy_Anim/AIAnimations_Auto1.uasset'
+[2020.01.12-23.21.06:286][154]LogFileHelpers: Auto-saving content packages took 0.205
+[2020.01.12-23.21.14:891][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.01.12-23.21.19:153][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.21.43:826][527]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.01.12-23.21.43:852][527]LogMaterial: Warning: C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Content\Content\Models_And_Textures\Materials\lambert2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.12-23.21.43:852][527]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Content/Models_And_Textures/Textures/panels8_lambert2_BaseColor.panels8_lambert2_BaseColor
+[2020.01.12-23.21.43:852][527]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Content/Models_And_Textures/Textures/panels8_lambert2_OcclusionRoughnessMetallic.panels8_lambert2_OcclusionRoughnessMetallic
+[2020.01.12-23.21.45:708][527]LogAIModule: Creating AISystem for world NOVA_Level_VS1
+[2020.01.12-23.21.46:060][527]LogAssetEditorManager: Opening Asset editor for World /Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1
+[2020.01.12-23.21.46:581][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.01.12-23.21.51:943][527]LogSlate: Window 'Save Content' being destroyed
+[2020.01.12-23.21.51:984][527]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/AIAnimations0E3060894E3553312EBF28901119C107.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AIAnimations.uasset'
+[2020.01.12-23.21.52:151][527]Cmd: MAP LOAD FILE="../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/NOVA_Level_VS1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.12-23.21.52:159][527]LightingResults: New page: Lighting Build
+[2020.01.12-23.21.52:161][527]LoadErrors: New page: Loading map: NOVA_Level_VS1.umap
+[2020.01.12-23.21.52:173][527]MapCheck: New page: Map Check
+[2020.01.12-23.21.52:173][527]LightingResults: New page: Lighting Build
+[2020.01.12-23.21.52:212][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.01.12-23.21.52:786][527]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.01.12-23.21.53:189][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.01.12-23.21.53:221][527]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.12-23.21.53:563][527]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 143.51ms to complete.
+[2020.01.12-23.21.53:564][527]LogFileHelpers: Loading map 'NOVA_Level_VS1' took 1.577
+[2020.01.12-23.22.02:409][576]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (PanelsNJ_polySurface81)
+[2020.01.12-23.22.04:004][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-23.22.04:045][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PanelsNJ_polySurface272)
+[2020.01.12-23.22.07:415][578]LogEditorViewport: Clicking on Actor (LMB): BarrelLevel_C (BarrelLevel2)
+[2020.01.12-23.22.09:950][596]LogEditorViewport: Clicking on Actor (LMB): BarrelLevel_C (BarrelLevel2)
+[2020.01.12-23.22.23:443][789]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-23.22.23:594][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1' with GeneratedClass '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1'
+[2020.01.12-23.22.23:594][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-23.22.23:595][789]PIE: New page: PIE session: NOVA_Level_VS1 (Jan 12, 2020, 1:22:23 PM)
+[2020.01.12-23.22.23:595][789]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1
+[2020.01.12-23.22.23:807][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.212649s)
+[2020.01.12-23.22.23:808][789]LogAIModule: Creating AISystem for world NOVA_Level_VS1
+[2020.01.12-23.22.23:826][789]LogPlayLevel: PIE: World Init took: (0.017603s)
+[2020.01.12-23.22.23:827][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1 to /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1.NOVA_Level_VS1 (0.232148s)
+[2020.01.12-23.22.23:858][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.01.12-23.22.23:862][789]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-23.22.24:017][789]LogInit: FAudioDevice initialized.
+[2020.01.12-23.22.24:017][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-23.22.24:050][789]LogLoad: Game class is 'NovasJourney_C'
+[2020.01.12-23.22.24:115][789]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1.NOVA_Level_VS1 up for play (max tick rate 60) at 2020.01.12-18.22.24
+[2020.01.12-23.22.24:121][789]LogWorld: Bringing up level for play took: 0.068845
+[2020.01.12-23.22.24:134][789]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.22.24:134][789]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.22.24:139][789]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1 0.41
+[2020.01.12-23.22.24:139][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1' with GeneratedClass '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1'
+[2020.01.12-23.22.37:863][ 18]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.22.42:186][ 73]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (47.545 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.12-23.22.45:468][106]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.22.45:562][107]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.22.45:562][107]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.22.45:563][107]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.22.49:170][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1' with GeneratedClass '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1'
+[2020.01.12-23.22.49:170][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.22.49:310][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-23.22.49:312][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1' with GeneratedClass '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1'
+[2020.01.12-23.22.49:401][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.22.49:417][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.01.12-23.22.49:452][149]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2020.01.12-23.22.51:314][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.22.58:912][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.23.01:916][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.23.08:678][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.23.11:825][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.23.16:181][474]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.01.12-23.23.32:444][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.24.13:787][231]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-23.24.13:828][231]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1' with GeneratedClass '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1'
+[2020.01.12-23.24.13:829][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-23.24.13:829][231]PIE: New page: PIE session: NOVA_Level_VS1 (Jan 12, 2020, 1:24:13 PM)
+[2020.01.12-23.24.13:830][231]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1
+[2020.01.12-23.24.14:117][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.286138s)
+[2020.01.12-23.24.14:118][231]LogAIModule: Creating AISystem for world NOVA_Level_VS1
+[2020.01.12-23.24.14:118][231]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2020.01.12-23.24.14:119][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1 to /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1.NOVA_Level_VS1 (0.287959s)
+[2020.01.12-23.24.14:157][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.01.12-23.24.14:161][231]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-23.24.14:263][231]LogInit: FAudioDevice initialized.
+[2020.01.12-23.24.14:263][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-23.24.14:292][231]LogLoad: Game class is 'NovasJourney_C'
+[2020.01.12-23.24.14:362][231]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1.NOVA_Level_VS1 up for play (max tick rate 60) at 2020.01.12-18.24.14
+[2020.01.12-23.24.14:395][231]LogWorld: Bringing up level for play took: 0.101100
+[2020.01.12-23.24.14:408][231]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.24.14:409][231]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.24.14:413][231]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1 0.683
+[2020.01.12-23.24.14:413][231]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1' with GeneratedClass '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1'
+[2020.01.12-23.24.18:212][280]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.24.25:369][358]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.24.25:469][359]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.24.25:469][359]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.24.25:572][360]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.24.28:738][399]LogBlueprintUserMessages: [ShootAI2_5] Shots fired
+[2020.01.12-23.24.29:353][408]LogScript: Warning: Accessed None trying to read property K2Node_Event_OtherActor
+	Push_C /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.Push_C_0
+	Function /Game/Content/Actors/Objects/Push.Push_C:ExecuteUbergraph_Push:0365
+[2020.01.12-23.24.29:354][408]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_OtherActor". Blueprint:  Push Function:  Execute Ubergraph Push Graph:  EventGraph Node:  Launch Character
+[2020.01.12-23.24.29:863][415]LogBlueprintUserMessages: [ShootAI2_5] Shots fired
+[2020.01.12-23.24.30:443][424]LogBlueprintUserMessages: [Nova1_C_0] Play Drain Animation
+[2020.01.12-23.24.31:152][435]LogBlueprintUserMessages: [ShootAI2_5] Shots fired
+[2020.01.12-23.24.32:282][452]LogScript: Warning: Accessed None trying to read property K2Node_Event_OtherActor
+	Push_C /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.Push_C_1
+	Function /Game/Content/Actors/Objects/Push.Push_C:ExecuteUbergraph_Push:0365
+[2020.01.12-23.24.32:283][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_OtherActor". Blueprint:  Push Function:  Execute Ubergraph Push Graph:  EventGraph Node:  Launch Character
+[2020.01.12-23.24.32:513][452]LogBlueprintUserMessages: [ShootAI2_5] Enemy Defeated!
+[2020.01.12-23.24.34:737][487]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.24.36:012][508]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.24.37:299][530]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.24.38:520][551]LogBlueprintUserMessages: [ShootAI_2] Shots fired
+[2020.01.12-23.24.38:795][556]LogScript: Warning: Accessed None trying to read property K2Node_Event_OtherActor
+	Push_C /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.Push_C_2
+	Function /Game/Content/Actors/Objects/Push.Push_C:ExecuteUbergraph_Push:0365
+[2020.01.12-23.24.38:796][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_OtherActor". Blueprint:  Push Function:  Execute Ubergraph Push Graph:  EventGraph Node:  Launch Character
+[2020.01.12-23.24.38:797][556]LogBlueprintUserMessages: [ShootAI_2] Enemy Defeated!
+[2020.01.12-23.24.40:275][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1' with GeneratedClass '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1'
+[2020.01.12-23.24.40:276][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.24.40:439][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-23.24.40:440][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1' with GeneratedClass '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1'
+[2020.01.12-23.24.40:512][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.24.40:532][582]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.01.12-23.24.40:597][583]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.01.12-23.25.15:457][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.25.20:268][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-23.25.27:377][897]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-23.25.27:676][897]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/dewil/Downloads/Final_Idle_holding_Gun.fbx)
+[2020.01.12-23.25.27:909][897]LogFbx: Loading FBX Scene from ../../../../../../Users/dewil/Downloads/Final_Idle_holding_Gun.fbx
+[2020.01.12-23.25.28:047][897]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.12-23.25.54:108][897]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.12-23.25.54:262][897]LogFbx: =================================================
+[2020.01.12-23.25.54:263][897]LogFbx: Dumping Node START [CASSoldier] 
+[2020.01.12-23.25.54:263][897]LogFbx: 	Total Deformer Count -1714898688.
+[2020.01.12-23.25.54:263][897]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.12-23.25.54:263][897]LogFbx: =================================================
+[2020.01.12-23.25.54:263][897]LogFbx: 	Attribute () Type (4).
+[2020.01.12-23.25.54:263][897]LogFbx: 		[Node Attribute Child 1] CASSoldier (Type Mesh).
+[2020.01.12-23.25.54:263][897]LogFbx: Dumping Node END [CASSoldier]
+[2020.01.12-23.25.54:263][897]LogFbx: =================================================
+[2020.01.12-23.25.54:263][897]LogFbx: Dumping Node START [CASSoldier] 
+[2020.01.12-23.25.54:263][897]LogFbx: 	Total Deformer Count -1714898688.
+[2020.01.12-23.25.54:263][897]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.12-23.25.54:263][897]LogFbx: =================================================
+[2020.01.12-23.25.54:263][897]LogFbx: 	Attribute () Type (4).
+[2020.01.12-23.25.54:263][897]LogFbx: 		[Node Attribute Child 1] CASSoldier (Type Mesh).
+[2020.01.12-23.25.54:263][897]LogFbx: Dumping Node END [CASSoldier]
+[2020.01.12-23.25.54:290][897]LogFbx: Valid bind pose for Pose (skinCluster1) - CASSoldier
+[2020.01.12-23.25.54:305][897]LogMaterial: Warning: Material /Game/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.12-23.25.54:341][897]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.01.12-23.25.54:381][897]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.12-23.25.54:382][897]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.12-23.25.54:382][897]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.12-23.25.54:382][897]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.12-23.25.54:382][897]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.01.12-23.25.54:463][897]LogFbx: Triangulating skeletal mesh CASSoldier
+[2020.01.12-23.25.54:922][897]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.12-23.25.56:192][897]LogSkeletalMesh: Section 0: 3986 vertices, 20 active bones
+[2020.01.12-23.25.56:193][897]LogSkeletalMesh: Section 0: Material=0, 6958 triangles
+[2020.01.12-23.25.56:275][897]LogSkeletalMesh: Building Skeletal Mesh Final_Idle_holding_Gun...
+[2020.01.12-23.25.56:334][897]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Final_Idle_holding_Gun.Final_Idle_holding_Gun
+[2020.01.12-23.25.56:426][897]LogLinker: Can't find file '/Game/Final_Idle_holding_Gun_PhysicsAsset'
+[2020.01.12-23.25.56:426][897]LogLinker: Can't find file '/Game/Final_Idle_holding_Gun_PhysicsAsset'
+[2020.01.12-23.25.56:568][897]LogFbx: =================================================
+[2020.01.12-23.25.56:568][897]LogFbx: Dumping Node START [CASSoldier] 
+[2020.01.12-23.25.56:568][897]LogFbx: 	Total Deformer Count -1621399232.
+[2020.01.12-23.25.56:568][897]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.12-23.25.56:568][897]LogFbx: =================================================
+[2020.01.12-23.25.56:568][897]LogFbx: 	Attribute () Type (4).
+[2020.01.12-23.25.56:568][897]LogFbx: 		[Node Attribute Child 1] CASSoldier (Type Mesh).
+[2020.01.12-23.25.56:568][897]LogFbx: Dumping Node END [CASSoldier]
+[2020.01.12-23.25.56:568][897]LogFbx: =================================================
+[2020.01.12-23.25.56:568][897]LogFbx: Dumping Node START [CASSoldier] 
+[2020.01.12-23.25.56:568][897]LogFbx: 	Total Deformer Count -1621399232.
+[2020.01.12-23.25.56:568][897]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.12-23.25.56:568][897]LogFbx: =================================================
+[2020.01.12-23.25.56:568][897]LogFbx: 	Attribute () Type (4).
+[2020.01.12-23.25.56:568][897]LogFbx: 		[Node Attribute Child 1] CASSoldier (Type Mesh).
+[2020.01.12-23.25.56:568][897]LogFbx: Dumping Node END [CASSoldier]
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.12-23.25.56:569][897]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.12-23.25.56:570][897]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
+[2020.01.12-23.25.56:570][897]LogFbx: Parsing AnimStack Take 001
+[2020.01.12-23.25.56:571][897]LogLinker: Can't find file '/Game/Final_Idle_holding_Gun_Anim'
+[2020.01.12-23.25.56:571][897]LogLinker: Can't find file '/Game/Final_Idle_holding_Gun_Anim'
+[2020.01.12-23.25.56:705][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:744][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName : blendHIKState2SK1
+[2020.01.12-23.25.56:745][897]LogFbx: CurveName(blendHIKState2SK1) is skipped because it only contains invalid values.
+[2020.01.12-23.25.56:822][897]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Final_Idle_holding_Gun_Anim.Final_Idle_holding_Gun_Anim
+[2020.01.12-23.25.56:873][897]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Final_Idle_holding_Gun_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.12-23.25.57:065][897]LogSkeletalMesh: Building Skeletal Mesh Final_Idle_holding_Gun...
+[2020.01.12-23.25.57:073][897]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Final_Idle_holding_Gun.Final_Idle_holding_Gun
+[2020.01.12-23.25.57:094][897]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.12-23.25.57:127][897]LogSkeletalMesh: Building Skeletal Mesh Final_Idle_holding_Gun...
+[2020.01.12-23.25.57:135][897]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Final_Idle_holding_Gun.Final_Idle_holding_Gun
+[2020.01.12-23.26.03:464][948]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.12-23.26.03:900][952]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.12-23.26.06:077][969]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.12-23.26.07:958][985]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.12-23.26.08:818][989]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.12-23.26.11:917][ 20]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.12-23.26.12:307][ 20]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Final_Idle_holding_Gun_AnimDFDF8F8240A517EC8ED2C9A52FF89909.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/Final_Idle_holding_Gun_Anim.uasset'
+[2020.01.12-23.26.12:646][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.01.12-23.26.12:700][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.01.12-23.26.12:739][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.01.12-23.26.15:260][ 48]LogSlate: Window 'Failed Renames' being destroyed
+[2020.01.12-23.26.21:934][114]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Animations/Enemy_Anim/Movement.Movement
+[2020.01.12-23.26.22:101][114]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.26.22:161][114]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.26.22:679][114]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.26.42:199][852]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (44.962 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.12-23.26.54:425][305]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Movement276872114260F41C09D9369F57B925C7.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/Movement.uasset'
+[2020.01.12-23.27.03:592][417]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Animations/Idle_Run_Anim.Idle_Run_Anim
+[2020.01.12-23.27.03:677][417]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_61:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.27.03:718][417]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_61:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.27.04:274][417]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.27.15:761][657]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/Enemy_Anim/AIAnimations.AIAnimations
+[2020.01.12-23.27.15:879][657]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.27.16:358][657]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.27.16:893][657]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.27.19:278][700]LogSlate: Window 'AIAnimations' being destroyed
+[2020.01.12-23.28.02:587][437]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/NovaAnimations.NovaAnimations
+[2020.01.12-23.28.02:709][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.28.03:085][437]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.28.03:578][437]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.29.03:976][439]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.01.12-23.29.07:634][482]LogUObjectHash: Compacting FUObjectHashTables data took  10.35ms
+[2020.01.12-23.29.08:983][482]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.12-23.29.09:836][482]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Animations/Enemy_Anim/NewBlendSpace.NewBlendSpace
+[2020.01.12-23.29.14:365][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.01.12-23.29.15:382][492]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Animations/Enemy_Anim/Movement.Movement
+[2020.01.12-23.29.15:481][492]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.29.15:511][492]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.29.15:943][492]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.29.33:140][ 26]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/Enemy_Anim/AIAnimations.AIAnimations
+[2020.01.12-23.29.33:175][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.29.33:558][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.29.34:066][ 26]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.29.36:388][ 63]LogSlate: Window 'AIAnimations' being destroyed
+[2020.01.12-23.29.47:342][501]BlueprintLog: New page: Compile AIAnimations
+[2020.01.12-23.29.47:675][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.01.12-23.29.48:910][553]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-23.29.48:941][553]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1' with GeneratedClass '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1'
+[2020.01.12-23.29.48:941][553]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.12-23.29.48:942][553]LogPlayLevel: [PlayLevel] Compiling NovaAnimations before play...
+[2020.01.12-23.29.49:183][553]LogPlayLevel: [PlayLevel] Compiling NOVA_Level_VS1 before play...
+[2020.01.12-23.29.49:452][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.01.12-23.29.49:452][553]LogPlayLevel: PlayLevel: Blueprint regeneration took 510 ms (2 blueprints)
+[2020.01.12-23.29.49:453][553]PIE: New page: PIE session: NOVA_Level_VS1 (Jan 12, 2020, 1:29:49 PM)
+[2020.01.12-23.29.49:453][553]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1
+[2020.01.12-23.29.49:752][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.299858s)
+[2020.01.12-23.29.49:752][553]LogAIModule: Creating AISystem for world NOVA_Level_VS1
+[2020.01.12-23.29.49:753][553]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2020.01.12-23.29.49:753][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1 to /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1.NOVA_Level_VS1 (0.301525s)
+[2020.01.12-23.29.49:782][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.01.12-23.29.49:786][553]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-23.29.49:933][553]LogInit: FAudioDevice initialized.
+[2020.01.12-23.29.49:940][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.29.49:970][553]LogLoad: Game class is 'NovasJourney_C'
+[2020.01.12-23.29.50:043][553]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1.NOVA_Level_VS1 up for play (max tick rate 60) at 2020.01.12-18.29.50
+[2020.01.12-23.29.50:051][553]LogWorld: Bringing up level for play took: 0.079386
+[2020.01.12-23.29.50:065][553]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.29.50:066][553]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.29.50:071][553]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_NOVA_Level_VS1 0.341
+[2020.01.12-23.29.50:072][553]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1' with GeneratedClass '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1'
+[2020.01.12-23.29.55:150][601]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.12-23.30.02:808][658]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.30.02:808][658]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.30.02:809][658]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.30.03:079][659]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.12-23.30.05:562][683]LogBlueprintUserMessages: [ShootAI2_5] Shots fired
+[2020.01.12-23.30.06:922][697]LogBlueprintUserMessages: [ShootAI2_5] Shots fired
+[2020.01.12-23.30.08:254][711]LogBlueprintUserMessages: [ShootAI2_5] Shots fired
+[2020.01.12-23.30.09:087][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1' with GeneratedClass '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1'
+[2020.01.12-23.30.09:088][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-23.30.09:155][719]LogSlate: Window 'NovasJourney Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.12-23.30.09:256][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-23.30.09:258][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1' with GeneratedClass '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NOVA_Level_VS1.NOVA_Level_VS1:PersistentLevel.NOVA_Level_VS1'
+[2020.01.12-23.30.09:382][719]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.01.12-23.30.09:412][720]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2020.01.12-23.30.30:617][398]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/NovaAnimations.NovaAnimations
+[2020.01.12-23.30.30:711][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_75:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.12-23.30.31:068][398]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_75:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.12-23.30.31:578][398]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.12-23.31.05:843][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.01.12-23.31.05:918][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.01.12-23.31.09:013][ 19]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/NOVA_Level_VS10D5021CD4FCD4B140F1CB1A68D47E912.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/NOVA_Level_VS1.umap'
+[2020.01.12-23.31.09:158][ 19]LogFileHelpers: Saving map 'NOVA_Level_VS1' took 3.290
+[2020.01.12-23.31.09:194][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/NovaAnimations" FILE="../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/NovaAnimations.uasset" SILENT=true
+[2020.01.12-23.31.09:355][ 19]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/NovaAnimations31D73DC749FE57901FB04FAEC77FA39A.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/NovaAnimations.uasset'
+[2020.01.12-23.31.09:450][ 19]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/AIAnimationsF75EE8D147DE407D47E34E9DECFBEF18.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AIAnimations.uasset'
+[2020.01.12-23.31.09:536][ 19]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Movement0FB7452740470452DC4FC3BA65307D82.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/Movement.uasset'
+[2020.01.12-23.31.09:576][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Final_Idle_holding_Gun" FILE="../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Final_Idle_holding_Gun.uasset" SILENT=true
+[2020.01.12-23.31.09:600][ 19]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Final_Idle_holding_GunAD8D92394907A8D41A7B5EBE5AC9C32D.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Final_Idle_holding_Gun.uasset'
+[2020.01.12-23.31.09:641][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert2" FILE="../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/lambert2.uasset" SILENT=true
+[2020.01.12-23.31.09:657][ 19]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/lambert236C9BC4B429F57DD34E4AF9282561F0D.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/lambert2.uasset'
+[2020.01.12-23.31.09:713][ 19]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Final_Idle_holding_Gun_PhysicsAs7B97AAC74F2D7791DCA2D9841D63EBDC.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Final_Idle_holding_Gun_PhysicsAsset.uasset'
