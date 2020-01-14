@@ -1,0 +1,1396 @@
+﻿Log file open, 01/13/20 20:04:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NovasJourney
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.215738
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.14-01.04.12:950][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.14-01.04.12:950][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.14-01.04.12:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.14-01.04.12:950][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.14-01.04.12:950][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.01.14-01.04.12:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.14-01.04.12:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.14-01.04.12:950][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.14-01.04.12:950][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.14-01.04.12:950][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.14-01.04.12:950][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.14-01.04.12:950][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.14-01.04.12:950][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.14-01.04.12:950][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.14-01.04.12:950][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.14-01.04.12:951][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.14-01.04.12:951][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.14-01.04.12:954][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:954][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.14-01.04.12:954][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.14-01.04.12:954][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:954][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.14-01.04.12:954][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:954][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.14-01.04.12:954][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.14-01.04.12:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.14-01.04.12:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.14-01.04.12:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.14-01.04.12:954][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.14-01.04.12:955][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.14-01.04.12:956][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.14-01.04.12:957][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:958][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.14-01.04.12:958][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.14-01.04.12:958][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.14-01.04.12:958][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.14-01.04.12:987][  0]LogHAL: Display: Platform has ~ 8 GB [8453226496 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.14-01.04.12:987][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.14-01.04.12:987][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.14-01.04.12:987][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.14-01.04.12:988][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.14-01.04.12:989][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.14-01.04.12:989][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.14-01.04.12:989][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.14-01.04.12:989][  0]LogInit: Computer: DESKTOP-556067R
+[2020.01.14-01.04.12:989][  0]LogInit: User: ShaquilleGeorges
+[2020.01.14-01.04.12:989][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.01.14-01.04.12:989][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.14-01.04.12:989][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.01.14-01.04.12:989][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.14-01.04.12:989][  0]LogMemory: Process Physical Memory: 97.51 MB used, 97.52 MB peak
+[2020.01.14-01.04.12:989][  0]LogMemory: Process Virtual Memory: 91.81 MB used, 91.81 MB peak
+[2020.01.14-01.04.12:989][  0]LogMemory: Physical Memory: 6425.29 MB used,  1636.33 MB free, 8061.63 MB total
+[2020.01.14-01.04.12:989][  0]LogMemory: Virtual Memory: 4628.96 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.01.14-01.04.13:019][  0]LogInit: Using OS detected language (en-US).
+[2020.01.14-01.04.13:019][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.14-01.04.13:024][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.14-01.04.13:349][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.14-01.04.13:427][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.14-01.04.13:427][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.14-01.04.13:867][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.14-01.04.13:867][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.14-01.04.14:066][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.01.14-01.04.14:066][  0]LogD3D11RHI:       128/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.01.14-01.04.14:069][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.14-01.04.14:069][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.14-01.04.14:069][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.14-01.04.14:083][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.14-01.04.14:083][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.14-01.04.14:083][  0]LogWindows: EnumDisplayDevices:
+[2020.01.14-01.04.14:083][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.01.14-01.04.14:084][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.01.14-01.04.14:085][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.01.14-01.04.14:085][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.01.14-01.04.14:085][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2020.01.14-01.04.14:085][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2020.01.14-01.04.14:085][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2020.01.14-01.04.14:085][  0]LogRHI: Texture pool is 1500 MB (70% of 2143 MB)
+[2020.01.14-01.04.14:229][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.14-01.04.14:253][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.14-01.04.14:254][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.14-01.04.14:254][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.14-01.04.14:257][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.01.14-01.04.15:042][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.14-01.04.15:078][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.14-01.04.15:114][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.14-01.04.15:145][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.14-01.04.15:176][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.14-01.04.15:210][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.14-01.04.15:248][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.14-01.04.15:284][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.14-01.04.15:296][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.14-01.04.15:455][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.14-01.04.15:455][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.14-01.04.15:455][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.14-01.04.15:455][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.14-01.04.15:455][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.14-01.04.15:455][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.14-01.04.15:455][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.14-01.04.15:455][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.14-01.04.15:455][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.14-01.04.15:455][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.14-01.04.15:455][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.14-01.04.15:456][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.14-01.04.15:456][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.14-01.04.15:456][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.14-01.04.15:456][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.14-01.04.15:456][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.14-01.04.15:456][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.14-01.04.15:456][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.14-01.04.15:460][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.14-01.04.15:532][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.14-01.04.15:532][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.14-01.04.15:582][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.14-01.04.15:582][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.14-01.04.15:612][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.14-01.04.15:637][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.14-01.04.15:664][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.14-01.04.15:688][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.14-01.04.15:770][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.14-01.04.15:770][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.14-01.04.15:770][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.14-01.04.15:783][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.14-01.04.15:852][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Intermediate/Shaders/WorkingDirectory/32272/).
+[2020.01.14-01.04.15:852][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Shaquille Georges/AppData/Local/Temp/UnrealShaderWorkingDir/04E5EA794CCAF952EBD238B8D291FA86/'.
+[2020.01.14-01.04.15:855][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.14-01.04.15:855][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.14-01.04.15:855][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.14-01.04.16:895][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.14-01.04.16:984][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/Shaquille Georges/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.14-01.04.16:985][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Shaquille Georges/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.14-01.04.16:985][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.14-01.04.16:985][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.14-01.04.16:985][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.14-01.04.16:986][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.14-01.04.17:008][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.14-01.04.17:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.14-01.04.17:009][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.14-01.04.17:021][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Shaquille Georges/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.14-01.04.17:021][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.14-01.04.17:021][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.14-01.04.17:062][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.14-01.04.17:064][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.14-01.04.17:065][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.14-01.04.17:215][  0]LogAssetRegistry: FAssetRegistry took 0.0484 seconds to start up
+[2020.01.14-01.04.17:909][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.14-01.04.18:166][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.14-01.04.18:166][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.14-01.04.18:166][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.14-01.04.18:166][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.14-01.04.18:166][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.14-01.04.18:186][  0]LogNetVersion: NovasJourney 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 477171736)
+[2020.01.14-01.04.18:975][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.078298 seconds
+[2020.01.14-01.04.18:992][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.14-01.04.18:992][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.14-01.04.18:992][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.14-01.04.20:474][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.14-01.04.20:491][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.14-01.04.20:677][  0]SourceControl: Source control is disabled
+[2020.01.14-01.04.20:677][  0]SourceControl: Source control is disabled
+[2020.01.14-01.04.20:680][  0]SourceControl: Source control is disabled
+[2020.01.14-01.04.20:682][  0]SourceControl: Source control is disabled
+[2020.01.14-01.04.20:824][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.14-01.04.20:930][  0]LogOcInput: OculusInput pre-init called
+[2020.01.14-01.04.22:085][  0]LogEngine: Initializing Engine...
+[2020.01.14-01.04.22:087][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.14-01.04.22:089][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.14-01.04.22:491][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.14-01.04.22:511][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.14-01.04.22:721][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.14-01.04.23:593][  0]LogInit: FAudioDevice initialized.
+[2020.01.14-01.04.23:593][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.14-01.04.23:912][  0]LogDerivedDataCache: Saved boot cache 0.32s 71MB C:/Users/Shaquille Georges/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.14-01.04.23:929][  0]LogInit: Texture streaming: Enabled
+[2020.01.14-01.04.23:956][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.14-01.04.23:988][  0]LogInit: Transaction tracking system initialized
+[2020.01.14-01.04.24:018][  0]BlueprintLog: New page: Editor Load
+[2020.01.14-01.04.24:132][  0]LocalizationService: Localization service is disabled
+[2020.01.14-01.04.24:796][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/' took 0.03s
+[2020.01.14-01.04.24:796][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.14-01.04.24:796][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.14-01.04.25:094][  0]SourceControl: Source control is disabled
+[2020.01.14-01.04.25:094][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/NovaTechConcept.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.14-01.04.25:131][  0]LightingResults: New page: Lighting Build
+[2020.01.14-01.04.25:133][  0]MapCheck: New page: Map Check
+[2020.01.14-01.04.25:133][  0]LightingResults: New page: Lighting Build
+[2020.01.14-01.04.25:166][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.14-01.04.30:220][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
+[2020.01.14-01.04.30:221][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
+[2020.01.14-01.04.30:225][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
+[2020.01.14-01.04.30:225][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
+[2020.01.14-01.04.30:290][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
+[2020.01.14-01.04.30:291][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
+[2020.01.14-01.04.30:291][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
+[2020.01.14-01.04.30:291][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
+[2020.01.14-01.04.30:430][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
+[2020.01.14-01.04.30:430][  0]LoadErrors: Failed to load /Game/Content/Levels/Maps/NovaTechConcept_BuiltData.NovaTechConcept_BuiltData Referenced by PersistentLevel
+[2020.01.14-01.04.30:430][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
+[2020.01.14-01.04.32:913][  0]LogAIModule: Creating AISystem for world NovaTechConcept
+[2020.01.14-01.04.33:020][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.14-01.04.33:137][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.01.14-01.04.33:137][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.14-01.04.33:137][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.271ms to complete.
+[2020.01.14-01.04.33:137][  0]LogFileHelpers: Loading map 'NovaTechConcept' took 8.044
+[2020.01.14-01.04.33:620][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-01.04.33:638][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-01.04.33:656][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-01.04.33:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-01.04.33:751][  0]LogCollectionManager: Loaded 0 collections in 0.001390 seconds
+[2020.01.14-01.04.33:803][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Collections/' took 0.01s
+[2020.01.14-01.04.33:803][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Developers/ShaquilleGeorges/Collections/' took 0.00s
+[2020.01.14-01.04.33:803][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Collections/' took 0.00s
+[2020.01.14-01.04.33:803][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.01.14-01.04.33:817][  0]LogContentBrowser: Native class hierarchy populated in 0.0139 seconds. Added 2735 classes and 661 folders.
+[2020.01.14-01.04.34:002][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.01.14-01.04.34:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:172][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:239][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:564][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:606][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:625][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:860][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.34:992][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.35:046][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.35:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.14-01.04.36:224][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.01.14-01.04.36:305][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.01.14-01.04.36:549][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.14-01.04.36:553][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.14-01.04.36:636][  0]LogSlate: Took 0.071727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.14-01.04.37:356][  0]LogRenderer: Reallocating scene render targets to support 712x392 Format 10 NumSamples 1 (Frame:1).
+[2020.01.14-01.04.38:039][  0]LogSlate: Took 0.058369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.14-01.04.38:186][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.01.14-01.04.38:186][  0]LogLoad: (Engine Initialization) Total time: 27.93 seconds
+[2020.01.14-01.04.38:186][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.14-01.04.38:566][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.14-01.04.38:571][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.14-01.04.39:703][  1]LogAssetRegistry: Asset discovery search completed in 22.5126 seconds
+[2020.01.14-01.04.39:710][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.01.14-01.04.39:710][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000314 seconds (updated 0 objects)
+[2020.01.14-01.04.40:034][  2]LogSlate: Took 0.000628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.14-01.04.43:577][ 63]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-01.04.43:584][ 63]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-01.04.48:436][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-01.04.56:038][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-01.14.09:548][227]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/Character/Nova1.Nova1
+[2020.01.14-01.14.13:992][227]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0249 seconds. Added 121 classes and 0 folders.
+[2020.01.14-01.14.19:419][227]LogSlate: Took 0.065214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.14-01.14.22:922][282]LogSlate: Window 'Nova1' being destroyed
+[2020.01.14-01.14.24:860][383]LogRenderer: Reallocating scene render targets to support 728x460 Format 10 NumSamples 1 (Frame:1).
+[2020.01.14-01.14.31:337][564]LogSlate: Took 0.042983 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.14-01.14.32:017][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-01.17.13:266][243]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-01.17.13:469][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.14-01.17.13:536][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-01.17.13:617][243]PIE: New page: PIE session: NovaTechConcept (Jan 13, 2020, 3:17:13 PM)
+[2020.01.14-01.17.13:878][243]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept
+[2020.01.14-01.17.14:394][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.515519s)
+[2020.01.14-01.17.14:420][243]LogAIModule: Creating AISystem for world NovaTechConcept
+[2020.01.14-01.17.14:490][243]LogPlayLevel: PIE: World Init took: (0.095998s)
+[2020.01.14-01.17.14:490][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept to /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept.NovaTechConcept (0.612480s)
+[2020.01.14-01.17.14:824][243]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.01.14-01.17.15:168][243]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.14-01.17.15:410][243]LogInit: FAudioDevice initialized.
+[2020.01.14-01.17.16:145][243]LogLoad: Game class is 'NovasJourney_C'
+[2020.01.14-01.17.16:800][243]PIE: Warning: Invalid Simulate Options: Body (BarrelLevel_2.Sphere1) is set to simulate physics but Collision Enabled is incompatible
+[2020.01.14-01.17.16:800][243]PIE: Warning: Invalid Simulate Options: Body (BarrelLevel_2.Sphere1) is set to simulate physics but Collision Enabled is incompatible
+[2020.01.14-01.17.16:802][243]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept.NovaTechConcept up for play (max tick rate 60) at 2020.01.13-20.17.16
+[2020.01.14-01.17.18:753][243]LogWorld: Bringing up level for play took: 2.052063
+[2020.01.14-01.17.19:533][243]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.01.14-01.17.19:588][243]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.01.14-01.17.19:589][243]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.01.14-01.17.19:655][243]PIE: Warning: BarrelLevel_2.Sphere1 has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2020.01.14-01.17.20:344][243]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept 7.504
+[2020.01.14-01.17.20:345][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.14-01.17.30:663][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.14-01.17.30:718][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-01.17.30:980][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-01.17.30:980][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.14-01.17.31:166][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-01.17.31:432][459]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2020.01.14-01.17.31:484][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.14-01.17.31:585][460]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.01.14-01.17.34:892][533]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-01.17.34:956][533]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-01.18.18:170][920]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/Character/MyNova.MyNova
+[2020.01.14-01.19.18:066][ 57]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_final_character.fbx)
+[2020.01.14-01.19.18:645][ 57]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_final_character.fbx
+[2020.01.14-01.19.19:081][ 57]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.14-01.19.34:155][ 57]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.14-01.19.34:572][ 57]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_idle_animation.fbx)
+[2020.01.14-01.19.34:610][ 57]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_jumping_animation.fbx)
+[2020.01.14-01.19.43:338][ 82]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_final_character.fbx)
+[2020.01.14-01.19.43:398][ 82]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_final_character.fbx
+[2020.01.14-01.19.43:725][ 82]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.14-01.20.23:879][ 82]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.14-01.20.27:792][ 82]LogFbx: =================================================
+[2020.01.14-01.20.27:792][ 82]LogFbx: Dumping Node START [Nova_hair] 
+[2020.01.14-01.20.27:792][ 82]LogFbx: 	Total Deformer Count 726058560.
+[2020.01.14-01.20.27:792][ 82]LogFbx: 	Attribute () Type (4).
+[2020.01.14-01.20.27:792][ 82]LogFbx: 		[Node Attribute Child 1] Nova_hair (Type Mesh).
+[2020.01.14-01.20.27:792][ 82]LogFbx: Dumping Node END [Nova_hair]
+[2020.01.14-01.20.27:792][ 82]LogFbx: =================================================
+[2020.01.14-01.20.27:792][ 82]LogFbx: Dumping Node START [Nova_face] 
+[2020.01.14-01.20.27:792][ 82]LogFbx: 	Total Deformer Count 726058560.
+[2020.01.14-01.20.27:792][ 82]LogFbx: 	Attribute () Type (4).
+[2020.01.14-01.20.27:792][ 82]LogFbx: 		[Node Attribute Child 1] Nova_face (Type Mesh).
+[2020.01.14-01.20.27:792][ 82]LogFbx: Dumping Node END [Nova_face]
+[2020.01.14-01.20.27:792][ 82]LogFbx: =================================================
+[2020.01.14-01.20.27:792][ 82]LogFbx: Dumping Node START [pPlane2] 
+[2020.01.14-01.20.27:792][ 82]LogFbx: 	Total Deformer Count 767275464.
+[2020.01.14-01.20.27:792][ 82]LogFbx: 	Attribute () Type (4).
+[2020.01.14-01.20.27:792][ 82]LogFbx: 		[Node Attribute Child 1] pPlane2 (Type Mesh).
+[2020.01.14-01.20.27:792][ 82]LogFbx: Dumping Node END [pPlane2]
+[2020.01.14-01.20.27:792][ 82]LogFbx: =================================================
+[2020.01.14-01.20.27:792][ 82]LogFbx: Dumping Node START [polySurface4] 
+[2020.01.14-01.20.27:792][ 82]LogFbx: 	Total Deformer Count 719528528.
+[2020.01.14-01.20.27:792][ 82]LogFbx: 	Attribute () Type (4).
+[2020.01.14-01.20.27:792][ 82]LogFbx: 		[Node Attribute Child 1] polySurface4 (Type Mesh).
+[2020.01.14-01.20.27:792][ 82]LogFbx: Dumping Node END [polySurface4]
+[2020.01.14-01.20.27:792][ 82]LogFbx: =================================================
+[2020.01.14-01.20.27:792][ 82]LogFbx: Dumping Node START [polySurface3] 
+[2020.01.14-01.20.27:792][ 82]LogFbx: 	Total Deformer Count 719528528.
+[2020.01.14-01.20.27:792][ 82]LogFbx: 	Attribute () Type (4).
+[2020.01.14-01.20.27:792][ 82]LogFbx: 		[Node Attribute Child 1] polySurface3 (Type Mesh).
+[2020.01.14-01.20.27:792][ 82]LogFbx: Dumping Node END [polySurface3]
+[2020.01.14-01.20.27:793][ 82]LogFbx: =================================================
+[2020.01.14-01.20.27:793][ 82]LogFbx: Dumping Node START [Nova_hair] 
+[2020.01.14-01.20.27:793][ 82]LogFbx: 	Total Deformer Count 726069632.
+[2020.01.14-01.20.27:793][ 82]LogFbx: 	Attribute () Type (4).
+[2020.01.14-01.20.27:793][ 82]LogFbx: 		[Node Attribute Child 1] Nova_hair (Type Mesh).
+[2020.01.14-01.20.27:793][ 82]LogFbx: Dumping Node END [Nova_hair]
+[2020.01.14-01.20.27:793][ 82]LogFbx: =================================================
+[2020.01.14-01.20.27:793][ 82]LogFbx: Dumping Node START [Nova_face] 
+[2020.01.14-01.20.27:793][ 82]LogFbx: 	Total Deformer Count 726069632.
+[2020.01.14-01.20.27:793][ 82]LogFbx: 	Attribute () Type (4).
+[2020.01.14-01.20.27:793][ 82]LogFbx: 		[Node Attribute Child 1] Nova_face (Type Mesh).
+[2020.01.14-01.20.27:793][ 82]LogFbx: Dumping Node END [Nova_face]
+[2020.01.14-01.20.27:793][ 82]LogFbx: =================================================
+[2020.01.14-01.20.27:793][ 82]LogFbx: Dumping Node START [pPlane2] 
+[2020.01.14-01.20.27:793][ 82]LogFbx: 	Total Deformer Count 767274680.
+[2020.01.14-01.20.27:793][ 82]LogFbx: 	Attribute () Type (4).
+[2020.01.14-01.20.27:793][ 82]LogFbx: 		[Node Attribute Child 1] pPlane2 (Type Mesh).
+[2020.01.14-01.20.27:793][ 82]LogFbx: Dumping Node END [pPlane2]
+[2020.01.14-01.20.27:793][ 82]LogFbx: =================================================
+[2020.01.14-01.20.27:793][ 82]LogFbx: Dumping Node START [polySurface4] 
+[2020.01.14-01.20.27:793][ 82]LogFbx: 	Total Deformer Count 719528128.
+[2020.01.14-01.20.27:793][ 82]LogFbx: 	Attribute () Type (4).
+[2020.01.14-01.20.27:793][ 82]LogFbx: 		[Node Attribute Child 1] polySurface4 (Type Mesh).
+[2020.01.14-01.20.27:793][ 82]LogFbx: Dumping Node END [polySurface4]
+[2020.01.14-01.20.27:793][ 82]LogFbx: =================================================
+[2020.01.14-01.20.27:793][ 82]LogFbx: Dumping Node START [polySurface3] 
+[2020.01.14-01.20.27:793][ 82]LogFbx: 	Total Deformer Count 719528128.
+[2020.01.14-01.20.27:793][ 82]LogFbx: 	Attribute () Type (4).
+[2020.01.14-01.20.27:793][ 82]LogFbx: 		[Node Attribute Child 1] polySurface3 (Type Mesh).
+[2020.01.14-01.20.27:793][ 82]LogFbx: Dumping Node END [polySurface3]
+[2020.01.14-01.20.38:140][ 82]LogMaterial: Warning: Material /Game/Animations/lambert5.lambert5 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.14-01.20.38:145][ 82]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2020.01.14-01.20.39:639][ 82]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.14-01.20.39:639][ 82]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.14-01.20.39:639][ 82]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.14-01.20.39:669][ 82]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2020.01.14-01.20.39:720][ 82]LogFbx: Triangulating skeletal mesh Nova_hair
+[2020.01.14-01.20.40:232][ 82]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.01.14-01.20.40:744][ 82]LogSkeletalMesh: Section 0: 596 vertices, 1 active bones
+[2020.01.14-01.20.40:744][ 82]LogSkeletalMesh: Section 0: Material=0, 1188 triangles
+[2020.01.14-01.20.40:872][ 82]LogSkeletalMesh: Building Skeletal Mesh Nova_final_character_Nova_hair...
+[2020.01.14-01.20.40:942][ 82]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Animations/Nova_final_character.Nova_final_character_Nova_hair
+[2020.01.14-01.20.49:748][ 82]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.20.49:883][ 82]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_final_idle_Anim.Nova_final_idle_Anim
+[2020.01.14-01.20.49:944][ 82]LogAnimationCompression: Compression Requested for Empty Animation Nova_final_idle_Anim
+[2020.01.14-01.20.53:364][ 82]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.14-01.20.53:955][ 82]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.14-01.20.56:930][ 82]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.14-01.20.58:248][ 82]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.20.59:712][ 82]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.14-01.21.00:342][ 82]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.21.00:357][ 82]LogLinker: Can't find file '/Game/Animations/Nova_final_character_Nova_hair_PhysicsAsset'
+[2020.01.14-01.21.00:358][ 82]LogLinker: Can't find file '/Game/Animations/Nova_final_character_Nova_hair_PhysicsAsset'
+[2020.01.14-01.21.00:649][ 82]LogSkeletalMesh: Building Skeletal Mesh Nova_final_character_Nova_hair...
+[2020.01.14-01.21.00:652][ 82]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Animations/Nova_final_character.Nova_final_character_Nova_hair
+[2020.01.14-01.21.00:661][ 82]LogMaterial: Warning: Material /Game/Animations/lambert6.lambert6 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.14-01.21.00:715][ 82]LogMaterial: Display: Missing cached shader map for material lambert6, compiling. 
+[2020.01.14-01.21.00:803][ 82]LogMaterial: Display: Missing cached shader map for material lambert6, compiling. 
+[2020.01.14-01.21.00:878][ 82]LogMaterial: Warning: Material /Game/Animations/lambert7.lambert7 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.14-01.21.01:061][ 82]LogMaterial: Display: Missing cached shader map for material lambert7, compiling. 
+[2020.01.14-01.21.01:160][ 82]LogMaterial: Display: Missing cached shader map for material lambert7, compiling. 
+[2020.01.14-01.21.01:238][ 82]LogFbx: Triangulating skeletal mesh Nova_face
+[2020.01.14-01.21.04:430][ 82]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.01.14-01.21.05:268][ 82]LogSkeletalMesh: Section 0: 4895 vertices, 1 active bones
+[2020.01.14-01.21.05:268][ 82]LogSkeletalMesh: Section 1: 2698 vertices, 1 active bones
+[2020.01.14-01.21.05:270][ 82]LogSkeletalMesh: Section 0: Material=0, 8220 triangles
+[2020.01.14-01.21.05:270][ 82]LogSkeletalMesh: Section 1: Material=1, 4992 triangles
+[2020.01.14-01.21.05:406][ 82]LogSkeletalMesh: Building Skeletal Mesh Nova_final_character_Nova_face...
+[2020.01.14-01.21.05:451][ 82]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/Animations/Nova_final_character.Nova_final_character_Nova_face
+[2020.01.14-01.21.06:626][ 82]LogShaderCompilers: Display: Shaders left to compile 140
+[2020.01.14-01.21.07:213][ 82]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.21.07:331][ 82]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_final_idle_Anim.Nova_final_idle_Anim
+[2020.01.14-01.21.07:391][ 82]LogAnimationCompression: Compression Requested for Empty Animation Nova_final_idle_Anim
+[2020.01.14-01.21.07:607][ 82]LogShaderCompilers: Display: Shaders left to compile 130
+[2020.01.14-01.21.08:696][ 82]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.21.10:064][ 82]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.21.11:585][ 82]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.21.11:601][ 82]LogLinker: Can't find file '/Game/Animations/Nova_final_character_Nova_face_PhysicsAsset'
+[2020.01.14-01.21.11:602][ 82]LogLinker: Can't find file '/Game/Animations/Nova_final_character_Nova_face_PhysicsAsset'
+[2020.01.14-01.21.11:629][ 82]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.01.14-01.21.11:725][ 82]LogSkeletalMesh: Building Skeletal Mesh Nova_final_character_Nova_face...
+[2020.01.14-01.21.11:765][ 82]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Animations/Nova_final_character.Nova_final_character_Nova_face
+[2020.01.14-01.21.11:777][ 82]LogMaterial: Warning: Material /Game/Animations/lambert8.lambert8 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.14-01.21.11:833][ 82]LogMaterial: Display: Missing cached shader map for material lambert8, compiling. 
+[2020.01.14-01.21.11:941][ 82]LogMaterial: Display: Missing cached shader map for material lambert8, compiling. 
+[2020.01.14-01.21.12:017][ 82]LogFbx: Triangulating skeletal mesh pPlane2
+[2020.01.14-01.21.12:065][ 82]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.01.14-01.21.12:185][ 82]LogSkeletalMesh: Section 0: 225 vertices, 1 active bones
+[2020.01.14-01.21.12:185][ 82]LogSkeletalMesh: Section 0: Material=0, 384 triangles
+[2020.01.14-01.21.12:265][ 82]LogSkeletalMesh: Building Skeletal Mesh Nova_final_character_pPlane2...
+[2020.01.14-01.21.12:266][ 82]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Animations/Nova_final_character.Nova_final_character_pPlane2
+[2020.01.14-01.21.12:396][ 82]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_final_idle_Anim.Nova_final_idle_Anim
+[2020.01.14-01.21.12:397][ 82]LogAnimationCompression: Compression Requested for Empty Animation Nova_final_idle_Anim
+[2020.01.14-01.21.12:403][ 82]LogLinker: Can't find file '/Game/Animations/Nova_final_character_pPlane2_PhysicsAsset'
+[2020.01.14-01.21.12:404][ 82]LogLinker: Can't find file '/Game/Animations/Nova_final_character_pPlane2_PhysicsAsset'
+[2020.01.14-01.21.12:415][ 82]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.01.14-01.21.12:515][ 82]LogSkeletalMesh: Building Skeletal Mesh Nova_final_character_pPlane2...
+[2020.01.14-01.21.12:516][ 82]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Animations/Nova_final_character.Nova_final_character_pPlane2
+[2020.01.14-01.21.12:522][ 82]LogMaterial: Warning: Material /Game/Animations/defaultPolygonShader.defaultPolygonShader needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.14-01.21.12:527][ 82]LogMaterial: Display: Missing cached shader map for material defaultPolygonShader, compiling. 
+[2020.01.14-01.21.12:675][ 82]LogMaterial: Display: Missing cached shader map for material defaultPolygonShader, compiling. 
+[2020.01.14-01.21.12:749][ 82]LogFbx: Triangulating skeletal mesh polySurface4
+[2020.01.14-01.21.12:936][ 82]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.01.14-01.21.13:009][ 82]LogSkeletalMesh: Section 0: 714 vertices, 1 active bones
+[2020.01.14-01.21.13:009][ 82]LogSkeletalMesh: Section 0: Material=0, 1424 triangles
+[2020.01.14-01.21.13:148][ 82]LogShaderCompilers: Display: Shaders left to compile 240
+[2020.01.14-01.21.13:148][ 82]LogSkeletalMesh: Building Skeletal Mesh Nova_final_character_polySurface4...
+[2020.01.14-01.21.13:151][ 82]LogSkeletalMesh: Built Skeletal Mesh [0.11s] /Game/Animations/Nova_final_character.Nova_final_character_polySurface4
+[2020.01.14-01.21.13:221][ 82]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_final_idle_Anim.Nova_final_idle_Anim
+[2020.01.14-01.21.13:221][ 82]LogAnimationCompression: Compression Requested for Empty Animation Nova_final_idle_Anim
+[2020.01.14-01.21.13:226][ 82]LogLinker: Can't find file '/Game/Animations/Nova_final_character_polySurface4_PhysicsAsset'
+[2020.01.14-01.21.13:226][ 82]LogLinker: Can't find file '/Game/Animations/Nova_final_character_polySurface4_PhysicsAsset'
+[2020.01.14-01.21.13:237][ 82]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.01.14-01.21.13:275][ 82]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.01.14-01.21.13:569][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2020.01.14-01.21.14:683][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.01.14-01.21.14:730][ 82]LogSkeletalMesh: Building Skeletal Mesh Nova_final_character_polySurface4...
+[2020.01.14-01.21.14:733][ 82]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Animations/Nova_final_character.Nova_final_character_polySurface4
+[2020.01.14-01.21.14:742][ 82]LogMaterial: Warning: Material /Game/Animations/defaultPolygonShader2.defaultPolygonShader2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.14-01.21.14:747][ 82]LogMaterial: Display: Missing cached shader map for material defaultPolygonShader2, compiling. 
+[2020.01.14-01.21.15:006][ 82]LogMaterial: Display: Missing cached shader map for material defaultPolygonShader2, compiling. 
+[2020.01.14-01.21.15:081][ 82]LogFbx: Triangulating skeletal mesh polySurface3
+[2020.01.14-01.21.16:887][ 82]LogShaderCompilers: Display: Shaders left to compile 290
+[2020.01.14-01.21.16:887][ 82]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.01.14-01.21.17:667][ 82]LogSkeletalMesh: Section 0: 7907 vertices, 1 active bones
+[2020.01.14-01.21.17:669][ 82]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.14-01.21.17:767][ 82]LogSkeletalMesh: Building Skeletal Mesh Nova_final_character_polySurface3...
+[2020.01.14-01.21.17:812][ 82]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Animations/Nova_final_character.Nova_final_character_polySurface3
+[2020.01.14-01.21.17:818][ 82]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_final_idle_Anim.Nova_final_idle_Anim
+[2020.01.14-01.21.17:818][ 82]LogAnimationCompression: Compression Requested for Empty Animation Nova_final_idle_Anim
+[2020.01.14-01.21.17:823][ 82]LogLinker: Can't find file '/Game/Animations/Nova_final_character_polySurface3_PhysicsAsset'
+[2020.01.14-01.21.17:824][ 82]LogLinker: Can't find file '/Game/Animations/Nova_final_character_polySurface3_PhysicsAsset'
+[2020.01.14-01.21.17:839][ 82]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.01.14-01.21.17:909][ 82]LogSkeletalMesh: Building Skeletal Mesh Nova_final_character_polySurface3...
+[2020.01.14-01.21.17:956][ 82]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Animations/Nova_final_character.Nova_final_character_polySurface3
+[2020.01.14-01.21.17:969][ 82]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.14-01.21.17:970][ 82]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.01.14-01.21.17:970][ 82]FBXImport: Warning: Mesh 'Nova_hair' has no UV set. Creating a default set. 
+[2020.01.14-01.21.17:970][ 82]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.01.14-01.21.17:970][ 82]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.01.14-01.21.17:971][ 82]FBXImport: Warning: Mesh 'pPlane2' has no UV set. Creating a default set. 
+[2020.01.14-01.21.17:971][ 82]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.01.14-01.21.17:971][ 82]FBXImport: Warning: Mesh 'polySurface4' has no UV set. Creating a default set. 
+[2020.01.14-01.21.17:971][ 82]FBXImport: Warning: The bone size is too small to create Physics Asset 'Nova_final_character_polySurface4_PhysicsAsset' from Skeletal Mesh 'Nova_final_character_polySurface4'. You will have to create physics asset manually. 
+[2020.01.14-01.21.17:971][ 82]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.01.14-01.21.17:971][ 82]FBXImport: Warning: Mesh 'polySurface3' has no UV set. Creating a default set. 
+[2020.01.14-01.21.18:194][ 82]LogSkeletalMesh: Building Skeletal Mesh Nova_final_character_polySurface3...
+[2020.01.14-01.21.18:234][ 82]LogSkeletalMesh: Built Skeletal Mesh [0.19s] /Game/Animations/Nova_final_character.Nova_final_character_polySurface3
+[2020.01.14-01.21.19:341][ 82]LogShaderCompilers: Display: Shaders left to compile 280
+[2020.01.14-01.21.21:031][ 82]LogShaderCompilers: Display: Shaders left to compile 270
+[2020.01.14-01.21.25:959][ 82]LogShaderCompilers: Display: Shaders left to compile 260
+[2020.01.14-01.21.26:891][ 82]LogShaderCompilers: Display: Shaders left to compile 250
+[2020.01.14-01.21.27:432][ 82]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.21.27:480][ 82]LoadErrors: Error: The Skeleton  Nova_final_runcycle_Skeleton is missing bones that SkeletalMesh  Nova_final_runcycleOLD needs. They will be added now. Please save the Skeleton!
+[2020.01.14-01.21.27:905][ 83]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.14-01.21.33:647][178]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-01.21.33:700][178]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-01.21.38:295][236]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (10.390 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.14-01.22.25:334][874]LogShaderCompilers: Display: Shaders left to compile 240
+[2020.01.14-01.22.35:220][ 19]LogShaderCompilers: Display: Shaders left to compile 230
+[2020.01.14-01.22.41:893][ 98]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Animations/Nova_final_runcycleOLD.Nova_final_runcycleOLD
+[2020.01.14-01.22.42:913][ 98]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2020.01.14-01.22.42:953][ 98]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0392 seconds. Added 1 classes and 2 folders.
+[2020.01.14-01.22.45:016][ 98]LogShaderCompilers: Display: Shaders left to compile 220
+[2020.01.14-01.22.45:762][ 98]LogShaderCompilers: Display: Shaders left to compile 210
+[2020.01.14-01.22.48:990][ 98]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.22.49:267][ 98]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2020.01.14-01.22.49:268][ 98]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2020.01.14-01.23.12:915][ 98]LogShaderCompilers: Display: Shaders left to compile 200
+[2020.01.14-01.23.12:915][ 98]LogShaderCompilers: Display: Shaders left to compile 190
+[2020.01.14-01.23.12:915][ 98]LogShaderCompilers: Display: Shaders left to compile 180
+[2020.01.14-01.23.12:915][ 98]LogShaderCompilers: Display: Shaders left to compile 170
+[2020.01.14-01.23.12:915][ 98]LogShaderCompilers: Display: Shaders left to compile 160
+[2020.01.14-01.23.12:915][ 98]LogShaderCompilers: Display: Shaders left to compile 150
+[2020.01.14-01.23.12:915][ 98]LogShaderCompilers: Display: Shaders left to compile 140
+[2020.01.14-01.23.12:915][ 98]LogShaderCompilers: Display: Shaders left to compile 130
+[2020.01.14-01.23.12:916][ 98]LogShaderCompilers: Display: Shaders left to compile 120
+[2020.01.14-01.23.15:222][ 98]LogShaderCompilers: Display: Shaders left to compile 110
+[2020.01.14-01.23.15:407][ 98]LogRenderer: Reallocating scene render targets to support 808x572 Format 10 NumSamples 1 (Frame:1).
+[2020.01.14-01.23.41:743][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-01.23.49:185][833]LogShaderCompilers: Display: Shaders left to compile 100
+[2020.01.14-01.23.49:185][833]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.01.14-01.23.49:185][833]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.01.14-01.23.52:631][885]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.01.14-01.23.55:284][918]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Animations/Nova_final_runcycleOLD.Nova_final_runcycleOLD
+[2020.01.14-01.23.57:121][918]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.14-01.23.57:139][918]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.24.05:067][ 69]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Animations/Nova_final_runcycleOLD.Nova_final_runcycleOLD
+[2020.01.14-01.24.06:187][ 69]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.24.06:388][ 69]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_final_idle_Anim.Nova_final_idle_Anim
+[2020.01.14-01.24.06:389][ 69]LogAnimationCompression: Compression Requested for Empty Animation Nova_final_idle_Anim
+[2020.01.14-01.24.06:436][ 69]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.14-01.24.06:690][ 69]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.14-01.24.18:298][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-01.24.35:071][558]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Animations/Nova_final_character.Nova_final_character_polySurface3
+[2020.01.14-01.24.36:282][558]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.14-01.24.36:935][558]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.24.37:005][558]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_final_idle_Anim.Nova_final_idle_Anim
+[2020.01.14-01.24.37:006][558]LogAnimationCompression: Compression Requested for Empty Animation Nova_final_idle_Anim
+[2020.01.14-01.24.37:012][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.14-01.24.37:090][558]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.14-01.24.39:161][558]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.24.44:386][654]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-01.24.44:416][654]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-01.24.59:193][893]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.14-01.25.16:039][982]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.14-01.25.16:090][982]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_final_character.fbx)
+[2020.01.14-01.25.16:228][982]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_final_character.fbx
+[2020.01.14-01.25.16:733][982]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.14-01.25.17:726][982]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.14-01.25.19:320][982]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.14-01.25.23:244][982]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.14-01.25.23:817][982]LogFbx: Display: Triangulating static mesh Nova_hair
+[2020.01.14-01.25.25:044][982]LogStaticMesh: Building static mesh Nova_final_character_Nova_hair...
+[2020.01.14-01.25.25:846][982]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.01.14-01.25.26:112][982]LogStaticMesh: Built static mesh [1.73s] /Game/Animations/Nova_final_character_Nova_hair.Nova_final_character_Nova_hair
+[2020.01.14-01.25.26:887][982]LogFbx: Display: Triangulating static mesh Nova_face
+[2020.01.14-01.25.30:131][982]LogStaticMesh: Building static mesh Nova_final_character_Nova_face...
+[2020.01.14-01.25.30:346][982]LogStaticMesh: Built static mesh [1.37s] /Game/Animations/Nova_final_character_Nova_face.Nova_final_character_Nova_face
+[2020.01.14-01.25.30:866][982]LogFbx: Display: Triangulating static mesh pPlane2
+[2020.01.14-01.25.31:048][982]LogStaticMesh: Building static mesh Nova_final_character_pPlane2...
+[2020.01.14-01.25.31:054][982]LogStaticMesh: Built static mesh [0.16s] /Game/Animations/Nova_final_character_pPlane2.Nova_final_character_pPlane2
+[2020.01.14-01.25.32:347][982]LogFbx: Display: Triangulating static mesh polySurface4
+[2020.01.14-01.25.32:950][982]LogStaticMesh: Building static mesh Nova_final_character_polySurface4...
+[2020.01.14-01.25.32:979][982]LogStaticMesh: Built static mesh [0.53s] /Game/Animations/Nova_final_character_polySurface4.Nova_final_character_polySurface4
+[2020.01.14-01.25.33:538][982]LogFbx: Display: Triangulating static mesh polySurface3
+[2020.01.14-01.25.34:890][982]LogStaticMesh: Building static mesh Nova_final_character_polySurface3...
+[2020.01.14-01.25.35:102][982]LogStaticMesh: Built static mesh [0.43s] /Game/Animations/Nova_final_character_polySurface3.Nova_final_character_polySurface3
+[2020.01.14-01.25.36:232][982]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.14-01.25.36:232][982]FBXImport: Warning: Reached the maximum number of UV Channels for a Static Mesh(8) - discarding 148 UV Channels 
+[2020.01.14-01.25.43:595][114]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-01.25.43:662][114]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-01.28.16:012][316]LogUObjectHash: Compacting FUObjectHashTables data took   9.74ms
+[2020.01.14-01.28.16:012][316]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Levels/Maps/NovaTechConcept' took 0.319
+[2020.01.14-01.28.16:054][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/AimingAnim] ([1] browsable assets)...
+[2020.01.14-01.28.16:152][316]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/AimingAnim.AimingAnim]
+[2020.01.14-01.28.16:153][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AimingAnim]
+[2020.01.14-01.28.16:437][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AimingAnim_Auto154E321AC4341F85D75FB73B6352719BC.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/AimingAnim_Auto1.uasset'
+[2020.01.14-01.28.16:464][316]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/Nova_final_runcycle_Skeleton] ([1] browsable assets)...
+[2020.01.14-01.28.16:464][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_runcycle_Skeleton]
+[2020.01.14-01.28.16:582][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_runcycle_Skeleton_AutAF38CA134BE2D8FE8AAA1795F1E08D7A.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_runcycle_Skeleton_Auto1.uasset'
+[2020.01.14-01.28.16:583][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/JumpTransition] ([1] browsable assets)...
+[2020.01.14-01.28.16:627][316]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/JumpTransition.JumpTransition]
+[2020.01.14-01.28.16:627][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/JumpTransition]
+[2020.01.14-01.28.16:763][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/JumpTransition_Auto145C0409C46D9ABD5D0B22B81A67F9E7C.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/JumpTransition_Auto1.uasset'
+[2020.01.14-01.28.16:765][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_final_pushcycle_Anim] ([1] browsable assets)...
+[2020.01.14-01.28.16:812][316]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Nova_final_pushcycle_Anim.Nova_final_pushcycle_Anim]
+[2020.01.14-01.28.16:812][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_pushcycle_Anim]
+[2020.01.14-01.28.16:887][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_pushcycle_Anim_Auto19C67470A4C366D6AA072FB9A5A68587B.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_pushcycle_Anim_Auto1.uasset'
+[2020.01.14-01.28.16:888][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Idle_Run_Anim] ([1] browsable assets)...
+[2020.01.14-01.28.16:932][316]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/Animations/Idle_Run_Anim.Idle_Run_Anim]
+[2020.01.14-01.28.16:932][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Idle_Run_Anim]
+[2020.01.14-01.28.16:971][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Idle_Run_Anim_Auto1AE5BEC4B46CFE5B5C9F024BEF3A68804.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Idle_Run_Anim_Auto1.uasset'
+[2020.01.14-01.28.16:972][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_final_idle_Anim] ([1] browsable assets)...
+[2020.01.14-01.28.17:015][316]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Nova_final_idle_Anim.Nova_final_idle_Anim]
+[2020.01.14-01.28.17:015][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_idle_Anim]
+[2020.01.14-01.28.17:098][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_idle_Anim_Auto1C68D0D80498D11CD579AE3BDF9C6E684.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_idle_Anim_Auto1.uasset'
+[2020.01.14-01.28.17:100][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_final_runcycleNew_Anim] ([1] browsable assets)...
+[2020.01.14-01.28.17:141][316]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Nova_final_runcycleNew_Anim.Nova_final_runcycleNew_Anim]
+[2020.01.14-01.28.17:141][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_runcycleNew_Anim]
+[2020.01.14-01.28.17:234][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_runcycleNew_Anim_AutoCE7BFD0C4421049BB0619B81DE8F172D.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_runcycleNew_Anim_Auto1.uasset'
+[2020.01.14-01.28.17:236][316]OBJ SavePackage: Generating thumbnails for [5] asset(s) in package [/Game/Animations/Nova_final_character] ([5] browsable assets)...
+[2020.01.14-01.28.17:275][316]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Nova_final_character.Nova_final_character_Nova_hair]
+[2020.01.14-01.28.17:314][316]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Nova_final_character.Nova_final_character_Nova_face]
+[2020.01.14-01.28.17:353][316]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Nova_final_character.Nova_final_character_pPlane2]
+[2020.01.14-01.28.17:394][316]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Nova_final_character.Nova_final_character_polySurface4]
+[2020.01.14-01.28.17:444][316]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Nova_final_character.Nova_final_character_polySurface3]
+[2020.01.14-01.28.17:444][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_character]
+[2020.01.14-01.28.17:768][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_character_Auto1E97A9712417774A5EB4A67943A34403A.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_character_Auto1.uasset'
+[2020.01.14-01.28.17:770][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/defaultPolygonShader] ([1] browsable assets)...
+[2020.01.14-01.28.17:816][316]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/defaultPolygonShader.defaultPolygonShader]
+[2020.01.14-01.28.17:816][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/defaultPolygonShader]
+[2020.01.14-01.28.17:858][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/defaultPolygonShader_Auto1F035894B44B7B9DCF5E3D6A5FF8EB101.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/defaultPolygonShader_Auto1.uasset'
+[2020.01.14-01.28.17:860][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_final_character_pPlane2_PhysicsAsset] ([1] browsable assets)...
+[2020.01.14-01.28.17:904][316]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Nova_final_character_pPlane2_PhysicsAsset.Nova_final_character_pPlane2_PhysicsAsset]
+[2020.01.14-01.28.17:904][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_character_pPlane2_PhysicsAsset]
+[2020.01.14-01.28.18:045][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_character_pPlane2_PhyFD29973D4EAB4E9E1C656B91FFD4C9F9.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_character_pPlane2_PhysicsAsset_Auto1.uasset'
+[2020.01.14-01.28.18:048][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/lambert5] ([1] browsable assets)...
+[2020.01.14-01.28.18:097][316]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/lambert5.lambert5]
+[2020.01.14-01.28.18:097][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/lambert5]
+[2020.01.14-01.28.18:126][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/lambert5_Auto1884505C543AC01AC7CFE94805B2C9B6A.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/lambert5_Auto1.uasset'
+[2020.01.14-01.28.18:128][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_final_character_Nova_hair_PhysicsAsset] ([1] browsable assets)...
+[2020.01.14-01.28.18:182][316]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Nova_final_character_Nova_hair_PhysicsAsset.Nova_final_character_Nova_hair_PhysicsAsset]
+[2020.01.14-01.28.18:182][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_character_Nova_hair_PhysicsAsset]
+[2020.01.14-01.28.18:207][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_character_Nova_hair_P656071F34422E39D33A3C0B961530C4F.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_character_Nova_hair_PhysicsAsset_Auto1.uasset'
+[2020.01.14-01.28.18:211][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/lambert6] ([1] browsable assets)...
+[2020.01.14-01.28.18:253][316]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/lambert6.lambert6]
+[2020.01.14-01.28.18:253][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/lambert6]
+[2020.01.14-01.28.18:276][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/lambert6_Auto176FE85D24065E0F513D5D0B83293AE85.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/lambert6_Auto1.uasset'
+[2020.01.14-01.28.18:278][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/lambert7] ([1] browsable assets)...
+[2020.01.14-01.28.18:320][316]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/lambert7.lambert7]
+[2020.01.14-01.28.18:320][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/lambert7]
+[2020.01.14-01.28.18:346][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/lambert7_Auto11F8F342E44582750CC63798C805E56EB.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/lambert7_Auto1.uasset'
+[2020.01.14-01.28.18:348][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_final_character_Nova_face_PhysicsAsset] ([1] browsable assets)...
+[2020.01.14-01.28.18:391][316]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Nova_final_character_Nova_face_PhysicsAsset.Nova_final_character_Nova_face_PhysicsAsset]
+[2020.01.14-01.28.18:391][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_character_Nova_face_PhysicsAsset]
+[2020.01.14-01.28.18:414][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_character_Nova_face_P4D108375420BBF1D977CDCAED1DC7A6D.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_character_Nova_face_PhysicsAsset_Auto1.uasset'
+[2020.01.14-01.28.18:415][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/lambert8] ([1] browsable assets)...
+[2020.01.14-01.28.18:456][316]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/lambert8.lambert8]
+[2020.01.14-01.28.18:456][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/lambert8]
+[2020.01.14-01.28.18:967][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/lambert8_Auto1AC0866B44A417792B717A692E68D04A8.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/lambert8_Auto1.uasset'
+[2020.01.14-01.28.18:970][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/defaultPolygonShader2] ([1] browsable assets)...
+[2020.01.14-01.28.19:038][316]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/defaultPolygonShader2.defaultPolygonShader2]
+[2020.01.14-01.28.19:038][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/defaultPolygonShader2]
+[2020.01.14-01.28.19:070][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/defaultPolygonShader2_Auto10575BB114B194A900965508F37BD60F6.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/defaultPolygonShader2_Auto1.uasset'
+[2020.01.14-01.28.19:072][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_final_character_polySurface3_PhysicsAsset] ([1] browsable assets)...
+[2020.01.14-01.28.19:124][316]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Nova_final_character_polySurface3_PhysicsAsset.Nova_final_character_polySurface3_PhysicsAsset]
+[2020.01.14-01.28.19:124][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_character_polySurface3_PhysicsAsset]
+[2020.01.14-01.28.19:161][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_character_polySurfaceA2CE0BC142D85EC872CFEB8AC9196EF4.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_character_polySurface3_PhysicsAsset_Auto1.uasset'
+[2020.01.14-01.28.19:163][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_final_character_Nova_hair] ([1] browsable assets)...
+[2020.01.14-01.28.19:213][316]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Animations/Nova_final_character_Nova_hair.Nova_final_character_Nova_hair]
+[2020.01.14-01.28.19:213][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_character_Nova_hair]
+[2020.01.14-01.28.19:313][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_character_Nova_hair_A42C295A94ED6246621E5FD934717931A.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_character_Nova_hair_Auto1.uasset'
+[2020.01.14-01.28.19:315][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_final_character_Nova_face] ([1] browsable assets)...
+[2020.01.14-01.28.19:368][316]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Animations/Nova_final_character_Nova_face.Nova_final_character_Nova_face]
+[2020.01.14-01.28.19:368][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_character_Nova_face]
+[2020.01.14-01.28.19:613][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_character_Nova_face_A644B8E944134D29FDB49608965E1A35C.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_character_Nova_face_Auto1.uasset'
+[2020.01.14-01.28.19:615][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_final_character_pPlane2] ([1] browsable assets)...
+[2020.01.14-01.28.19:667][316]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Animations/Nova_final_character_pPlane2.Nova_final_character_pPlane2]
+[2020.01.14-01.28.19:667][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_character_pPlane2]
+[2020.01.14-01.28.19:707][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_character_pPlane2_AutFA54F9A646BA75F4247B5B8CEA2967ED.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_character_pPlane2_Auto1.uasset'
+[2020.01.14-01.28.19:710][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_final_character_polySurface4] ([1] browsable assets)...
+[2020.01.14-01.28.19:763][316]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Animations/Nova_final_character_polySurface4.Nova_final_character_polySurface4]
+[2020.01.14-01.28.19:763][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_character_polySurface4]
+[2020.01.14-01.28.19:806][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_character_polySurfaceDC5CDDEF4F25DBD6317397A78428EC35.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_character_polySurface4_Auto1.uasset'
+[2020.01.14-01.28.19:807][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_final_character_polySurface3] ([1] browsable assets)...
+[2020.01.14-01.28.19:861][316]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Animations/Nova_final_character_polySurface3.Nova_final_character_polySurface3]
+[2020.01.14-01.28.19:861][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_final_character_polySurface3]
+[2020.01.14-01.28.20:071][316]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_final_character_polySurface76E981974A4893B5131DFAB8241627F1.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_final_character_polySurface3_Auto1.uasset'
+[2020.01.14-01.28.20:073][316]LogFileHelpers: Auto-saving content packages took 4.060
+[2020.01.14-01.29.24:650][679]Cmd: TRANSACTION UNDO
+[2020.01.14-01.29.24:650][679]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2020.01.14-01.30.09:210][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_final_character.fbx)
+[2020.01.14-01.30.09:258][267]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_final_character.fbx
+[2020.01.14-01.30.09:590][267]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.14-01.30.13:761][267]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.14-01.30.13:855][267]LogFbx: Display: Triangulating static mesh Nova_hair
+[2020.01.14-01.30.13:960][267]LogStaticMesh: Building static mesh Nova_final_character_Nova_hair...
+[2020.01.14-01.30.13:972][267]LogStaticMesh: Built static mesh [0.01s] /Game/Animations/Nova_final_character_Nova_hair.Nova_final_character_Nova_hair
+[2020.01.14-01.30.14:127][267]LogFbx: Display: Triangulating static mesh Nova_face
+[2020.01.14-01.30.16:177][267]LogStaticMesh: Building static mesh Nova_final_character_Nova_face...
+[2020.01.14-01.30.16:391][267]LogStaticMesh: Built static mesh [0.24s] /Game/Animations/Nova_final_character_Nova_face.Nova_final_character_Nova_face
+[2020.01.14-01.30.16:525][267]LogFbx: Display: Triangulating static mesh pPlane2
+[2020.01.14-01.30.16:554][267]LogStaticMesh: Building static mesh Nova_final_character_pPlane2...
+[2020.01.14-01.30.16:559][267]LogStaticMesh: Built static mesh [0.00s] /Game/Animations/Nova_final_character_pPlane2.Nova_final_character_pPlane2
+[2020.01.14-01.30.16:626][267]LogFbx: Display: Triangulating static mesh polySurface4
+[2020.01.14-01.30.16:741][267]LogStaticMesh: Building static mesh Nova_final_character_polySurface4...
+[2020.01.14-01.30.16:755][267]LogStaticMesh: Built static mesh [0.01s] /Game/Animations/Nova_final_character_polySurface4.Nova_final_character_polySurface4
+[2020.01.14-01.30.16:949][267]LogFbx: Display: Triangulating static mesh polySurface3
+[2020.01.14-01.30.18:176][267]LogStaticMesh: Building static mesh Nova_final_character_polySurface3...
+[2020.01.14-01.30.18:341][267]LogStaticMesh: Built static mesh [0.16s] /Game/Animations/Nova_final_character_polySurface3.Nova_final_character_polySurface3
+[2020.01.14-01.30.18:736][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.14-01.30.18:736][267]FBXImport: Warning: Reached the maximum number of UV Channels for a Static Mesh(8) - discarding 148 UV Channels 
+[2020.01.14-01.30.19:589][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_idle_animation.fbx)
+[2020.01.14-01.30.19:639][267]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_idle_animation.fbx
+[2020.01.14-01.30.20:297][267]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.14-01.30.20:415][267]LogFbx: Display: Triangulating static mesh Nova_final_character
+[2020.01.14-01.30.25:700][267]LogStaticMesh: Building static mesh Nova_idle_animation_Nova_final_character...
+[2020.01.14-01.30.26:157][267]LogStaticMesh: Built static mesh [0.50s] /Game/Animations/Nova_idle_animation_Nova_final_character.Nova_idle_animation_Nova_final_character
+[2020.01.14-01.30.26:584][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.14-01.30.26:584][267]FBXImport: Warning: Reached the maximum number of UV Channels for a Static Mesh(8) - discarding 148 UV Channels 
+[2020.01.14-01.30.29:159][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_jumping_animation.fbx)
+[2020.01.14-01.30.29:215][267]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_jumping_animation.fbx
+[2020.01.14-01.30.29:736][267]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.14-01.30.29:772][267]LogFbx: Display: Triangulating static mesh Nova_final_character
+[2020.01.14-01.30.34:457][267]LogStaticMesh: Building static mesh Nova_jumping_animation_Nova_final_character...
+[2020.01.14-01.30.34:906][267]LogStaticMesh: Built static mesh [0.45s] /Game/Animations/Nova_jumping_animation_Nova_final_character.Nova_jumping_animation_Nova_final_character
+[2020.01.14-01.30.35:324][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.14-01.30.35:324][267]FBXImport: Warning: Reached the maximum number of UV Channels for a Static Mesh(8) - discarding 148 UV Channels 
+[2020.01.14-01.30.42:349][391]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-01.30.42:417][391]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-01.31.21:331][840]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/NovaAnimations.NovaAnimations
+[2020.01.14-01.31.24:441][840]LogSlate: Window 'Message' being destroyed
+[2020.01.14-01.31.24:451][840]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_final_idle_Anim.Nova_final_idle_Anim
+[2020.01.14-01.31.24:452][840]LogAnimationCompression: Compression Requested for Empty Animation Nova_final_idle_Anim
+[2020.01.14-01.31.24:459][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.14-01.31.25:321][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.14-01.31.26:777][840]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.14-01.32.52:334][ 80]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Animations/Nova_idle_animation_Nova_final_character.Nova_idle_animation_Nova_final_character
+[2020.01.14-01.32.52:689][ 80]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2020.01.14-01.32.54:295][ 81]LogRenderer: Reallocating scene render targets to support 1016x608 Format 10 NumSamples 1 (Frame:1).
+[2020.01.14-01.33.04:986][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-01.33.15:139][400]LogUObjectHash: Compacting FUObjectHashTables data took   9.58ms
+[2020.01.14-01.33.18:530][400]LogSlate: Window 'Save Content' being destroyed
+[2020.01.14-01.33.18:906][400]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.14-01.33.19:574][400]LogSlate: Window 'NovasJourney - Unreal Editor' being destroyed
+[2020.01.14-01.33.20:135][401]Cmd: QUIT_EDITOR
+[2020.01.14-01.33.21:300][401]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.14-01.33.21:401][401]LogExit: Preparing to exit.
+[2020.01.14-01.33.23:051][401]LogExit: Editor shut down
+[2020.01.14-01.33.23:052][401]LogExit: Transaction tracking system shut down
+[2020.01.14-01.33.26:597][401]LogExit: Object subsystem successfully closed.
+[2020.01.14-01.33.26:995][401]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.14-01.33.27:118][401]LogD3D11RHI: Shutdown
+[2020.01.14-01.33.27:118][401]LogD3D11RHI: CleanupD3DDevice
+[2020.01.14-01.33.27:295][401]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.01.14-01.33.27:295][401]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.14-01.33.27:301][401]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.01.14-01.33.27:301][401]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.14-01.33.27:302][401]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.01.14-01.33.27:302][401]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.14-01.33.28:561][401]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.14-01.33.31:356][401]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (658)
+[2020.01.14-01.33.31:356][401]LogModuleManager: Shutting down and abandoning module MeshBuilder (656)
+[2020.01.14-01.33.31:356][401]LogModuleManager: Shutting down and abandoning module PinnedCommandList (654)
+[2020.01.14-01.33.31:356][401]LogModuleManager: Shutting down and abandoning module SkeletonEditor (652)
+[2020.01.14-01.33.31:373][401]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2020.01.14-01.33.31:373][401]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2020.01.14-01.33.31:389][401]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2020.01.14-01.33.31:389][401]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2020.01.14-01.33.31:390][401]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2020.01.14-01.33.31:390][401]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2020.01.14-01.33.31:409][401]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2020.01.14-01.33.31:409][401]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2020.01.14-01.33.31:409][401]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2020.01.14-01.33.31:417][401]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2020.01.14-01.33.31:441][401]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2020.01.14-01.33.31:453][401]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2020.01.14-01.33.31:737][401]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2020.01.14-01.33.31:820][401]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2020.01.14-01.33.31:820][401]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2020.01.14-01.33.31:820][401]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2020.01.14-01.33.31:820][401]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2020.01.14-01.33.31:820][401]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2020.01.14-01.33.31:820][401]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2020.01.14-01.33.31:967][401]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2020.01.14-01.33.31:977][401]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2020.01.14-01.33.31:992][401]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2020.01.14-01.33.32:015][401]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2020.01.14-01.33.32:024][401]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2020.01.14-01.33.32:127][401]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2020.01.14-01.33.32:176][401]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2020.01.14-01.33.32:176][401]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2020.01.14-01.33.32:241][401]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2020.01.14-01.33.32:260][401]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2020.01.14-01.33.32:260][401]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2020.01.14-01.33.32:260][401]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2020.01.14-01.33.32:260][401]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2020.01.14-01.33.32:260][401]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2020.01.14-01.33.32:272][401]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2020.01.14-01.33.32:279][401]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2020.01.14-01.33.32:312][401]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2020.01.14-01.33.32:322][401]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2020.01.14-01.33.32:322][401]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2020.01.14-01.33.32:322][401]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2020.01.14-01.33.32:387][401]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2020.01.14-01.33.32:387][401]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2020.01.14-01.33.32:415][401]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2020.01.14-01.33.32:489][401]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2020.01.14-01.33.32:507][401]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2020.01.14-01.33.32:507][401]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2020.01.14-01.33.32:522][401]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2020.01.14-01.33.32:522][401]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2020.01.14-01.33.32:532][401]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2020.01.14-01.33.33:411][401]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2020.01.14-01.33.33:411][401]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2020.01.14-01.33.33:411][401]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2020.01.14-01.33.33:411][401]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2020.01.14-01.33.33:411][401]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2020.01.14-01.33.33:632][401]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2020.01.14-01.33.34:264][401]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2020.01.14-01.33.34:278][401]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2020.01.14-01.33.34:326][401]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2020.01.14-01.33.34:339][401]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2020.01.14-01.33.34:339][401]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2020.01.14-01.33.34:349][401]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2020.01.14-01.33.34:360][401]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2020.01.14-01.33.34:371][401]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2020.01.14-01.33.34:383][401]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2020.01.14-01.33.34:383][401]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2020.01.14-01.33.34:394][401]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2020.01.14-01.33.34:394][401]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2020.01.14-01.33.34:556][401]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2020.01.14-01.33.34:595][401]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2020.01.14-01.33.34:612][401]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2020.01.14-01.33.34:649][401]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2020.01.14-01.33.34:667][401]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2020.01.14-01.33.34:848][401]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2020.01.14-01.33.34:888][401]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2020.01.14-01.33.34:926][401]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2020.01.14-01.33.35:170][401]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2020.01.14-01.33.35:170][401]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2020.01.14-01.33.35:170][401]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2020.01.14-01.33.35:175][401]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2020.01.14-01.33.35:195][401]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2020.01.14-01.33.35:195][401]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2020.01.14-01.33.35:195][401]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2020.01.14-01.33.35:195][401]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2020.01.14-01.33.35:211][401]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2020.01.14-01.33.35:268][401]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2020.01.14-01.33.35:269][401]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2020.01.14-01.33.35:294][401]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2020.01.14-01.33.35:306][401]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.01.14-01.33.35:329][401]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.01.14-01.33.35:430][401]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.01.14-01.33.35:430][401]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.01.14-01.33.35:509][401]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.01.14-01.33.35:509][401]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.01.14-01.33.35:767][401]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.01.14-01.33.35:768][401]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.01.14-01.33.35:768][401]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.01.14-01.33.35:804][401]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.01.14-01.33.35:818][401]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.01.14-01.33.35:818][401]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.01.14-01.33.35:818][401]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.01.14-01.33.35:818][401]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.01.14-01.33.35:818][401]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.01.14-01.33.35:819][401]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.01.14-01.33.35:925][401]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.01.14-01.33.36:003][401]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.01.14-01.33.36:088][401]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.01.14-01.33.36:088][401]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2020.01.14-01.33.36:096][401]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2020.01.14-01.33.36:210][401]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2020.01.14-01.33.36:485][401]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2020.01.14-01.33.36:485][401]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2020.01.14-01.33.36:643][401]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2020.01.14-01.33.36:761][401]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2020.01.14-01.33.36:896][401]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2020.01.14-01.33.36:896][401]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2020.01.14-01.33.36:896][401]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2020.01.14-01.33.37:065][401]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2020.01.14-01.33.37:065][401]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2020.01.14-01.33.37:065][401]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2020.01.14-01.33.37:065][401]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2020.01.14-01.33.37:065][401]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2020.01.14-01.33.37:065][401]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2020.01.14-01.33.37:065][401]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2020.01.14-01.33.37:285][401]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2020.01.14-01.33.37:285][401]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2020.01.14-01.33.37:285][401]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2020.01.14-01.33.37:285][401]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2020.01.14-01.33.37:285][401]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2020.01.14-01.33.37:405][401]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2020.01.14-01.33.37:556][401]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.01.14-01.33.37:556][401]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.01.14-01.33.37:556][401]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.01.14-01.33.37:556][401]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.01.14-01.33.37:567][401]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.01.14-01.33.37:567][401]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.01.14-01.33.37:567][401]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.01.14-01.33.37:567][401]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.01.14-01.33.37:567][401]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.01.14-01.33.37:567][401]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.01.14-01.33.37:567][401]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.01.14-01.33.37:567][401]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.01.14-01.33.37:567][401]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.01.14-01.33.37:579][401]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.01.14-01.33.37:579][401]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.01.14-01.33.37:602][401]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.01.14-01.33.37:970][401]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2020.01.14-01.33.37:995][401]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2020.01.14-01.33.37:995][401]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2020.01.14-01.33.37:995][401]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2020.01.14-01.33.38:004][401]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2020.01.14-01.33.38:004][401]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2020.01.14-01.33.38:004][401]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2020.01.14-01.33.38:052][401]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2020.01.14-01.33.38:691][401]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2020.01.14-01.33.38:742][401]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2020.01.14-01.33.38:766][401]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2020.01.14-01.33.38:814][401]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2020.01.14-01.33.38:814][401]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.01.14-01.33.38:862][401]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.01.14-01.33.38:862][401]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.01.14-01.33.38:863][401]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.01.14-01.33.38:863][401]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.01.14-01.33.38:863][401]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.01.14-01.33.39:131][401]LogModuleManager: Shutting down and abandoning module NovasJourney (296)
+[2020.01.14-01.33.39:131][401]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.01.14-01.33.39:131][401]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.01.14-01.33.39:131][401]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.01.14-01.33.39:132][401]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.01.14-01.33.39:132][401]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.01.14-01.33.39:132][401]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.01.14-01.33.39:132][401]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.01.14-01.33.39:233][401]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.01.14-01.33.39:402][401]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.01.14-01.33.39:402][401]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.01.14-01.33.39:402][401]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.01.14-01.33.39:455][401]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.01.14-01.33.39:455][401]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.01.14-01.33.39:472][401]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.14-01.33.39:472][401]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.01.14-01.33.39:472][401]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.01.14-01.33.39:472][401]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.01.14-01.33.39:587][401]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.01.14-01.33.39:643][401]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.01.14-01.33.39:643][401]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.01.14-01.33.39:644][401]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.01.14-01.33.39:738][401]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.01.14-01.33.39:940][401]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.01.14-01.33.39:984][401]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.01.14-01.33.40:006][401]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.01.14-01.33.40:007][401]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.01.14-01.33.40:026][401]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.01.14-01.33.40:029][401]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.01.14-01.33.40:037][401]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.01.14-01.33.40:037][401]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.01.14-01.33.40:037][401]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.01.14-01.33.40:037][401]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.01.14-01.33.40:043][401]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.01.14-01.33.40:086][401]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.01.14-01.33.40:189][401]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.01.14-01.33.40:190][401]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.01.14-01.33.40:211][401]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.01.14-01.33.40:257][401]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.01.14-01.33.40:257][401]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.01.14-01.33.40:257][401]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.01.14-01.33.40:257][401]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.01.14-01.33.40:327][401]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.01.14-01.33.40:372][401]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.01.14-01.33.40:373][401]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.01.14-01.33.40:501][401]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.01.14-01.33.40:513][401]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.01.14-01.33.40:617][401]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.01.14-01.33.41:338][401]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.01.14-01.33.41:348][401]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.01.14-01.33.41:504][401]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.01.14-01.33.41:627][401]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.01.14-01.33.41:628][401]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.01.14-01.33.41:898][401]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.01.14-01.33.41:898][401]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.01.14-01.33.42:007][401]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.01.14-01.33.42:086][401]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.01.14-01.33.42:086][401]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.01.14-01.33.42:086][401]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.01.14-01.33.42:094][401]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.01.14-01.33.42:094][401]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.01.14-01.33.42:094][401]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.01.14-01.33.42:094][401]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.01.14-01.33.42:094][401]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.01.14-01.33.42:105][401]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.01.14-01.33.42:128][401]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.01.14-01.33.42:128][401]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.01.14-01.33.42:155][401]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.01.14-01.33.42:277][401]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.01.14-01.33.42:346][401]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.01.14-01.33.42:369][401]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.01.14-01.33.42:427][401]LogDerivedDataCache: Shutdown
+[2020.01.14-01.33.42:427][401]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.01.14-01.33.42:473][401]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.01.14-01.33.42:485][401]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.01.14-01.33.42:511][401]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.01.14-01.33.42:530][401]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.01.14-01.33.42:543][401]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.01.14-01.33.42:604][401]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.01.14-01.33.42:647][401]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.01.14-01.33.42:647][401]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.01.14-01.33.42:661][401]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.01.14-01.33.42:688][401]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.01.14-01.33.42:739][401]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.01.14-01.33.42:739][401]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.01.14-01.33.42:739][401]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.01.14-01.33.42:739][401]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.01.14-01.33.42:739][401]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.01.14-01.33.42:739][401]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.01.14-01.33.42:739][401]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.01.14-01.33.42:771][401]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.01.14-01.33.42:771][401]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.01.14-01.33.42:771][401]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.01.14-01.33.42:794][401]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.01.14-01.33.42:803][401]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.01.14-01.33.42:805][401]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.01.14-01.33.42:806][401]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.01.14-01.33.42:811][401]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.01.14-01.33.42:894][401]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.01.14-01.33.42:961][401]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.01.14-01.33.42:978][401]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.01.14-01.33.43:002][401]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.01.14-01.33.43:022][401]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.01.14-01.33.43:022][401]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.01.14-01.33.43:022][401]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.01.14-01.33.43:022][401]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.01.14-01.33.43:022][401]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.01.14-01.33.43:022][401]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.01.14-01.33.43:022][401]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.01.14-01.33.43:022][401]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.01.14-01.33.43:023][401]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.01.14-01.33.43:023][401]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.01.14-01.33.43:023][401]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.01.14-01.33.43:023][401]LogHMD: Freeing OpenVRDLLHandle.
+[2020.01.14-01.33.43:023][401]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.01.14-01.33.43:060][401]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.01.14-01.33.43:060][401]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.01.14-01.33.43:060][401]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.01.14-01.33.43:060][401]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.01.14-01.33.43:070][401]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.01.14-01.33.43:132][401]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.01.14-01.33.43:297][401]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.01.14-01.33.43:297][401]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.01.14-01.33.43:297][401]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B850A92E9-425A-CBDC-E55B-2DA26F525023%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9d39cb6546cf98ec4040079887e56722%7C314f700a78834c598602460b9b95343b%7C99662cf9-b7d9-41e1-ba78-471d4d3a1d32&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.14-01.33.43:330][401]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.01.14-01.33.43:457][401]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.01.14-01.33.43:480][401]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.01.14-01.33.43:487][401]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.01.14-01.33.43:499][401]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.01.14-01.33.43:500][401]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.01.14-01.33.43:542][401]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.01.14-01.33.43:691][401]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.01.14-01.33.43:787][401]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.01.14-01.33.43:805][401]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.01.14-01.33.43:805][401]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.01.14-01.33.43:805][401]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.01.14-01.33.43:835][401]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.01.14-01.33.43:872][401]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.01.14-01.33.43:872][401]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.01.14-01.33.43:872][401]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.01.14-01.33.43:872][401]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.01.14-01.33.43:872][401]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.01.14-01.33.43:872][401]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.01.14-01.33.43:955][401]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.01.14-01.33.43:956][401]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.01.14-01.33.43:981][401]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.01.14-01.33.43:981][401]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.01.14-01.33.44:022][401]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.01.14-01.33.44:071][401]LogExit: Exiting.
+[2020.01.14-01.33.44:236][401]Log file closed, 01/13/20 20:33:44
