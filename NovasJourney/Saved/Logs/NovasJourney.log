@@ -3170,3 +3170,9 @@ Please see Output Log for details.
 [2020.01.16-21.26.28:595][ 81]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova128EA9F1643835C8C42255E99E4E2F2E4.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Actors/Character/Nova1.uasset'
 [2020.01.16-21.26.43:334][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
 [2020.01.16-21.31.31:843][439]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/Character/Nova1.Nova1
+[2020.01.16-21.56.30:339][808]LogAssetEditorManager: Opening Asset editor for SoundClass /Game/Content/Actors/NewSoundClass.NewSoundClass
+[2020.01.16-21.56.54:931][355]LogSlate: Window 'NewSoundClass' being destroyed
+[2020.01.16-21.56.54:945][355]LogSlate: Window 'NewSoundClass' being destroyed
+[2020.01.16-21.56.59:290][573]LogUObjectHash: Compacting FUObjectHashTables data took  13.04ms
+[2020.01.16-21.57.01:248][573]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.16-21.57.01:441][573]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
