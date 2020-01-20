@@ -584,3 +584,53 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.20-00.02.53:130][545]LogSlate: Window 'Save Content' being destroyed
 [2020.01.20-00.02.53:221][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio_SG/Force_Push" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/Force_Push.uasset" SILENT=true
 [2020.01.20-00.02.53:395][545]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Force_PushA659453F42BECAB20ADEDBB517E0890B.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/Force_Push.uasset'
+[2020.01.20-00.13.10:520][195]LogAssetEditorManager: Opening Asset editor for SoundClass /Game/Audio_SG/SFXClass.SFXClass
+[2020.01.20-00.13.11:042][195]LogSlate: Took 0.054993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.20-00.13.14:974][290]LogSlate: Window 'SFXClass' being destroyed
+[2020.01.20-00.13.14:980][290]LogSlate: Window 'SFXClass' being destroyed
+[2020.01.20-00.13.17:671][358]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footsteps...
+[2020.01.20-00.13.18:024][358]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 52000 while cooking SoundWave /Game/Audio_SG/Footsteps.Footsteps.
+[2020.01.20-00.13.24:363][574]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio_SG/Footsteps.Footsteps
+[2020.01.20-00.13.27:764][654]LogSlate: Window 'Footsteps' being destroyed
+[2020.01.20-00.13.34:485][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio_SG/Footsteps" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/Footsteps.uasset" SILENT=true
+[2020.01.20-00.13.34:920][ 41]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Footsteps869C0408473AFE92BAC7FEBD3E90C258.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/Footsteps.uasset'
+[2020.01.20-00.13.38:427][181]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave forcefield...
+[2020.01.20-00.13.40:005][181]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 10842624 while cooking SoundWave /Game/Audio_SG/forcefield.forcefield.
+[2020.01.20-00.13.40:019][181]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio_SG/forcefield.forcefield
+[2020.01.20-00.13.45:384][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio_SG/forcefield" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/forcefield.uasset" SILENT=true
+[2020.01.20-00.13.45:443][492]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/forcefield04326ACB44B23962D52358A081A2281F.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/forcefield.uasset'
+[2020.01.20-00.13.48:664][624]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio_SG/Force_Push.Force_Push
+[2020.01.20-00.13.55:017][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio_SG/Force_Push" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/Force_Push.uasset" SILENT=true
+[2020.01.20-00.13.55:100][988]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Force_PushCC922DEC407C7F435B5C06883560C89C.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/Force_Push.uasset'
+[2020.01.20-00.13.59:416][162]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave weapon_gun_shoot...
+[2020.01.20-00.13.59:504][162]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 519300 while cooking SoundWave /Game/Audio_SG/weapon_gun_shoot.weapon_gun_shoot.
+[2020.01.20-00.13.59:516][162]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio_SG/weapon_gun_shoot.weapon_gun_shoot
+[2020.01.20-00.14.05:780][526]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/weapon_gun_shoot9DFA2EB548BF1784049FF5A104415583.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/weapon_gun_shoot.uasset'
+[2020.01.20-00.14.30:471][435]LogAssetEditorManager: Opening Asset editor for SoundMix /Game/Audio_SG/SFXMix.SFXMix
+[2020.01.20-00.14.33:632][534]LogSlate: Window 'SFXMix' being destroyed
+[2020.01.20-00.16.05:269][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.01.20-00.16.05:269][703]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Levels/Maps/NovaTechConcept' took 0.031
+[2020.01.20-00.16.05:288][703]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio_SG/SFXClass] ([1] browsable assets)...
+[2020.01.20-00.16.05:288][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio_SG/SFXClass]
+[2020.01.20-00.16.05:298][703]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/SFXClass_Auto17581C33F4CF17A6F95E26A91D27AEB2F.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Audio_SG/SFXClass_Auto1.uasset'
+[2020.01.20-00.16.05:300][703]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio_SG/SFXMix] ([1] browsable assets)...
+[2020.01.20-00.16.05:300][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio_SG/SFXMix]
+[2020.01.20-00.16.05:309][703]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/SFXMix_Auto1C1066D78451B1CF367A105AFC36D45A7.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Audio_SG/SFXMix_Auto1.uasset'
+[2020.01.20-00.16.05:311][703]LogFileHelpers: Auto-saving content packages took 0.041
+[2020.01.20-00.17.40:987][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio_SG/SFXMix" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/SFXMix.uasset" SILENT=true
+[2020.01.20-00.17.41:001][  6]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/SFXMix60FE75D54C0F86077C23C6933802BAE1.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/SFXMix.uasset'
+[2020.01.20-00.18.06:879][884]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave star_gazing...
+[2020.01.20-00.18.15:371][884]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 56881152 while cooking SoundWave /Game/Audio_SG/star_gazing.star_gazing.
+[2020.01.20-00.18.15:396][884]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio_SG/star_gazing.star_gazing
+[2020.01.20-00.18.22:375][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio_SG/star_gazing" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/star_gazing.uasset" SILENT=true
+[2020.01.20-00.18.23:610][284]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/star_gazing34BE966C42BA05D3243DB4B8A13416C7.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/star_gazing.uasset'
+[2020.01.20-00.18.42:565][ 42]LogAssetEditorManager: Opening Asset editor for SoundMix /Game/Audio_SG/BGMMix.BGMMix
+[2020.01.20-00.18.44:902][115]LogSlate: Window 'BGMMix' being destroyed
+[2020.01.20-00.18.56:267][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio_SG/BGMMix" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/BGMMix.uasset" SILENT=true
+[2020.01.20-00.18.56:281][795]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/BGMMixEBC50B9B4D361876CA8D1CA08A7969E0.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/BGMMix.uasset'
+[2020.01.20-00.19.25:483][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.01.20-00.19.27:777][258]LogSlate: Window 'Save Content' being destroyed
+[2020.01.20-00.19.27:802][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio_SG/BGMClass" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/BGMClass.uasset" SILENT=true
+[2020.01.20-00.19.27:825][258]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/BGMClass2355F4D84733CECD205FCCBBB4583670.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/BGMClass.uasset'
+[2020.01.20-00.19.27:831][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio_SG/SFXClass" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/SFXClass.uasset" SILENT=true
+[2020.01.20-00.19.27:844][258]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/SFXClass06A0C84A43E0A3CC0C6E56B2C0552118.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/SFXClass.uasset'
