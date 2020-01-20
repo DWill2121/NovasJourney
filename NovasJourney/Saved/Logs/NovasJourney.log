@@ -1257,3 +1257,1386 @@ Make sure 'Nova1_C' has been compiled for  Set Brightness Value
 [2020.01.20-22.04.17:968][544]LogSlate: Window 'Save Content' being destroyed
 [2020.01.20-22.04.18:054][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Nova_BS" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset" SILENT=true
 [2020.01.20-22.04.18:152][544]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_BS71ABFA1D4EE88618FDC3BB9E59B9BE06.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset'
+[2020.01.20-22.05.00:399][729]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Animations/Nova_BS.Nova_BS
+[2020.01.20-22.05.00:437][729]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-22.05.00:478][729]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-22.05.01:260][729]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-22.05.26:270][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Nova_BS" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset" SILENT=true
+[2020.01.20-22.05.26:318][655]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_BS9E44993A4DCCEC166582D1A3945C7295.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset'
+[2020.01.20-22.06.36:725][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Nova_BS" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset" SILENT=true
+[2020.01.20-22.06.36:762][879]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_BSBFAF7498432E0E5EFC00FE80FA1BD480.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset'
+[2020.01.20-22.09.53:043][ 31]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.01.20-22.09.55:913][144]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-22.10.55:446][330]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_run_animation.fbx)
+[2020.01.20-22.10.55:494][330]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_run_animation.fbx
+[2020.01.20-22.10.56:100][330]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-22.10.59:953][330]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.20-22.11.00:029][330]LogFbx: =================================================
+[2020.01.20-22.11.00:029][330]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.11.00:029][330]LogFbx: 	Total Deformer Count -62948384.
+[2020.01.20-22.11.00:029][330]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.11.00:029][330]LogFbx: =================================================
+[2020.01.20-22.11.00:029][330]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.11.00:029][330]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.11.00:029][330]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.11.00:030][330]LogFbx: =================================================
+[2020.01.20-22.11.00:030][330]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.11.00:030][330]LogFbx: 	Total Deformer Count -62948384.
+[2020.01.20-22.11.00:030][330]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.11.00:030][330]LogFbx: =================================================
+[2020.01.20-22.11.00:030][330]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.11.00:030][330]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.11.00:030][330]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.11.00:034][330]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
+[2020.01.20-22.11.00:055][330]LogFbx: Triangulating skeletal mesh Nova_final_character
+[2020.01.20-22.11.03:864][330]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.20-22.11.04:697][330]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
+[2020.01.20-22.11.04:698][330]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
+[2020.01.20-22.11.04:698][330]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
+[2020.01.20-22.11.04:698][330]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
+[2020.01.20-22.11.04:698][330]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
+[2020.01.20-22.11.04:698][330]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
+[2020.01.20-22.11.04:701][330]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.20-22.11.04:701][330]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
+[2020.01.20-22.11.04:701][330]LogSkeletalMesh: Section 2: Material=2, 384 triangles
+[2020.01.20-22.11.04:701][330]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
+[2020.01.20-22.11.04:701][330]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
+[2020.01.20-22.11.04:701][330]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
+[2020.01.20-22.11.04:735][330]LogSkeletalMesh: Building Skeletal Mesh Nova_run_animation...
+[2020.01.20-22.11.04:792][330]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Animations/Nova_run_animation.Nova_run_animation
+[2020.01.20-22.11.04:817][330]LogLinker: Can't find file '/Game/Animations/Nova_run_animation_PhysicsAsset'
+[2020.01.20-22.11.04:817][330]LogLinker: Can't find file '/Game/Animations/Nova_run_animation_PhysicsAsset'
+[2020.01.20-22.11.04:842][330]LogFbx: =================================================
+[2020.01.20-22.11.04:842][330]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.11.04:842][330]LogFbx: 	Total Deformer Count -70525184.
+[2020.01.20-22.11.04:842][330]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.11.04:842][330]LogFbx: =================================================
+[2020.01.20-22.11.04:842][330]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.11.04:842][330]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.11.04:842][330]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.11.04:843][330]LogFbx: =================================================
+[2020.01.20-22.11.04:843][330]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.11.04:843][330]LogFbx: 	Total Deformer Count -70525184.
+[2020.01.20-22.11.04:843][330]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.11.04:843][330]LogFbx: =================================================
+[2020.01.20-22.11.04:843][330]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.11.04:843][330]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.11.04:843][330]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.11.04:845][330]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-22.11.04:845][330]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-22.11.04:845][330]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-22.11.04:845][330]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-22.11.04:846][330]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
+[2020.01.20-22.11.04:848][330]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-22.11.04:849][330]LogLinker: Can't find file '/Game/Animations/Nova_run_animation_Anim'
+[2020.01.20-22.11.04:849][330]LogLinker: Can't find file '/Game/Animations/Nova_run_animation_Anim'
+[2020.01.20-22.11.04:978][330]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_run_animation_Anim.Nova_run_animation_Anim
+[2020.01.20-22.11.04:979][330]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_run_animation_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-22.11.05:009][330]LogSkeletalMesh: Building Skeletal Mesh Nova_run_animation...
+[2020.01.20-22.11.05:064][330]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Animations/Nova_run_animation.Nova_run_animation
+[2020.01.20-22.11.05:126][330]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-22.11.05:139][330]LogSkeletalMesh: Building Skeletal Mesh Nova_run_animation...
+[2020.01.20-22.11.05:216][330]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Animations/Nova_run_animation.Nova_run_animation
+[2020.01.20-22.11.05:401][330]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_walk_animation.fbx)
+[2020.01.20-22.11.05:449][330]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_walk_animation.fbx
+[2020.01.20-22.11.05:943][330]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-22.11.05:959][330]LogFbx: =================================================
+[2020.01.20-22.11.05:960][330]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.11.05:960][330]LogFbx: 	Total Deformer Count -70529216.
+[2020.01.20-22.11.05:960][330]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.11.05:960][330]LogFbx: =================================================
+[2020.01.20-22.11.05:960][330]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.11.05:960][330]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.11.05:960][330]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.11.05:960][330]LogFbx: =================================================
+[2020.01.20-22.11.05:960][330]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.11.05:960][330]LogFbx: 	Total Deformer Count -70529216.
+[2020.01.20-22.11.05:960][330]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.11.05:960][330]LogFbx: =================================================
+[2020.01.20-22.11.05:960][330]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.11.05:960][330]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.11.05:960][330]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.11.05:962][330]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
+[2020.01.20-22.11.05:977][330]LogFbx: Triangulating skeletal mesh Nova_final_character
+[2020.01.20-22.11.09:776][330]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.20-22.11.10:595][330]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
+[2020.01.20-22.11.10:596][330]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
+[2020.01.20-22.11.10:596][330]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
+[2020.01.20-22.11.10:596][330]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
+[2020.01.20-22.11.10:597][330]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
+[2020.01.20-22.11.10:597][330]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
+[2020.01.20-22.11.10:599][330]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.20-22.11.10:599][330]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
+[2020.01.20-22.11.10:599][330]LogSkeletalMesh: Section 2: Material=2, 384 triangles
+[2020.01.20-22.11.10:599][330]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
+[2020.01.20-22.11.10:599][330]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
+[2020.01.20-22.11.10:599][330]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
+[2020.01.20-22.11.10:632][330]LogSkeletalMesh: Building Skeletal Mesh Nova_walk_animation...
+[2020.01.20-22.11.10:687][330]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_walk_animation.Nova_walk_animation
+[2020.01.20-22.11.10:710][330]LogLinker: Can't find file '/Game/Animations/Nova_walk_animation_PhysicsAsset'
+[2020.01.20-22.11.10:711][330]LogLinker: Can't find file '/Game/Animations/Nova_walk_animation_PhysicsAsset'
+[2020.01.20-22.11.10:748][330]LogFbx: =================================================
+[2020.01.20-22.11.10:748][330]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.11.10:748][330]LogFbx: 	Total Deformer Count -72016032.
+[2020.01.20-22.11.10:748][330]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.11.10:748][330]LogFbx: =================================================
+[2020.01.20-22.11.10:748][330]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.11.10:748][330]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.11.10:748][330]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.11.10:748][330]LogFbx: =================================================
+[2020.01.20-22.11.10:748][330]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.11.10:748][330]LogFbx: 	Total Deformer Count -72016032.
+[2020.01.20-22.11.10:748][330]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.11.10:748][330]LogFbx: =================================================
+[2020.01.20-22.11.10:748][330]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.11.10:748][330]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.11.10:748][330]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-22.11.10:750][330]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
+[2020.01.20-22.11.10:753][330]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-22.11.10:754][330]LogLinker: Can't find file '/Game/Animations/Nova_walk_animation_Anim'
+[2020.01.20-22.11.10:754][330]LogLinker: Can't find file '/Game/Animations/Nova_walk_animation_Anim'
+[2020.01.20-22.11.10:934][330]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_walk_animation_Anim.Nova_walk_animation_Anim
+[2020.01.20-22.11.10:934][330]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_walk_animation_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-22.11.10:944][330]LogSkeletalMesh: Building Skeletal Mesh Nova_walk_animation...
+[2020.01.20-22.11.10:994][330]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_walk_animation.Nova_walk_animation
+[2020.01.20-22.11.11:023][330]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-22.11.11:025][330]LogSkeletalMesh: Building Skeletal Mesh Nova_walk_animation...
+[2020.01.20-22.11.11:075][330]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_walk_animation.Nova_walk_animation
+[2020.01.20-22.11.14:685][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.01.20-22.11.14:685][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Levels/Maps/NovaTechConcept' took 0.072
+[2020.01.20-22.11.14:700][386]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_run_animation] ([1] browsable assets)...
+[2020.01.20-22.11.14:739][386]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Nova_run_animation.Nova_run_animation]
+[2020.01.20-22.11.14:739][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_run_animation]
+[2020.01.20-22.11.14:809][386]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_run_animation_Auto1B8FAFEE2403465F2F1EB868F7D2C93BE.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_run_animation_Auto1.uasset'
+[2020.01.20-22.11.14:811][386]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_run_animation_PhysicsAsset] ([1] browsable assets)...
+[2020.01.20-22.11.14:848][386]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Nova_run_animation_PhysicsAsset.Nova_run_animation_PhysicsAsset]
+[2020.01.20-22.11.14:848][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_run_animation_PhysicsAsset]
+[2020.01.20-22.11.14:901][386]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_run_animation_PhysicsAsset_6FC4EB9345B704A63B7DFD8B4FA31033.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_run_animation_PhysicsAsset_Auto1.uasset'
+[2020.01.20-22.11.14:903][386]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_run_animation_Anim] ([1] browsable assets)...
+[2020.01.20-22.11.14:941][386]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Nova_run_animation_Anim.Nova_run_animation_Anim]
+[2020.01.20-22.11.14:942][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_run_animation_Anim]
+[2020.01.20-22.11.14:965][386]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_run_animation_Anim_Auto17331E22C40B29315391B5E9743D27491.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_run_animation_Anim_Auto1.uasset'
+[2020.01.20-22.11.14:967][386]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_walk_animation] ([1] browsable assets)...
+[2020.01.20-22.11.15:004][386]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Nova_walk_animation.Nova_walk_animation]
+[2020.01.20-22.11.15:004][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_walk_animation]
+[2020.01.20-22.11.15:147][386]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_walk_animation_Auto1904A75E44D1C8274D2E5958E6572E565.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_walk_animation_Auto1.uasset'
+[2020.01.20-22.11.15:149][386]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_walk_animation_PhysicsAsset] ([1] browsable assets)...
+[2020.01.20-22.11.15:186][386]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Nova_walk_animation_PhysicsAsset.Nova_walk_animation_PhysicsAsset]
+[2020.01.20-22.11.15:186][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_walk_animation_PhysicsAsset]
+[2020.01.20-22.11.15:216][386]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_walk_animation_PhysicsAsset2297F58746CE773DC1C0D288D13AD2B6.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_walk_animation_PhysicsAsset_Auto1.uasset'
+[2020.01.20-22.11.15:218][386]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_walk_animation_Anim] ([1] browsable assets)...
+[2020.01.20-22.11.15:258][386]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Nova_walk_animation_Anim.Nova_walk_animation_Anim]
+[2020.01.20-22.11.15:258][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_walk_animation_Anim]
+[2020.01.20-22.11.15:282][386]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_walk_animation_Anim_Auto19A0082024C3A20CA19D53EA71C1E4011.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_walk_animation_Anim_Auto1.uasset'
+[2020.01.20-22.11.15:283][386]LogFileHelpers: Auto-saving content packages took 0.596
+[2020.01.20-22.11.16:882][431]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-22.11.16:908][431]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-22.11.29:441][815]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.01.20-22.11.32:994][815]LogSlate: Window 'Save Content' being destroyed
+[2020.01.20-22.11.33:138][815]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_run_animation0AF1E2B84E378C1CA71354A23CBB147D.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_run_animation.uasset'
+[2020.01.20-22.11.33:167][815]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_run_animation_Anim97142B3A4B68413139B37C87B653CB02.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_run_animation_Anim.uasset'
+[2020.01.20-22.11.33:214][815]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_run_animation_PhysicsAsset6B99F64948AA12B0FEF4B09E59CA36F7.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_run_animation_PhysicsAsset.uasset'
+[2020.01.20-22.11.33:347][815]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_walk_animation93BEB66E4E5432794C68258AE78607A7.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_walk_animation.uasset'
+[2020.01.20-22.11.33:374][815]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_walk_animation_Anim0A9BD94241BAC1FA99EDAF9F814D3A6B.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_walk_animation_Anim.uasset'
+[2020.01.20-22.11.33:412][815]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_walk_animation_PhysicsAsset2E5A860E40D35879529DB7845A368C37.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_walk_animation_PhysicsAsset.uasset'
+[2020.01.20-22.11.47:715][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (36.430 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.20-22.11.55:458][758]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Animations/Nova_BS.Nova_BS
+[2020.01.20-22.11.55:480][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-22.11.55:532][758]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-22.11.56:310][758]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-22.12.19:423][567]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/Nova_Final_Animation.Nova_Final_Animation
+[2020.01.20-22.12.19:476][567]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-22.12.19:878][567]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-22.12.20:606][567]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-22.12.25:007][754]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animations/Nova_walk_animation_Anim.Nova_walk_animation_Anim
+[2020.01.20-22.13.16:202][261]LogSlate: Window 'Message' being destroyed
+[2020.01.20-22.13.16:408][261]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_idle.fbx)
+[2020.01.20-22.13.16:510][261]LogEditorFactories: Performing atomic reimport of [C:/Users/Shaquille Georges/Desktop/Nova_idle.fbx]
+[2020.01.20-22.13.16:559][261]LogFbx: Loading FBX Scene from C:/Users/Shaquille Georges/Desktop/Nova_idle.fbx
+[2020.01.20-22.13.17:043][261]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-22.13.17:062][261]LogFbx: =================================================
+[2020.01.20-22.13.17:062][261]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.13.17:062][261]LogFbx: 	Total Deformer Count -779453280.
+[2020.01.20-22.13.17:062][261]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.13.17:062][261]LogFbx: =================================================
+[2020.01.20-22.13.17:062][261]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.13.17:062][261]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.13.17:062][261]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.13.17:062][261]LogFbx: =================================================
+[2020.01.20-22.13.17:062][261]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.13.17:062][261]LogFbx: 	Total Deformer Count -779453280.
+[2020.01.20-22.13.17:062][261]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.13.17:062][261]LogFbx: =================================================
+[2020.01.20-22.13.17:062][261]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.13.17:062][261]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.13.17:062][261]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.13.17:064][261]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
+[2020.01.20-22.13.17:067][261]LogFbx: Triangulating skeletal mesh Nova_final_character
+[2020.01.20-22.13.21:086][261]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/Animations/defaultPolygonShader2.defaultPolygonShader2 or Material /Game/Animations/Enemy_Anim/defaultPolygonShader2.defaultPolygonShader2
+[2020.01.20-22.13.21:086][261]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.20-22.13.21:985][261]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
+[2020.01.20-22.13.21:990][261]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
+[2020.01.20-22.13.21:991][261]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
+[2020.01.20-22.13.21:993][261]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
+[2020.01.20-22.13.21:994][261]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
+[2020.01.20-22.13.21:994][261]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
+[2020.01.20-22.13.21:999][261]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.20-22.13.22:000][261]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
+[2020.01.20-22.13.22:000][261]LogSkeletalMesh: Section 2: Material=2, 384 triangles
+[2020.01.20-22.13.22:000][261]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
+[2020.01.20-22.13.22:000][261]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
+[2020.01.20-22.13.22:000][261]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
+[2020.01.20-22.13.22:035][261]LogSkeletalMesh: Building Skeletal Mesh Nova_idle...
+[2020.01.20-22.13.22:094][261]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Animations/Nova_idle.Nova_idle
+[2020.01.20-22.13.22:114][261]LogEditorFactories: -- imported successfully
+[2020.01.20-22.13.22:130][261]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-22.13.22:130][261]LogSkeletalMesh: Building Skeletal Mesh Nova_idle...
+[2020.01.20-22.13.22:184][261]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_idle.Nova_idle
+[2020.01.20-22.13.22:317][261]LogSkeletalMesh: Building Skeletal Mesh Nova_idle...
+[2020.01.20-22.13.22:411][261]LogSkeletalMesh: Built Skeletal Mesh [0.20s] /Game/Animations/Nova_idle.Nova_idle
+[2020.01.20-22.13.45:941][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.01.20-22.13.48:016][350]LogSlate: Window 'Save Content' being destroyed
+[2020.01.20-22.13.48:091][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Nova_idle" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_idle.uasset" SILENT=true
+[2020.01.20-22.13.48:202][350]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_idle9A684C9845356E94FBE06EB4B935C909.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_idle.uasset'
+[2020.01.20-22.13.51:845][392]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/Nova_Final_Animation.Nova_Final_Animation
+[2020.01.20-22.13.51:864][392]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-22.13.52:295][392]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-22.13.52:913][392]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-22.13.59:150][655]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animations/Nova_walk_animation_Anim.Nova_walk_animation_Anim
+[2020.01.20-22.13.59:175][655]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-22.13.59:213][655]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-22.14.00:114][655]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-22.14.23:634][886]LogSlate: Window 'Message' being destroyed
+[2020.01.20-22.15.00:134][616]LogSlate: Window 'Message' being destroyed
+[2020.01.20-22.15.00:181][616]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_idle.fbx)
+[2020.01.20-22.15.00:221][616]LogEditorFactories: Performing atomic reimport of [C:/Users/Shaquille Georges/Desktop/Nova_idle.fbx]
+[2020.01.20-22.15.00:270][616]LogFbx: Loading FBX Scene from C:/Users/Shaquille Georges/Desktop/Nova_idle.fbx
+[2020.01.20-22.15.00:742][616]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-22.15.00:762][616]LogFbx: =================================================
+[2020.01.20-22.15.00:762][616]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.15.00:762][616]LogFbx: 	Total Deformer Count -766242528.
+[2020.01.20-22.15.00:762][616]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.15.00:762][616]LogFbx: =================================================
+[2020.01.20-22.15.00:762][616]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.15.00:762][616]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.15.00:762][616]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.15.00:762][616]LogFbx: =================================================
+[2020.01.20-22.15.00:762][616]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.15.00:762][616]LogFbx: 	Total Deformer Count -766242528.
+[2020.01.20-22.15.00:762][616]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.15.00:762][616]LogFbx: =================================================
+[2020.01.20-22.15.00:762][616]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.15.00:762][616]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.15.00:762][616]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.15.00:764][616]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
+[2020.01.20-22.15.00:767][616]LogFbx: Triangulating skeletal mesh Nova_final_character
+[2020.01.20-22.15.04:540][616]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/Animations/defaultPolygonShader2.defaultPolygonShader2 or Material /Game/Animations/Enemy_Anim/defaultPolygonShader2.defaultPolygonShader2
+[2020.01.20-22.15.04:541][616]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.20-22.15.05:361][616]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
+[2020.01.20-22.15.05:361][616]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
+[2020.01.20-22.15.05:361][616]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
+[2020.01.20-22.15.05:362][616]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
+[2020.01.20-22.15.05:362][616]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
+[2020.01.20-22.15.05:362][616]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
+[2020.01.20-22.15.05:364][616]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.20-22.15.05:364][616]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
+[2020.01.20-22.15.05:365][616]LogSkeletalMesh: Section 2: Material=2, 384 triangles
+[2020.01.20-22.15.05:365][616]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
+[2020.01.20-22.15.05:365][616]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
+[2020.01.20-22.15.05:365][616]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
+[2020.01.20-22.15.05:401][616]LogSkeletalMesh: Building Skeletal Mesh Nova_idle...
+[2020.01.20-22.15.05:459][616]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Animations/Nova_idle.Nova_idle
+[2020.01.20-22.15.05:476][616]LogEditorFactories: -- imported successfully
+[2020.01.20-22.15.05:490][616]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-22.15.05:490][616]LogSkeletalMesh: Building Skeletal Mesh Nova_idle...
+[2020.01.20-22.15.05:543][616]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_idle.Nova_idle
+[2020.01.20-22.15.05:581][616]LogSkeletalMesh: Building Skeletal Mesh Nova_idle...
+[2020.01.20-22.15.05:633][616]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_idle.Nova_idle
+[2020.01.20-22.15.17:954][ 14]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animations/Nova_idle_Anim.Nova_idle_Anim
+[2020.01.20-22.15.18:696][ 14]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-22.15.47:704][131]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (41.978 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.20-22.16.29:480][676]LogSlate: Window 'Message' being destroyed
+[2020.01.20-22.16.51:732][192]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Animations/Nova_BS.Nova_BS
+[2020.01.20-22.16.51:795][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-22.16.51:838][192]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-22.16.52:544][192]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-22.17.24:788][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Nova_BS" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset" SILENT=true
+[2020.01.20-22.17.24:835][357]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_BS05CC8F4D4B9C9AAE60B4E08B527840CE.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset'
+[2020.01.20-22.18.13:423][892]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animations/Enemy_Anim/AI_Idle_animation_Anim.AI_Idle_animation_Anim
+[2020.01.20-22.18.13:438][892]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-22.18.13:510][892]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-22.18.14:198][892]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-22.18.19:631][980]LogSlate: Window 'AI_Idle_animation_Anim' being destroyed
+[2020.01.20-22.18.19:642][980]LogSlate: Window 'AI_Idle_animation_Anim' being destroyed
+[2020.01.20-22.19.45:011][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:011][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:011][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:011][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:012][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:012][503]LoadErrors: Failed to load /Game/Animations/Nova_Skeleton.Nova_Skeleton Referenced by Nova_death_animation
+[2020.01.20-22.19.45:012][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:169][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:169][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:170][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:170][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:170][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:170][503]LoadErrors: Failed to load /Game/Animations/Nova_Skeleton.Nova_Skeleton Referenced by Nova_death_animation_Anim
+[2020.01.20-22.19.45:171][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:533][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:533][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:535][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:536][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:538][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:539][503]LoadErrors: Failed to load /Game/Animations/Nova_Skeleton.Nova_Skeleton Referenced by Nova_push_part1
+[2020.01.20-22.19.45:539][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:895][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:896][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:896][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:897][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:898][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:899][503]LoadErrors: Failed to load /Game/Animations/Nova_Skeleton.Nova_Skeleton Referenced by Nova_push_part1_Anim
+[2020.01.20-22.19.45:899][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:950][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:951][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:952][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:952][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.45:953][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.45:953][503]LoadErrors: Failed to load /Game/Animations/Nova_Skeleton.Nova_Skeleton Referenced by Nova_push_part2
+[2020.01.20-22.19.45:954][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.46:309][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.46:310][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.46:310][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.46:310][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.46:311][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.46:311][503]LoadErrors: Failed to load /Game/Animations/Nova_Skeleton.Nova_Skeleton Referenced by Nova_push_part2_Anim
+[2020.01.20-22.19.46:311][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.46:401][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.46:402][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.46:403][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.46:404][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.46:406][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.46:407][503]LoadErrors: Failed to load /Game/Animations/Nova_Skeleton.Nova_Skeleton Referenced by Nova_push_part3
+[2020.01.20-22.19.46:407][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.46:801][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.46:801][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.46:802][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.46:802][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.46:802][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.46:803][503]LoadErrors: Failed to load /Game/Animations/Nova_Skeleton.Nova_Skeleton Referenced by Nova_push_part3_Anim
+[2020.01.20-22.19.46:803][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.46:831][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.46:831][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.46:891][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.46:892][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.46:893][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.46:893][503]LoadErrors: Failed to load /Game/Animations/Nova_Skeleton.Nova_Skeleton Referenced by Nova_telekinesis
+[2020.01.20-22.19.46:894][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.47:295][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.47:295][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.47:295][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.47:295][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.47:304][503]LogLinker: Warning: Can't find file '/Game/Animations/Nova_Skeleton'
+[2020.01.20-22.19.47:304][503]LoadErrors: Failed to load /Game/Animations/Nova_Skeleton.Nova_Skeleton Referenced by Nova_telekinesis_Anim
+[2020.01.20-22.19.47:305][503]LogLinker: Warning: Can't find file for asset '/Game/Animations/Nova_Skeleton' while loading NULL.
+[2020.01.20-22.19.47:331][503]LogAnimation: Warning: SkeletalMesh Nova_telekinesis has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:331][503]LogAnimation: Warning: SkeletalMesh Nova_telekinesis has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:332][503]LogAnimation: Warning: SkeletalMesh Nova_push_part3 has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:332][503]LogAnimation: Warning: SkeletalMesh Nova_push_part3 has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:333][503]LogAnimation: Warning: SkeletalMesh Nova_push_part2 has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:333][503]LogAnimation: Warning: SkeletalMesh Nova_push_part2 has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:333][503]LogAnimation: Warning: SkeletalMesh Nova_push_part1 has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:334][503]LogAnimation: Warning: SkeletalMesh Nova_push_part1 has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:563][505]LogAnimation: Warning: SkeletalMesh Nova_push_part1 has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:564][505]LogAnimation: Warning: SkeletalMesh Nova_push_part1 has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:564][505]LogAnimation: Warning: SkeletalMesh Nova_push_part2 has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:565][505]LogAnimation: Warning: SkeletalMesh Nova_push_part2 has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:565][505]LogAnimation: Warning: SkeletalMesh Nova_push_part3 has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:565][505]LogAnimation: Warning: SkeletalMesh Nova_push_part3 has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:565][505]LogAnimation: Warning: SkeletalMesh Nova_telekinesis has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:566][505]LogAnimation: Warning: SkeletalMesh Nova_telekinesis has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:567][505]LogAnimation: Warning: SkeletalMesh Nova_death_animation has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.47:624][506]LogAnimation: Warning: SkeletalMesh Nova_death_animation has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.48:217][518]LogAnimation: Warning: SkeletalMesh Nova_telekinesis has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.48:218][518]LogAnimation: Warning: SkeletalMesh Nova_telekinesis has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.48:523][521]LogAnimation: Warning: SkeletalMesh Nova_telekinesis has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.48:524][521]LogAnimation: Warning: SkeletalMesh Nova_telekinesis has no skeleton. This needs to fixed before an animation can be set
+[2020.01.20-22.19.50:492][630]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.01.20-22.20.27:829][630]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.20-22.20.27:838][630]LogUObjectGlobals: Force Deleting 43 Package(s):
+	Asset Name: /Game/Animations/NovaAnimations.NovaAnimations
+	Asset Name: /Game/Animations/Nova_BS.Nova_BS
+	Asset Name: /Game/Animations/Nova_death_animation.Nova_death_animation
+	Asset Name: /Game/Animations/Nova_death_animation_Anim.Nova_death_animation_Anim
+	Asset Name: /Game/Animations/Nova_death_animation_PhysicsAsset.Nova_death_animation_PhysicsAsset
+	Asset Name: /Game/Animations/Nova_Final_Animation.Nova_Final_Animation
+	Asset Name: /Game/Animations/Nova_final_character.Nova_final_character
+	Asset Name: /Game/Animations/Nova_final_character_Anim.Nova_final_character_Anim
+	Asset Name: /Game/Animations/Nova_final_character_PhysicsAsset.Nova_final_character_PhysicsAsset
+	Asset Name: /Game/Animations/Nova_final_character_Skeleton.Nova_final_character_Skeleton
+[2020.01.20-22.20.30:897][630]LogSkeletalMesh: Building Skeletal Mesh Nova_idle...
+[2020.01.20-22.20.30:956][630]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Animations/Nova_idle.Nova_idle
+[2020.01.20-22.20.30:972][630]LogSkeletalMesh: Building Skeletal Mesh Nova_idle...
+[2020.01.20-22.20.31:029][630]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Animations/Nova_idle.Nova_idle
+[2020.01.20-22.20.31:129][630]LogSkeletalMesh: Building Skeletal Mesh Nova_final_runcycleOLD...
+[2020.01.20-22.20.31:157][630]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/Animations/Nova_final_runcycleOLD.Nova_final_runcycleOLD
+[2020.01.20-22.20.31:171][630]LogSkeletalMesh: Building Skeletal Mesh Nova_final_runcycleOLD...
+[2020.01.20-22.20.31:193][630]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Animations/Nova_final_runcycleOLD.Nova_final_runcycleOLD
+[2020.01.20-22.20.31:208][630]LogSkeletalMesh: Building Skeletal Mesh Nova_final_character...
+[2020.01.20-22.20.31:276][630]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Animations/Nova_final_character.Nova_final_character
+[2020.01.20-22.20.31:295][630]LogSkeletalMesh: Building Skeletal Mesh Nova_final_character...
+[2020.01.20-22.20.31:342][630]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_final_character.Nova_final_character
+[2020.01.20-22.20.31:384][630]LogSkeletalMesh: Building Skeletal Mesh Nova_telekinesis...
+[2020.01.20-22.20.31:436][630]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_telekinesis.Nova_telekinesis
+[2020.01.20-22.20.31:455][630]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part3...
+[2020.01.20-22.20.31:507][630]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_push_part3.Nova_push_part3
+[2020.01.20-22.20.31:522][630]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part2...
+[2020.01.20-22.20.31:572][630]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_push_part2.Nova_push_part2
+[2020.01.20-22.20.31:589][630]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part1...
+[2020.01.20-22.20.31:640][630]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_push_part1.Nova_push_part1
+[2020.01.20-22.20.31:660][630]LogSkeletalMesh: Building Skeletal Mesh Nova_jumping...
+[2020.01.20-22.20.31:721][630]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Animations/Nova_jumping.Nova_jumping
+[2020.01.20-22.20.31:739][630]LogSkeletalMesh: Building Skeletal Mesh Nova_jumping...
+[2020.01.20-22.20.31:788][630]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_jumping.Nova_jumping
+[2020.01.20-22.20.31:799][630]LogSkeletalMesh: Building Skeletal Mesh Nova_death_animation...
+[2020.01.20-22.20.31:849][630]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_death_animation.Nova_death_animation
+[2020.01.20-22.20.31:869][630]LogSkeletalMesh: Building Skeletal Mesh Nova_walk_animation...
+[2020.01.20-22.20.31:919][630]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_walk_animation.Nova_walk_animation
+[2020.01.20-22.20.31:930][630]LogSkeletalMesh: Building Skeletal Mesh Nova_walk_animation...
+[2020.01.20-22.20.31:979][630]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_walk_animation.Nova_walk_animation
+[2020.01.20-22.20.31:997][630]LogSkeletalMesh: Building Skeletal Mesh Nova_run_animation...
+[2020.01.20-22.20.32:045][630]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_run_animation.Nova_run_animation
+[2020.01.20-22.20.32:061][630]LogSkeletalMesh: Building Skeletal Mesh Nova_run_animation...
+[2020.01.20-22.20.32:111][630]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_run_animation.Nova_run_animation
+[2020.01.20-22.20.43:065][630]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2020.01.20-22.20.43:106][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.01.20-22.20.43:143][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.01.20-22.20.43:188][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.01.20-22.20.43:226][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.01.20-22.20.43:267][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.01.20-22.20.43:304][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.01.20-22.20.43:341][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.01.20-22.20.43:378][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.01.20-22.20.43:416][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.01.20-22.20.43:454][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.01.20-22.20.43:493][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.01.20-22.20.43:530][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.01.20-22.20.43:570][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.01.20-22.20.43:606][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.01.20-22.20.43:642][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.01.20-22.20.43:680][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.01.20-22.20.43:720][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.01.20-22.20.43:757][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.01.20-22.20.43:812][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.01.20-22.20.43:849][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.01.20-22.20.43:886][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.01.20-22.20.43:925][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.01.20-22.20.43:963][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.01.20-22.20.44:001][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.01.20-22.20.44:039][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.01.20-22.20.44:079][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.01.20-22.20.44:120][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.01.20-22.20.44:161][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.01.20-22.20.44:201][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.01.20-22.20.44:239][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.01.20-22.20.44:276][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.01.20-22.20.44:314][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.01.20-22.20.44:350][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.01.20-22.20.44:393][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.01.20-22.20.44:430][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.01.20-22.20.44:469][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.01.20-22.20.44:506][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.01.20-22.20.44:543][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.01.20-22.20.44:581][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.01.20-22.20.44:622][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.01.20-22.20.44:657][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.01.20-22.20.44:699][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.01.20-22.20.44:736][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.01.20-22.20.51:957][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.01.20-22.21.00:624][720]LogSlate: Window 'Save Content' being destroyed
+[2020.01.20-22.21.00:668][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/AimingAnim" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/AimingAnim.uasset" SILENT=true
+[2020.01.20-22.21.00:800][720]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AimingAnimFF348A5B4A52D59087644189B490FE26.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/AimingAnim.uasset'
+[2020.01.20-22.21.00:883][720]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Idle_Run_Anim1365CFFF441FB19551F77CA9E2CCEFEC.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Idle_Run_Anim.uasset'
+[2020.01.20-22.21.00:937][720]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/JumpTransitionD6A33E4B4FF4FAC7915B46B45C8D8895.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/JumpTransition.uasset'
+[2020.01.20-22.21.01:783][720]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova1C3B560BE4A66F3D056BA82819B792D7F.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Actors/Character/Nova1.uasset'
+[2020.01.20-22.21.21:335][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_idle.fbx)
+[2020.01.20-22.21.21:388][876]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_idle.fbx
+[2020.01.20-22.21.21:967][876]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-22.21.27:143][876]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.20-22.21.27:240][876]LogFbx: =================================================
+[2020.01.20-22.21.27:240][876]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.21.27:240][876]LogFbx: 	Total Deformer Count -799489888.
+[2020.01.20-22.21.27:240][876]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.21.27:240][876]LogFbx: =================================================
+[2020.01.20-22.21.27:241][876]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.21.27:241][876]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.21.27:241][876]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.21.27:241][876]LogFbx: =================================================
+[2020.01.20-22.21.27:241][876]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.21.27:241][876]LogFbx: 	Total Deformer Count -799489888.
+[2020.01.20-22.21.27:241][876]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.21.27:241][876]LogFbx: =================================================
+[2020.01.20-22.21.27:241][876]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.21.27:241][876]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.21.27:242][876]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.21.27:244][876]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
+[2020.01.20-22.21.27:259][876]LogFbx: Triangulating skeletal mesh Nova_final_character
+[2020.01.20-22.21.31:157][876]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.20-22.21.31:975][876]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
+[2020.01.20-22.21.31:975][876]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
+[2020.01.20-22.21.31:975][876]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
+[2020.01.20-22.21.31:976][876]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
+[2020.01.20-22.21.31:976][876]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
+[2020.01.20-22.21.31:976][876]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
+[2020.01.20-22.21.31:978][876]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.20-22.21.31:978][876]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
+[2020.01.20-22.21.31:978][876]LogSkeletalMesh: Section 2: Material=2, 384 triangles
+[2020.01.20-22.21.31:978][876]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
+[2020.01.20-22.21.31:978][876]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
+[2020.01.20-22.21.31:978][876]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
+[2020.01.20-22.21.32:012][876]LogSkeletalMesh: Building Skeletal Mesh Nova_idle...
+[2020.01.20-22.21.32:065][876]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_idle.Nova_idle
+[2020.01.20-22.21.32:091][876]LogLinker: Can't find file '/Game/Animations/Nova_idle_Skeleton'
+[2020.01.20-22.21.32:092][876]LogLinker: Can't find file '/Game/Animations/Nova_idle_Skeleton'
+[2020.01.20-22.21.32:094][876]LogLinker: Can't find file '/Game/Animations/Nova_idle_PhysicsAsset'
+[2020.01.20-22.21.32:094][876]LogLinker: Can't find file '/Game/Animations/Nova_idle_PhysicsAsset'
+[2020.01.20-22.21.32:111][876]LogFbx: =================================================
+[2020.01.20-22.21.32:111][876]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.21.32:111][876]LogFbx: 	Total Deformer Count -808427968.
+[2020.01.20-22.21.32:111][876]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.21.32:111][876]LogFbx: =================================================
+[2020.01.20-22.21.32:112][876]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.21.32:112][876]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.21.32:112][876]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.21.32:112][876]LogFbx: =================================================
+[2020.01.20-22.21.32:112][876]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.21.32:112][876]LogFbx: 	Total Deformer Count -808427968.
+[2020.01.20-22.21.32:112][876]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.21.32:112][876]LogFbx: =================================================
+[2020.01.20-22.21.32:112][876]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.21.32:112][876]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.21.32:112][876]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.21.32:113][876]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-22.21.32:113][876]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-22.21.32:113][876]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-22.21.32:113][876]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-22.21.32:113][876]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-22.21.32:113][876]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-22.21.32:114][876]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
+[2020.01.20-22.21.32:120][876]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-22.21.32:121][876]LogLinker: Can't find file '/Game/Animations/Nova_idle_Anim'
+[2020.01.20-22.21.32:121][876]LogLinker: Can't find file '/Game/Animations/Nova_idle_Anim'
+[2020.01.20-22.21.32:504][876]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_idle_Anim.Nova_idle_Anim
+[2020.01.20-22.21.32:504][876]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-22.21.32:529][876]LogSkeletalMesh: Building Skeletal Mesh Nova_idle...
+[2020.01.20-22.21.32:582][876]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Animations/Nova_idle.Nova_idle
+[2020.01.20-22.21.32:645][876]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-22.21.32:658][876]LogSkeletalMesh: Building Skeletal Mesh Nova_idle...
+[2020.01.20-22.21.32:727][876]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Animations/Nova_idle.Nova_idle
+[2020.01.20-22.21.35:209][937]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-22.21.35:214][937]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-22.21.36:269][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.01.20-22.21.36:269][956]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Levels/Maps/NovaTechConcept' took 0.045
+[2020.01.20-22.21.36:271][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_idle] ([1] browsable assets)...
+[2020.01.20-22.21.36:310][956]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Nova_idle.Nova_idle]
+[2020.01.20-22.21.36:310][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_idle]
+[2020.01.20-22.21.36:556][956]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_idle_Auto2DF7CB6FA4CD78C9E43B167B498C34884.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_idle_Auto2.uasset'
+[2020.01.20-22.21.36:558][956]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/Nova_idle_Skeleton] ([1] browsable assets)...
+[2020.01.20-22.21.36:558][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_idle_Skeleton]
+[2020.01.20-22.21.36:568][956]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_idle_Skeleton_Auto2CAC1464548FFBF95216DC080EF44EBAA.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_idle_Skeleton_Auto2.uasset'
+[2020.01.20-22.21.36:570][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_idle_PhysicsAsset] ([1] browsable assets)...
+[2020.01.20-22.21.36:612][956]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Nova_idle_PhysicsAsset.Nova_idle_PhysicsAsset]
+[2020.01.20-22.21.36:612][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_idle_PhysicsAsset]
+[2020.01.20-22.21.36:655][956]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_idle_PhysicsAsset_Auto29C96D3A34D04FC461100B68AADB70292.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_idle_PhysicsAsset_Auto2.uasset'
+[2020.01.20-22.21.36:657][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_idle_Anim] ([1] browsable assets)...
+[2020.01.20-22.21.36:703][956]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Nova_idle_Anim.Nova_idle_Anim]
+[2020.01.20-22.21.36:703][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_idle_Anim]
+[2020.01.20-22.21.36:727][956]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_idle_Anim_Auto22D304F054AB121ED9FAD86B8FF840EC4.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_idle_Anim_Auto2.uasset'
+[2020.01.20-22.21.36:728][956]LogFileHelpers: Auto-saving content packages took 0.459
+[2020.01.20-22.21.57:927][448]LogMetaData: Removing '/Game/Animations/Nova_Skeleton.Nova_Skeleton' ref from Metadata '/Game/Animations/Nova_idle_Skeleton.PackageMetaData'
+[2020.01.20-22.21.57:967][448]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Skeleton4CF32B114EC8ABE772DDC1A1CBFBCD24.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Skeleton.uasset'
+[2020.01.20-22.21.58:168][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.01.20-22.21.58:217][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.01.20-22.21.58:255][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.01.20-22.22.02:323][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.01.20-22.22.04:080][499]LogSlate: Window 'Save Content' being destroyed
+[2020.01.20-22.22.04:107][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Nova_idle" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_idle.uasset" SILENT=true
+[2020.01.20-22.22.04:267][499]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_idle570EACF14B11206DFBEEC29E866132D3.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_idle.uasset'
+[2020.01.20-22.22.04:291][499]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_idle_Anim9F3DE49A4D41190A5C1405936BB4E175.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_idle_Anim.uasset'
+[2020.01.20-22.22.04:322][499]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_idle_PhysicsAsset1B534A3A49CA891F3D5AF1958C807EF5.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_idle_PhysicsAsset.uasset'
+[2020.01.20-22.22.37:453][ 24]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_death_animation.fbx)
+[2020.01.20-22.22.37:501][ 24]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_death_animation.fbx
+[2020.01.20-22.22.38:080][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-22.22.44:615][ 24]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.20-22.22.44:690][ 24]LogFbx: =================================================
+[2020.01.20-22.22.44:690][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.22.44:690][ 24]LogFbx: 	Total Deformer Count -803438432.
+[2020.01.20-22.22.44:690][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.22.44:690][ 24]LogFbx: =================================================
+[2020.01.20-22.22.44:690][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.22.44:690][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.22.44:690][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.22.44:691][ 24]LogFbx: =================================================
+[2020.01.20-22.22.44:691][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.22.44:691][ 24]LogFbx: 	Total Deformer Count -803438432.
+[2020.01.20-22.22.44:691][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.22.44:691][ 24]LogFbx: =================================================
+[2020.01.20-22.22.44:691][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.22.44:691][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.22.44:691][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.22.44:693][ 24]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
+[2020.01.20-22.22.44:709][ 24]LogFbx: Triangulating skeletal mesh Nova_final_character
+[2020.01.20-22.22.48:607][ 24]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.20-22.22.49:415][ 24]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
+[2020.01.20-22.22.49:415][ 24]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
+[2020.01.20-22.22.49:415][ 24]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
+[2020.01.20-22.22.49:416][ 24]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
+[2020.01.20-22.22.49:416][ 24]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
+[2020.01.20-22.22.49:416][ 24]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
+[2020.01.20-22.22.49:418][ 24]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.20-22.22.49:418][ 24]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
+[2020.01.20-22.22.49:418][ 24]LogSkeletalMesh: Section 2: Material=2, 384 triangles
+[2020.01.20-22.22.49:418][ 24]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
+[2020.01.20-22.22.49:418][ 24]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
+[2020.01.20-22.22.49:418][ 24]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
+[2020.01.20-22.22.49:453][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_death_animation...
+[2020.01.20-22.22.49:507][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_death_animation.Nova_death_animation
+[2020.01.20-22.22.49:530][ 24]LogLinker: Can't find file '/Game/Animations/Nova_death_animation_PhysicsAsset'
+[2020.01.20-22.22.49:530][ 24]LogLinker: Can't find file '/Game/Animations/Nova_death_animation_PhysicsAsset'
+[2020.01.20-22.22.49:552][ 24]LogFbx: =================================================
+[2020.01.20-22.22.49:552][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.22.49:552][ 24]LogFbx: 	Total Deformer Count -804526176.
+[2020.01.20-22.22.49:552][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.22.49:552][ 24]LogFbx: =================================================
+[2020.01.20-22.22.49:552][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.22.49:552][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.22.49:552][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.22.49:552][ 24]LogFbx: =================================================
+[2020.01.20-22.22.49:552][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.22.49:552][ 24]LogFbx: 	Total Deformer Count -804526176.
+[2020.01.20-22.22.49:552][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.22.49:553][ 24]LogFbx: =================================================
+[2020.01.20-22.22.49:553][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.22.49:553][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.22.49:553][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.22.49:555][ 24]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-22.22.49:555][ 24]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-22.22.49:555][ 24]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-22.22.49:555][ 24]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-22.22.49:555][ 24]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-22.22.49:555][ 24]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-22.22.49:555][ 24]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-22.22.49:555][ 24]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-22.22.49:555][ 24]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-22.22.49:556][ 24]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-22.22.49:556][ 24]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-22.22.49:556][ 24]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-22.22.49:556][ 24]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-22.22.49:556][ 24]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-22.22.49:556][ 24]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-22.22.49:556][ 24]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-22.22.49:556][ 24]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-22.22.49:556][ 24]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-22.22.49:556][ 24]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-22.22.49:556][ 24]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-22.22.49:556][ 24]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-22.22.49:556][ 24]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
+[2020.01.20-22.22.49:567][ 24]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-22.22.49:567][ 24]LogLinker: Can't find file '/Game/Animations/Nova_death_animation_Anim'
+[2020.01.20-22.22.49:568][ 24]LogLinker: Can't find file '/Game/Animations/Nova_death_animation_Anim'
+[2020.01.20-22.22.50:081][ 24]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_death_animation_Anim.Nova_death_animation_Anim
+[2020.01.20-22.22.50:082][ 24]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_death_animation_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-22.22.50:089][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_death_animation...
+[2020.01.20-22.22.50:143][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_death_animation.Nova_death_animation
+[2020.01.20-22.22.50:172][ 24]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-22.22.50:185][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_death_animation...
+[2020.01.20-22.22.50:253][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Animations/Nova_death_animation.Nova_death_animation
+[2020.01.20-22.22.50:470][ 24]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_jumping.fbx)
+[2020.01.20-22.22.50:524][ 24]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_jumping.fbx
+[2020.01.20-22.22.50:985][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-22.22.51:006][ 24]LogFbx: =================================================
+[2020.01.20-22.22.51:006][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.22.51:007][ 24]LogFbx: 	Total Deformer Count -804535584.
+[2020.01.20-22.22.51:007][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.22.51:007][ 24]LogFbx: =================================================
+[2020.01.20-22.22.51:007][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.22.51:007][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.22.51:007][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.22.51:007][ 24]LogFbx: =================================================
+[2020.01.20-22.22.51:007][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.22.51:007][ 24]LogFbx: 	Total Deformer Count -804535584.
+[2020.01.20-22.22.51:007][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.22.51:007][ 24]LogFbx: =================================================
+[2020.01.20-22.22.51:007][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.22.51:007][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.22.51:007][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.22.51:009][ 24]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
+[2020.01.20-22.22.51:024][ 24]LogFbx: Triangulating skeletal mesh Nova_final_character
+[2020.01.20-22.22.54:873][ 24]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.20-22.22.55:687][ 24]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
+[2020.01.20-22.22.55:687][ 24]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
+[2020.01.20-22.22.55:687][ 24]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
+[2020.01.20-22.22.55:688][ 24]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
+[2020.01.20-22.22.55:688][ 24]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
+[2020.01.20-22.22.55:688][ 24]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
+[2020.01.20-22.22.55:690][ 24]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.20-22.22.55:691][ 24]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
+[2020.01.20-22.22.55:691][ 24]LogSkeletalMesh: Section 2: Material=2, 384 triangles
+[2020.01.20-22.22.55:691][ 24]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
+[2020.01.20-22.22.55:691][ 24]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
+[2020.01.20-22.22.55:691][ 24]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
+[2020.01.20-22.22.55:724][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_jumping...
+[2020.01.20-22.22.55:777][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_jumping.Nova_jumping
+[2020.01.20-22.22.55:797][ 24]LogLinker: Can't find file '/Game/Animations/Nova_jumping_PhysicsAsset'
+[2020.01.20-22.22.55:797][ 24]LogLinker: Can't find file '/Game/Animations/Nova_jumping_PhysicsAsset'
+[2020.01.20-22.22.55:828][ 24]LogFbx: =================================================
+[2020.01.20-22.22.55:828][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.22.55:828][ 24]LogFbx: 	Total Deformer Count -808764352.
+[2020.01.20-22.22.55:828][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.22.55:828][ 24]LogFbx: =================================================
+[2020.01.20-22.22.55:828][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.22.55:829][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.22.55:829][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.22.55:829][ 24]LogFbx: =================================================
+[2020.01.20-22.22.55:829][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.22.55:829][ 24]LogFbx: 	Total Deformer Count -808764352.
+[2020.01.20-22.22.55:829][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.22.55:829][ 24]LogFbx: =================================================
+[2020.01.20-22.22.55:829][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.22.55:829][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.22.55:829][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.22.55:830][ 24]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-22.22.55:830][ 24]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-22.22.55:830][ 24]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-22.22.55:831][ 24]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
+[2020.01.20-22.22.55:837][ 24]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-22.22.55:837][ 24]LogLinker: Can't find file '/Game/Animations/Nova_jumping_Anim'
+[2020.01.20-22.22.55:837][ 24]LogLinker: Can't find file '/Game/Animations/Nova_jumping_Anim'
+[2020.01.20-22.22.56:177][ 24]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_jumping_Anim.Nova_jumping_Anim
+[2020.01.20-22.22.56:177][ 24]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_jumping_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-22.22.56:206][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_jumping...
+[2020.01.20-22.22.56:256][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_jumping.Nova_jumping
+[2020.01.20-22.22.56:283][ 24]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-22.22.56:285][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_jumping...
+[2020.01.20-22.22.56:334][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_jumping.Nova_jumping
+[2020.01.20-22.22.56:726][ 24]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_push_part1.fbx)
+[2020.01.20-22.22.56:799][ 24]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_push_part1.fbx
+[2020.01.20-22.22.57:265][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-22.22.57:277][ 24]LogFbx: =================================================
+[2020.01.20-22.22.57:277][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.22.57:277][ 24]LogFbx: 	Total Deformer Count -808767424.
+[2020.01.20-22.22.57:277][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.22.57:277][ 24]LogFbx: =================================================
+[2020.01.20-22.22.57:277][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.22.57:277][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.22.57:277][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.22.57:278][ 24]LogFbx: =================================================
+[2020.01.20-22.22.57:278][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.22.57:278][ 24]LogFbx: 	Total Deformer Count -808767424.
+[2020.01.20-22.22.57:278][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.22.57:278][ 24]LogFbx: =================================================
+[2020.01.20-22.22.57:278][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.22.57:278][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.22.57:278][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.22.57:280][ 24]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
+[2020.01.20-22.22.57:293][ 24]LogFbx: Triangulating skeletal mesh Nova_final_character
+[2020.01.20-22.23.01:136][ 24]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.20-22.23.01:949][ 24]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
+[2020.01.20-22.23.01:949][ 24]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
+[2020.01.20-22.23.01:949][ 24]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
+[2020.01.20-22.23.01:950][ 24]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
+[2020.01.20-22.23.01:950][ 24]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
+[2020.01.20-22.23.01:950][ 24]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
+[2020.01.20-22.23.01:952][ 24]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.20-22.23.01:952][ 24]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
+[2020.01.20-22.23.01:952][ 24]LogSkeletalMesh: Section 2: Material=2, 384 triangles
+[2020.01.20-22.23.01:952][ 24]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
+[2020.01.20-22.23.01:952][ 24]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
+[2020.01.20-22.23.01:952][ 24]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
+[2020.01.20-22.23.01:986][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part1...
+[2020.01.20-22.23.02:036][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_push_part1.Nova_push_part1
+[2020.01.20-22.23.02:058][ 24]LogLinker: Can't find file '/Game/Animations/Nova_push_part1_PhysicsAsset'
+[2020.01.20-22.23.02:058][ 24]LogLinker: Can't find file '/Game/Animations/Nova_push_part1_PhysicsAsset'
+[2020.01.20-22.23.02:091][ 24]LogFbx: =================================================
+[2020.01.20-22.23.02:091][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.02:091][ 24]LogFbx: 	Total Deformer Count -804795520.
+[2020.01.20-22.23.02:091][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.02:091][ 24]LogFbx: =================================================
+[2020.01.20-22.23.02:091][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.02:091][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.02:091][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.02:091][ 24]LogFbx: =================================================
+[2020.01.20-22.23.02:092][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.02:092][ 24]LogFbx: 	Total Deformer Count -804795520.
+[2020.01.20-22.23.02:092][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.02:092][ 24]LogFbx: =================================================
+[2020.01.20-22.23.02:092][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.02:092][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.02:092][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-22.23.02:093][ 24]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-22.23.02:094][ 24]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-22.23.02:094][ 24]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-22.23.02:094][ 24]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
+[2020.01.20-22.23.02:096][ 24]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-22.23.02:097][ 24]LogLinker: Can't find file '/Game/Animations/Nova_push_part1_Anim'
+[2020.01.20-22.23.02:097][ 24]LogLinker: Can't find file '/Game/Animations/Nova_push_part1_Anim'
+[2020.01.20-22.23.02:240][ 24]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_push_part1_Anim.Nova_push_part1_Anim
+[2020.01.20-22.23.02:240][ 24]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_push_part1_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-22.23.02:244][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part1...
+[2020.01.20-22.23.02:294][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_push_part1.Nova_push_part1
+[2020.01.20-22.23.02:322][ 24]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-22.23.02:323][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part1...
+[2020.01.20-22.23.02:375][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_push_part1.Nova_push_part1
+[2020.01.20-22.23.03:000][ 24]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_push_part2.fbx)
+[2020.01.20-22.23.03:078][ 24]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_push_part2.fbx
+[2020.01.20-22.23.03:597][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-22.23.03:610][ 24]LogFbx: =================================================
+[2020.01.20-22.23.03:610][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.03:610][ 24]LogFbx: 	Total Deformer Count -804784096.
+[2020.01.20-22.23.03:610][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.03:610][ 24]LogFbx: =================================================
+[2020.01.20-22.23.03:610][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.03:610][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.03:610][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.03:610][ 24]LogFbx: =================================================
+[2020.01.20-22.23.03:610][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.03:610][ 24]LogFbx: 	Total Deformer Count -804784096.
+[2020.01.20-22.23.03:610][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.03:610][ 24]LogFbx: =================================================
+[2020.01.20-22.23.03:610][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.03:611][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.03:611][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.03:612][ 24]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
+[2020.01.20-22.23.03:627][ 24]LogFbx: Triangulating skeletal mesh Nova_final_character
+[2020.01.20-22.23.07:347][ 24]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.20-22.23.08:152][ 24]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
+[2020.01.20-22.23.08:152][ 24]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
+[2020.01.20-22.23.08:152][ 24]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
+[2020.01.20-22.23.08:153][ 24]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
+[2020.01.20-22.23.08:153][ 24]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
+[2020.01.20-22.23.08:153][ 24]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
+[2020.01.20-22.23.08:156][ 24]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.20-22.23.08:156][ 24]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
+[2020.01.20-22.23.08:156][ 24]LogSkeletalMesh: Section 2: Material=2, 384 triangles
+[2020.01.20-22.23.08:156][ 24]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
+[2020.01.20-22.23.08:156][ 24]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
+[2020.01.20-22.23.08:156][ 24]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
+[2020.01.20-22.23.08:190][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part2...
+[2020.01.20-22.23.08:241][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_push_part2.Nova_push_part2
+[2020.01.20-22.23.08:261][ 24]LogLinker: Can't find file '/Game/Animations/Nova_push_part2_PhysicsAsset'
+[2020.01.20-22.23.08:261][ 24]LogLinker: Can't find file '/Game/Animations/Nova_push_part2_PhysicsAsset'
+[2020.01.20-22.23.08:290][ 24]LogFbx: =================================================
+[2020.01.20-22.23.08:290][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.08:290][ 24]LogFbx: 	Total Deformer Count -804965376.
+[2020.01.20-22.23.08:290][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.08:291][ 24]LogFbx: =================================================
+[2020.01.20-22.23.08:291][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.08:291][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.08:291][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.08:291][ 24]LogFbx: =================================================
+[2020.01.20-22.23.08:291][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.08:291][ 24]LogFbx: 	Total Deformer Count -804965376.
+[2020.01.20-22.23.08:291][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.08:291][ 24]LogFbx: =================================================
+[2020.01.20-22.23.08:291][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.08:291][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.08:291][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.08:292][ 24]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-22.23.08:292][ 24]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-22.23.08:292][ 24]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-22.23.08:292][ 24]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-22.23.08:292][ 24]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-22.23.08:293][ 24]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
+[2020.01.20-22.23.08:296][ 24]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-22.23.08:296][ 24]LogLinker: Can't find file '/Game/Animations/Nova_push_part2_Anim'
+[2020.01.20-22.23.08:297][ 24]LogLinker: Can't find file '/Game/Animations/Nova_push_part2_Anim'
+[2020.01.20-22.23.08:439][ 24]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_push_part2_Anim.Nova_push_part2_Anim
+[2020.01.20-22.23.08:439][ 24]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_push_part2_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-22.23.08:443][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part2...
+[2020.01.20-22.23.08:495][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_push_part2.Nova_push_part2
+[2020.01.20-22.23.08:522][ 24]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-22.23.08:524][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part2...
+[2020.01.20-22.23.08:574][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_push_part2.Nova_push_part2
+[2020.01.20-22.23.08:760][ 24]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_push_part3.fbx)
+[2020.01.20-22.23.08:808][ 24]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_push_part3.fbx
+[2020.01.20-22.23.09:362][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-22.23.09:381][ 24]LogFbx: =================================================
+[2020.01.20-22.23.09:381][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.09:381][ 24]LogFbx: 	Total Deformer Count -804965184.
+[2020.01.20-22.23.09:381][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.09:382][ 24]LogFbx: =================================================
+[2020.01.20-22.23.09:382][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.09:382][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.09:382][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.09:382][ 24]LogFbx: =================================================
+[2020.01.20-22.23.09:382][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.09:382][ 24]LogFbx: 	Total Deformer Count -804965184.
+[2020.01.20-22.23.09:382][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.09:382][ 24]LogFbx: =================================================
+[2020.01.20-22.23.09:382][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.09:382][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.09:382][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.09:384][ 24]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
+[2020.01.20-22.23.09:398][ 24]LogFbx: Triangulating skeletal mesh Nova_final_character
+[2020.01.20-22.23.13:123][ 24]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.20-22.23.13:992][ 24]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
+[2020.01.20-22.23.13:992][ 24]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
+[2020.01.20-22.23.13:992][ 24]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
+[2020.01.20-22.23.13:993][ 24]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
+[2020.01.20-22.23.13:993][ 24]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
+[2020.01.20-22.23.13:993][ 24]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
+[2020.01.20-22.23.13:996][ 24]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.20-22.23.13:996][ 24]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
+[2020.01.20-22.23.13:996][ 24]LogSkeletalMesh: Section 2: Material=2, 384 triangles
+[2020.01.20-22.23.13:996][ 24]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
+[2020.01.20-22.23.13:996][ 24]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
+[2020.01.20-22.23.13:996][ 24]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
+[2020.01.20-22.23.14:032][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part3...
+[2020.01.20-22.23.14:088][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Animations/Nova_push_part3.Nova_push_part3
+[2020.01.20-22.23.14:113][ 24]LogLinker: Can't find file '/Game/Animations/Nova_push_part3_PhysicsAsset'
+[2020.01.20-22.23.14:114][ 24]LogLinker: Can't find file '/Game/Animations/Nova_push_part3_PhysicsAsset'
+[2020.01.20-22.23.14:148][ 24]LogFbx: =================================================
+[2020.01.20-22.23.14:148][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.14:148][ 24]LogFbx: 	Total Deformer Count -808100192.
+[2020.01.20-22.23.14:149][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.14:149][ 24]LogFbx: =================================================
+[2020.01.20-22.23.14:149][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.14:149][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.14:149][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.14:149][ 24]LogFbx: =================================================
+[2020.01.20-22.23.14:149][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.14:149][ 24]LogFbx: 	Total Deformer Count -808100192.
+[2020.01.20-22.23.14:149][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.14:149][ 24]LogFbx: =================================================
+[2020.01.20-22.23.14:149][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.14:149][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.14:149][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-22.23.14:151][ 24]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
+[2020.01.20-22.23.14:158][ 24]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-22.23.14:158][ 24]LogLinker: Can't find file '/Game/Animations/Nova_push_part3_Anim'
+[2020.01.20-22.23.14:158][ 24]LogLinker: Can't find file '/Game/Animations/Nova_push_part3_Anim'
+[2020.01.20-22.23.14:566][ 24]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_push_part3_Anim.Nova_push_part3_Anim
+[2020.01.20-22.23.14:566][ 24]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_push_part3_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-22.23.14:572][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part3...
+[2020.01.20-22.23.14:627][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_push_part3.Nova_push_part3
+[2020.01.20-22.23.14:682][ 24]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-22.23.14:683][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part3...
+[2020.01.20-22.23.14:748][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Animations/Nova_push_part3.Nova_push_part3
+[2020.01.20-22.23.14:802][ 24]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_run_animation.fbx)
+[2020.01.20-22.23.14:858][ 24]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_run_animation.fbx
+[2020.01.20-22.23.15:401][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-22.23.15:417][ 24]LogFbx: =================================================
+[2020.01.20-22.23.15:417][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.15:417][ 24]LogFbx: 	Total Deformer Count -808092800.
+[2020.01.20-22.23.15:417][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.15:417][ 24]LogFbx: =================================================
+[2020.01.20-22.23.15:417][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.15:418][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.15:418][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.15:418][ 24]LogFbx: =================================================
+[2020.01.20-22.23.15:418][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.15:418][ 24]LogFbx: 	Total Deformer Count -808092800.
+[2020.01.20-22.23.15:418][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.15:418][ 24]LogFbx: =================================================
+[2020.01.20-22.23.15:418][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.15:418][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.15:418][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.15:420][ 24]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
+[2020.01.20-22.23.15:436][ 24]LogFbx: Triangulating skeletal mesh Nova_final_character
+[2020.01.20-22.23.19:804][ 24]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.20-22.23.20:685][ 24]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
+[2020.01.20-22.23.20:685][ 24]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
+[2020.01.20-22.23.20:685][ 24]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
+[2020.01.20-22.23.20:686][ 24]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
+[2020.01.20-22.23.20:686][ 24]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
+[2020.01.20-22.23.20:686][ 24]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
+[2020.01.20-22.23.20:688][ 24]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.20-22.23.20:689][ 24]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
+[2020.01.20-22.23.20:689][ 24]LogSkeletalMesh: Section 2: Material=2, 384 triangles
+[2020.01.20-22.23.20:689][ 24]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
+[2020.01.20-22.23.20:689][ 24]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
+[2020.01.20-22.23.20:689][ 24]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
+[2020.01.20-22.23.20:722][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_run_animation...
+[2020.01.20-22.23.20:775][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_run_animation.Nova_run_animation
+[2020.01.20-22.23.20:829][ 24]LogFbx: =================================================
+[2020.01.20-22.23.20:829][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.20:829][ 24]LogFbx: 	Total Deformer Count -806484800.
+[2020.01.20-22.23.20:829][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.20:829][ 24]LogFbx: =================================================
+[2020.01.20-22.23.20:829][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.20:829][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.20:829][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.20:829][ 24]LogFbx: =================================================
+[2020.01.20-22.23.20:829][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.20:829][ 24]LogFbx: 	Total Deformer Count -806484800.
+[2020.01.20-22.23.20:829][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.20:829][ 24]LogFbx: =================================================
+[2020.01.20-22.23.20:829][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.20:830][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.20:830][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-22.23.20:831][ 24]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-22.23.20:832][ 24]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-22.23.20:832][ 24]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-22.23.20:832][ 24]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-22.23.20:832][ 24]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
+[2020.01.20-22.23.20:834][ 24]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-22.23.20:961][ 24]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_run_animation_Anim.Nova_run_animation_Anim
+[2020.01.20-22.23.20:962][ 24]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_run_animation_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-22.23.20:967][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_run_animation...
+[2020.01.20-22.23.21:019][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_run_animation.Nova_run_animation
+[2020.01.20-22.23.21:045][ 24]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-22.23.21:047][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_run_animation...
+[2020.01.20-22.23.21:097][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_run_animation.Nova_run_animation
+[2020.01.20-22.23.21:233][ 24]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_telekinesis.fbx)
+[2020.01.20-22.23.21:281][ 24]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_telekinesis.fbx
+[2020.01.20-22.23.21:761][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-22.23.21:796][ 24]LogFbx: =================================================
+[2020.01.20-22.23.21:796][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.21:796][ 24]LogFbx: 	Total Deformer Count -806477120.
+[2020.01.20-22.23.21:796][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.21:796][ 24]LogFbx: =================================================
+[2020.01.20-22.23.21:796][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.21:796][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.21:796][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.21:797][ 24]LogFbx: =================================================
+[2020.01.20-22.23.21:797][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.21:797][ 24]LogFbx: 	Total Deformer Count -806477120.
+[2020.01.20-22.23.21:797][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.21:797][ 24]LogFbx: =================================================
+[2020.01.20-22.23.21:797][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.21:797][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.21:797][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.21:799][ 24]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
+[2020.01.20-22.23.21:812][ 24]LogFbx: Triangulating skeletal mesh Nova_final_character
+[2020.01.20-22.23.25:515][ 24]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.20-22.23.26:322][ 24]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
+[2020.01.20-22.23.26:322][ 24]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
+[2020.01.20-22.23.26:322][ 24]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
+[2020.01.20-22.23.26:322][ 24]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
+[2020.01.20-22.23.26:323][ 24]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
+[2020.01.20-22.23.26:323][ 24]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
+[2020.01.20-22.23.26:325][ 24]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.20-22.23.26:325][ 24]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
+[2020.01.20-22.23.26:325][ 24]LogSkeletalMesh: Section 2: Material=2, 384 triangles
+[2020.01.20-22.23.26:326][ 24]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
+[2020.01.20-22.23.26:326][ 24]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
+[2020.01.20-22.23.26:326][ 24]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
+[2020.01.20-22.23.26:361][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_telekinesis...
+[2020.01.20-22.23.26:412][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_telekinesis.Nova_telekinesis
+[2020.01.20-22.23.26:434][ 24]LogLinker: Can't find file '/Game/Animations/Nova_telekinesis_PhysicsAsset'
+[2020.01.20-22.23.26:434][ 24]LogLinker: Can't find file '/Game/Animations/Nova_telekinesis_PhysicsAsset'
+[2020.01.20-22.23.26:466][ 24]LogFbx: =================================================
+[2020.01.20-22.23.26:466][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.26:466][ 24]LogFbx: 	Total Deformer Count -77923360.
+[2020.01.20-22.23.26:466][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.26:466][ 24]LogFbx: =================================================
+[2020.01.20-22.23.26:466][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.26:466][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.26:466][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.26:466][ 24]LogFbx: =================================================
+[2020.01.20-22.23.26:466][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.26:466][ 24]LogFbx: 	Total Deformer Count -77923360.
+[2020.01.20-22.23.26:466][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.26:466][ 24]LogFbx: =================================================
+[2020.01.20-22.23.26:466][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.26:466][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.26:466][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-22.23.26:468][ 24]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
+[2020.01.20-22.23.26:481][ 24]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-22.23.26:481][ 24]LogLinker: Can't find file '/Game/Animations/Nova_telekinesis_Anim'
+[2020.01.20-22.23.26:482][ 24]LogLinker: Can't find file '/Game/Animations/Nova_telekinesis_Anim'
+[2020.01.20-22.23.27:279][ 24]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_telekinesis_Anim.Nova_telekinesis_Anim
+[2020.01.20-22.23.27:279][ 24]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_telekinesis_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-22.23.27:290][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_telekinesis...
+[2020.01.20-22.23.27:341][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_telekinesis.Nova_telekinesis
+[2020.01.20-22.23.27:369][ 24]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-22.23.27:376][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_telekinesis...
+[2020.01.20-22.23.27:428][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_telekinesis.Nova_telekinesis
+[2020.01.20-22.23.27:480][ 24]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_walk_animation.fbx)
+[2020.01.20-22.23.27:526][ 24]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_walk_animation.fbx
+[2020.01.20-22.23.27:971][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-22.23.27:987][ 24]LogFbx: =================================================
+[2020.01.20-22.23.27:987][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.27:987][ 24]LogFbx: 	Total Deformer Count -77934304.
+[2020.01.20-22.23.27:987][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.27:987][ 24]LogFbx: =================================================
+[2020.01.20-22.23.27:987][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.27:987][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.27:987][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.27:987][ 24]LogFbx: =================================================
+[2020.01.20-22.23.27:987][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.27:987][ 24]LogFbx: 	Total Deformer Count -77934304.
+[2020.01.20-22.23.27:987][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.27:987][ 24]LogFbx: =================================================
+[2020.01.20-22.23.27:987][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.27:987][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.27:987][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.27:989][ 24]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
+[2020.01.20-22.23.28:003][ 24]LogFbx: Triangulating skeletal mesh Nova_final_character
+[2020.01.20-22.23.31:735][ 24]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
+[2020.01.20-22.23.32:539][ 24]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
+[2020.01.20-22.23.32:539][ 24]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
+[2020.01.20-22.23.32:539][ 24]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
+[2020.01.20-22.23.32:539][ 24]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
+[2020.01.20-22.23.32:540][ 24]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
+[2020.01.20-22.23.32:540][ 24]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
+[2020.01.20-22.23.32:542][ 24]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
+[2020.01.20-22.23.32:542][ 24]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
+[2020.01.20-22.23.32:542][ 24]LogSkeletalMesh: Section 2: Material=2, 384 triangles
+[2020.01.20-22.23.32:542][ 24]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
+[2020.01.20-22.23.32:542][ 24]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
+[2020.01.20-22.23.32:542][ 24]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
+[2020.01.20-22.23.32:575][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_walk_animation...
+[2020.01.20-22.23.32:625][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_walk_animation.Nova_walk_animation
+[2020.01.20-22.23.32:679][ 24]LogFbx: =================================================
+[2020.01.20-22.23.32:679][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.32:679][ 24]LogFbx: 	Total Deformer Count -957318464.
+[2020.01.20-22.23.32:679][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.32:679][ 24]LogFbx: =================================================
+[2020.01.20-22.23.32:679][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.32:679][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.32:679][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.32:680][ 24]LogFbx: =================================================
+[2020.01.20-22.23.32:680][ 24]LogFbx: Dumping Node START [Nova_final_character] 
+[2020.01.20-22.23.32:680][ 24]LogFbx: 	Total Deformer Count -957318464.
+[2020.01.20-22.23.32:680][ 24]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-22.23.32:680][ 24]LogFbx: =================================================
+[2020.01.20-22.23.32:680][ 24]LogFbx: 	Attribute () Type (4).
+[2020.01.20-22.23.32:680][ 24]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
+[2020.01.20-22.23.32:680][ 24]LogFbx: Dumping Node END [Nova_final_character]
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-22.23.32:681][ 24]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-22.23.32:682][ 24]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-22.23.32:682][ 24]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-22.23.32:682][ 24]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-22.23.32:682][ 24]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-22.23.32:682][ 24]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-22.23.32:682][ 24]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-22.23.32:682][ 24]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
+[2020.01.20-22.23.32:685][ 24]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-22.23.32:872][ 24]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_walk_animation_Anim.Nova_walk_animation_Anim
+[2020.01.20-22.23.32:873][ 24]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_walk_animation_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-22.23.32:879][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_walk_animation...
+[2020.01.20-22.23.32:931][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_walk_animation.Nova_walk_animation
+[2020.01.20-22.23.32:958][ 24]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-22.23.32:960][ 24]LogSkeletalMesh: Building Skeletal Mesh Nova_walk_animation...
+[2020.01.20-22.23.33:010][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Nova_walk_animation.Nova_walk_animation
+[2020.01.20-22.23.37:614][123]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-22.23.37:619][123]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-22.23.47:717][620]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (14.624 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.20-22.23.59:127][907]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.01.20-22.24.08:827][125]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Animations/Nova_BS.Nova_BS
+[2020.01.20-22.24.08:870][125]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_65:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-22.24.08:886][125]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_65:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-22.24.09:482][125]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-22.24.13:716][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.01.20-22.24.15:819][227]LogSlate: Window 'Save Content' being destroyed
+[2020.01.20-22.24.15:907][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Nova_BS" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset" SILENT=true
+[2020.01.20-22.24.16:061][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_BS69F159DA46A4829D0D2D93AE227D9151.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset'
+[2020.01.20-22.24.16:266][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_death_animation1C3B417448FC1C7A648761879E9A4F02.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_death_animation.uasset'
+[2020.01.20-22.24.16:336][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_death_animation_Anim887934F84A2340D56034DB9A45A161A0.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_death_animation_Anim.uasset'
+[2020.01.20-22.24.16:444][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_death_animation_PhysicsAsse7D5447FB4A71A59EB5F6DEBE1D22A754.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_death_animation_PhysicsAsset.uasset'
+[2020.01.20-22.24.16:487][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Nova_jumping" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_jumping.uasset" SILENT=true
+[2020.01.20-22.24.16:851][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_jumpingED047C1549EAB375FCE60FB7F6F458FC.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_jumping.uasset'
+[2020.01.20-22.24.16:993][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_jumping_AnimB8D49D85447C826FC7C275BF62481166.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_jumping_Anim.uasset'
+[2020.01.20-22.24.17:072][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_jumping_PhysicsAssetD3B1C0594C00CACDED0EF8A27161F7FD.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_jumping_PhysicsAsset.uasset'
+[2020.01.20-22.24.17:319][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part1844CC98543BB5A8BE161639F3EFD85A7.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part1.uasset'
+[2020.01.20-22.24.17:393][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part1_Anim8C0D2E144219E68817A32794F0803AA2.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part1_Anim.uasset'
+[2020.01.20-22.24.17:471][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part1_PhysicsAsset6D631E9F4A010E9903A747B82F5F29F6.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part1_PhysicsAsset.uasset'
+[2020.01.20-22.24.17:671][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part2532A9C7C461D75254BE1E89DBF963266.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part2.uasset'
+[2020.01.20-22.24.17:747][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part2_AnimD4D839834E9E8C9E6878E6AAB6C61DCF.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part2_Anim.uasset'
+[2020.01.20-22.24.17:927][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part2_PhysicsAsset50ED702B472A854A317D4AB838F63084.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part2_PhysicsAsset.uasset'
+[2020.01.20-22.24.18:333][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part36AD4EDB1462863B7069DC6B8F7E305A4.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part3.uasset'
+[2020.01.20-22.24.18:415][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part3_Anim38CC6A774BA0764F2D1D649FC09B4866.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part3_Anim.uasset'
+[2020.01.20-22.24.18:495][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part3_PhysicsAsset3C8E02724DD1840EADFAC28DF092959E.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part3_PhysicsAsset.uasset'
+[2020.01.20-22.24.18:688][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_run_animation3BB95F564383764E8797939BD5FFA07C.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_run_animation.uasset'
+[2020.01.20-22.24.18:763][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_run_animation_Anim9A8E019F40F9E754997811977689C945.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_run_animation_Anim.uasset'
+[2020.01.20-22.24.18:846][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_run_animation_PhysicsAsset7E5709834828BCEDD2BF4C8BE3E82AB6.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_run_animation_PhysicsAsset.uasset'
+[2020.01.20-22.24.19:046][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_telekinesisCF5BC15F478FFAA6A20576814A6EB557.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_telekinesis.uasset'
+[2020.01.20-22.24.19:250][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_telekinesis_Anim9AA4405E4A7393A5EFD74AA825CAE88B.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_telekinesis_Anim.uasset'
+[2020.01.20-22.24.19:526][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_telekinesis_PhysicsAsset3216F2854938E95B976D11AAAB443DC5.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_telekinesis_PhysicsAsset.uasset'
+[2020.01.20-22.24.19:774][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_walk_animationFBE3B47146E0E623D56A699F86C887C9.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_walk_animation.uasset'
+[2020.01.20-22.24.19:869][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_walk_animation_Anim7BB1D7B64D0F85D293181883396AE877.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_walk_animation_Anim.uasset'
+[2020.01.20-22.24.19:997][227]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_walk_animation_PhysicsAssetEDC0D344415FE027B289D4BE8193ACCF.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_walk_animation_PhysicsAsset.uasset'
+[2020.01.20-22.24.22:382][247]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Animations/Nova_BS.Nova_BS
+[2020.01.20-22.24.22:394][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-22.24.22:442][247]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-22.24.23:079][247]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-22.26.06:680][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Nova_BS" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset" SILENT=true
+[2020.01.20-22.26.06:730][902]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_BS63D757844A1C7D30D4F0B0AEC7B5ED63.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset'
