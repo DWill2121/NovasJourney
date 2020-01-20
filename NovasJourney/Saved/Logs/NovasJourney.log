@@ -1246,3 +1246,14 @@ Make sure 'Nova1_C' has been compiled for  Set Brightness Value
 [2020.01.20-21.45.59:937][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
 [2020.01.20-21.46.01:925][992]LogSlate: Window 'Save Content' being destroyed
 [2020.01.20-21.46.02:174][992]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_Animation119A84124FCFD2987F1503A9DF6D0749.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animation.uasset'
+[2020.01.20-21.51.37:512][301]BlueprintLog: New page: Compile Nova_Final_Animation
+[2020.01.20-21.51.37:550][301]LogBlueprint: Warning: [Compiler Nova_Final_Animation] Entry node  Nova_State  is not connected to state
+[2020.01.20-21.51.37:550][301]LogBlueprint: Warning: [Compiler Nova_Final_Animation] There was no entry state connection in  Nova_State
+[2020.01.20-21.51.37:858][301]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2020.01.20-21.51.37:889][301]LogBlueprint: Warning: [Compiler Nova_Final_Animation] [1763.57] Compile of Nova_Final_Animation successful, but with 2 Warning(s) [in 377 ms] (/Game/Animations/Nova_Final_Animation.Nova_Final_Animation)
+[2020.01.20-21.51.42:509][467]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_AnimationE942330C4FA279ADB444E5A2B3AE7944.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animation.uasset'
+[2020.01.20-22.04.03:391][330]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.01.20-22.04.15:253][544]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2020.01.20-22.04.17:968][544]LogSlate: Window 'Save Content' being destroyed
+[2020.01.20-22.04.18:054][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Nova_BS" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset" SILENT=true
+[2020.01.20-22.04.18:152][544]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_BS71ABFA1D4EE88618FDC3BB9E59B9BE06.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset'
