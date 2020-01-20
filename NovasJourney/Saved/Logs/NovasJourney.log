@@ -1,4 +1,4 @@
-﻿Log file open, 01/20/20 00:26:24
+﻿Log file open, 01/20/20 16:22:16
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogInit: Display: Running engine for game: NovasJourney
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.182604
+LogStats: Stats thread started at 0.174929
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -156,939 +156,696 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
-[2020.01.20-05.26.24:733][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2020.01.20-05.26.24:733][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
-[2020.01.20-05.26.24:733][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
-[2020.01.20-05.26.24:736][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.01.20-05.26.24:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.01.20-05.26.24:737][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.01.20-05.26.24:738][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.01.20-05.26.24:738][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.01.20-05.26.24:738][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:738][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.01.20-05.26.24:738][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.01.20-05.26.24:738][  0]LogInit: Selected Device Profile: [Windows]
-[2020.01.20-05.26.24:738][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.01.20-05.26.24:764][  0]LogHAL: Display: Platform has ~ 8 GB [8453226496 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
-[2020.01.20-05.26.24:764][  0]LogInit: Going up to parent DeviceProfile []
-[2020.01.20-05.26.24:764][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.01.20-05.26.24:764][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.01.20-05.26.24:765][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2020.01.20-05.26.24:766][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2020.01.20-05.26.24:766][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2020.01.20-05.26.24:766][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
-[2020.01.20-05.26.24:766][  0]LogInit: Computer: DESKTOP-556067R
-[2020.01.20-05.26.24:766][  0]LogInit: User: ShaquilleGeorges
-[2020.01.20-05.26.24:766][  0]LogInit: CPU Page size=4096, Cores=2
-[2020.01.20-05.26.24:766][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.01.20-05.26.24:766][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2020.01.20-05.26.24:766][  0]LogMemory: Platform Memory Stats for Windows
-[2020.01.20-05.26.24:766][  0]LogMemory: Process Physical Memory: 97.13 MB used, 97.14 MB peak
-[2020.01.20-05.26.24:766][  0]LogMemory: Process Virtual Memory: 91.66 MB used, 91.66 MB peak
-[2020.01.20-05.26.24:766][  0]LogMemory: Physical Memory: 5118.96 MB used,  2942.66 MB free, 8061.63 MB total
-[2020.01.20-05.26.24:766][  0]LogMemory: Virtual Memory: 4628.96 MB used,  134213096.00 MB free, 134217728.00 MB total
-[2020.01.20-05.26.24:795][  0]LogInit: Using OS detected language (en-US).
-[2020.01.20-05.26.24:795][  0]LogInit: Using OS detected locale (en-US).
-[2020.01.20-05.26.24:796][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2020.01.20-05.26.25:092][  0]LogInit: Setting process to per monitor DPI aware
-[2020.01.20-05.26.25:164][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2020.01.20-05.26.25:164][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2020.01.20-05.26.25:476][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.01.20-05.26.25:476][  0]LogD3D11RHI: D3D11 adapters:
-[2020.01.20-05.26.25:616][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
-[2020.01.20-05.26.25:616][  0]LogD3D11RHI:       128/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
-[2020.01.20-05.26.25:618][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2020.01.20-05.26.25:618][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2020.01.20-05.26.25:618][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2020.01.20-05.26.25:628][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2020.01.20-05.26.25:628][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
-[2020.01.20-05.26.25:628][  0]LogWindows: EnumDisplayDevices:
-[2020.01.20-05.26.25:628][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
-[2020.01.20-05.26.25:628][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
-[2020.01.20-05.26.25:629][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
-[2020.01.20-05.26.25:629][  0]LogWindows: DebugString: FoundDriverCount:3 
-[2020.01.20-05.26.25:629][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
-[2020.01.20-05.26.25:629][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
-[2020.01.20-05.26.25:629][  0]LogD3D11RHI:      Driver Date: 2-28-2018
-[2020.01.20-05.26.25:629][  0]LogRHI: Texture pool is 1500 MB (70% of 2143 MB)
-[2020.01.20-05.26.25:762][  0]LogD3D11RHI: Async texture creation enabled
-[2020.01.20-05.26.25:767][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.01.20-05.26.25:768][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.01.20-05.26.25:768][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.01.20-05.26.25:770][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
-[2020.01.20-05.26.26:275][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
-[2020.01.20-05.26.26:298][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
-[2020.01.20-05.26.26:321][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
-[2020.01.20-05.26.26:345][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
-[2020.01.20-05.26.26:365][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
-[2020.01.20-05.26.26:384][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2020.01.20-05.26.26:403][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2020.01.20-05.26.26:422][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2020.01.20-05.26.26:430][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2020.01.20-05.26.26:546][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
-[2020.01.20-05.26.26:546][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
-[2020.01.20-05.26.26:547][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
-[2020.01.20-05.26.26:549][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
-[2020.01.20-05.26.26:608][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
-[2020.01.20-05.26.26:608][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
-[2020.01.20-05.26.26:642][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
-[2020.01.20-05.26.26:642][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
-[2020.01.20-05.26.26:659][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
-[2020.01.20-05.26.26:677][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
-[2020.01.20-05.26.26:694][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
-[2020.01.20-05.26.26:712][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
-[2020.01.20-05.26.26:775][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
-[2020.01.20-05.26.26:775][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
-[2020.01.20-05.26.26:775][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2020.01.20-05.26.26:786][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2020.01.20-05.26.26:842][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Intermediate/Shaders/WorkingDirectory/20940/).
-[2020.01.20-05.26.26:842][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Shaquille Georges/AppData/Local/Temp/UnrealShaderWorkingDir/09E9BC914A9D650F34793AB3E0D7EFA3/'.
-[2020.01.20-05.26.26:844][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2020.01.20-05.26.26:844][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2020.01.20-05.26.26:844][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2020.01.20-05.26.27:643][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2020.01.20-05.26.27:713][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Shaquille Georges/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2020.01.20-05.26.27:713][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Shaquille Georges/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
-[2020.01.20-05.26.27:713][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2020.01.20-05.26.27:713][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2020.01.20-05.26.27:713][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.01.20-05.26.27:714][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2020.01.20-05.26.27:732][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2020.01.20-05.26.27:732][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.01.20-05.26.27:732][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2020.01.20-05.26.27:744][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Shaquille Georges/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2020.01.20-05.26.27:744][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2020.01.20-05.26.27:744][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2020.01.20-05.26.27:776][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2020.01.20-05.26.27:777][  0]LogSlate: Using FreeType 2.6.0
-[2020.01.20-05.26.27:778][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.01.20-05.26.27:883][  0]LogAssetRegistry: FAssetRegistry took 0.0391 seconds to start up
-[2020.01.20-05.26.28:383][  0]LogInit: Selected Device Profile: [Windows]
-[2020.01.20-05.26.28:569][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2020.01.20-05.26.28:569][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2020.01.20-05.26.28:569][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2020.01.20-05.26.28:569][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2020.01.20-05.26.28:569][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2020.01.20-05.26.28:583][  0]LogNetVersion: NovasJourney 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 477171736)
-[2020.01.20-05.26.29:223][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.056898 seconds
-[2020.01.20-05.26.29:230][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
-[2020.01.20-05.26.29:230][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
-[2020.01.20-05.26.29:230][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2020.01.20-05.26.30:326][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2020.01.20-05.26.30:339][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2020.01.20-05.26.30:627][  0]SourceControl: Source control is disabled
-[2020.01.20-05.26.30:627][  0]SourceControl: Source control is disabled
-[2020.01.20-05.26.30:629][  0]SourceControl: Source control is disabled
-[2020.01.20-05.26.30:630][  0]SourceControl: Source control is disabled
-[2020.01.20-05.26.30:725][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2020.01.20-05.26.30:814][  0]LogOcInput: OculusInput pre-init called
-[2020.01.20-05.26.31:731][  0]LogEngine: Initializing Engine...
-[2020.01.20-05.26.31:733][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.01.20-05.26.31:734][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2020.01.20-05.26.32:036][  0]LogInit: Initializing FReadOnlyCVARCache
-[2020.01.20-05.26.32:050][  0]LogAIModule: Creating AISystem for world Untitled
-[2020.01.20-05.26.32:215][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2020.01.20-05.26.33:375][  0]LogInit: FAudioDevice initialized.
-[2020.01.20-05.26.33:375][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2020.01.20-05.26.33:678][  0]LogDerivedDataCache: Saved boot cache 0.30s 71MB C:/Users/Shaquille Georges/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2020.01.20-05.26.33:706][  0]LogInit: Texture streaming: Enabled
-[2020.01.20-05.26.33:732][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2020.01.20-05.26.33:756][  0]LogInit: Transaction tracking system initialized
-[2020.01.20-05.26.33:782][  0]BlueprintLog: New page: Editor Load
-[2020.01.20-05.26.33:867][  0]LocalizationService: Localization service is disabled
-[2020.01.20-05.26.34:340][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/' took 0.03s
-[2020.01.20-05.26.34:340][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2020.01.20-05.26.34:340][  0]LogCook: Display: Mobile HDR setting 1
-[2020.01.20-05.26.34:559][  0]SourceControl: Source control is disabled
-[2020.01.20-05.26.34:559][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/NovaTechConcept.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.01.20-05.26.34:566][  0]LightingResults: New page: Lighting Build
-[2020.01.20-05.26.34:569][  0]MapCheck: New page: Map Check
-[2020.01.20-05.26.34:569][  0]LightingResults: New page: Lighting Build
-[2020.01.20-05.26.34:600][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
-[2020.01.20-05.26.37:490][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
-[2020.01.20-05.26.37:490][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
-[2020.01.20-05.26.37:493][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
-[2020.01.20-05.26.37:493][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
-[2020.01.20-05.26.37:495][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
-[2020.01.20-05.26.37:495][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
-[2020.01.20-05.26.37:495][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
-[2020.01.20-05.26.37:495][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
-[2020.01.20-05.26.37:569][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
-[2020.01.20-05.26.37:570][  0]LoadErrors: Failed to load /Game/Content/Levels/Maps/NovaTechConcept_BuiltData.NovaTechConcept_BuiltData Referenced by PersistentLevel
-[2020.01.20-05.26.37:570][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
-[2020.01.20-05.26.38:738][  0]LogAIModule: Creating AISystem for world NovaTechConcept
-[2020.01.20-05.26.38:814][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.01.20-05.26.38:895][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
-[2020.01.20-05.26.38:895][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.01.20-05.26.38:896][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.208ms to complete.
-[2020.01.20-05.26.38:896][  0]LogFileHelpers: Loading map 'NovaTechConcept' took 4.336
-[2020.01.20-05.26.39:136][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.01.20-05.26.39:148][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.01.20-05.26.39:159][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.01.20-05.26.39:170][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.01.20-05.26.39:182][  0]LogCollectionManager: Loaded 0 collections in 0.001287 seconds
-[2020.01.20-05.26.39:199][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Collections/' took 0.01s
-[2020.01.20-05.26.39:199][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Developers/ShaquilleGeorges/Collections/' took 0.00s
-[2020.01.20-05.26.39:199][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Collections/' took 0.00s
-[2020.01.20-05.26.39:199][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2020.01.20-05.26.39:212][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2735 classes and 661 folders.
-[2020.01.20-05.26.39:218][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2020.01.20-05.26.39:252][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:261][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:281][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:289][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:311][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:318][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:326][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:380][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:420][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:435][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.39:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.01.20-05.26.40:302][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2020.01.20-05.26.40:308][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2020.01.20-05.26.40:423][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2020.01.20-05.26.40:428][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2020.01.20-05.26.40:453][  0]LogSlate: Took 0.014602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2020.01.20-05.26.40:804][  0]LogRenderer: Reallocating scene render targets to support 712x392 Format 10 NumSamples 1 (Frame:1).
-[2020.01.20-05.26.41:436][  0]LogSlate: Took 0.086456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.01.20-05.26.41:585][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2020.01.20-05.26.41:585][  0]LogLoad: (Engine Initialization) Total time: 18.93 seconds
-[2020.01.20-05.26.41:585][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2020.01.20-05.26.41:940][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2020.01.20-05.26.41:944][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2020.01.20-05.26.42:546][  1]LogAssetRegistry: Asset discovery search completed in 14.6845 seconds
-[2020.01.20-05.26.42:550][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2020.01.20-05.26.42:550][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000115 seconds (updated 0 objects)
-[2020.01.20-05.26.47:212][128]LogSlate: Window 'Message Log' being destroyed
-[2020.01.20-05.26.47:217][128]LogSlate: Window 'Message Log' being destroyed
-[2020.01.20-05.28.50:966][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.01.20-05.31.49:260][ 46]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.01.20-05.31.49:412][ 46]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_death_animation.fbx)
-[2020.01.20-05.31.49:814][ 46]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_death_animation.fbx
-[2020.01.20-05.31.50:548][ 46]LogFbx: FBX Scene Loaded Succesfully
-[2020.01.20-05.32.12:823][ 46]LogSlate: Window 'FBX Import Options' being destroyed
-[2020.01.20-05.32.13:206][ 46]LogFbx: =================================================
-[2020.01.20-05.32.13:206][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.13:206][ 46]LogFbx: 	Total Deformer Count -1501266400.
-[2020.01.20-05.32.13:206][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.13:206][ 46]LogFbx: =================================================
-[2020.01.20-05.32.13:206][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.13:206][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.13:206][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.13:212][ 46]LogFbx: =================================================
-[2020.01.20-05.32.13:212][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.13:212][ 46]LogFbx: 	Total Deformer Count -1501266400.
-[2020.01.20-05.32.13:212][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.13:212][ 46]LogFbx: =================================================
-[2020.01.20-05.32.13:212][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.13:212][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.13:212][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.13:267][ 46]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
-[2020.01.20-05.32.13:776][ 46]LogFbx: Triangulating skeletal mesh Nova_final_character
-[2020.01.20-05.32.18:648][ 46]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
-[2020.01.20-05.32.19:851][ 46]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
-[2020.01.20-05.32.19:851][ 46]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
-[2020.01.20-05.32.19:851][ 46]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
-[2020.01.20-05.32.19:852][ 46]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
-[2020.01.20-05.32.19:852][ 46]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
-[2020.01.20-05.32.19:853][ 46]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
-[2020.01.20-05.32.19:856][ 46]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
-[2020.01.20-05.32.19:856][ 46]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
-[2020.01.20-05.32.19:856][ 46]LogSkeletalMesh: Section 2: Material=2, 384 triangles
-[2020.01.20-05.32.19:856][ 46]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
-[2020.01.20-05.32.19:856][ 46]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
-[2020.01.20-05.32.19:856][ 46]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
-[2020.01.20-05.32.19:913][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_death_animation...
-[2020.01.20-05.32.20:015][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Animations/Nova_death_animation.Nova_death_animation
-[2020.01.20-05.32.20:041][ 46]LogLinker: Can't find file '/Game/Animations/Nova_death_animation_PhysicsAsset'
-[2020.01.20-05.32.20:041][ 46]LogLinker: Can't find file '/Game/Animations/Nova_death_animation_PhysicsAsset'
-[2020.01.20-05.32.20:318][ 46]LogFbx: =================================================
-[2020.01.20-05.32.20:319][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.20:319][ 46]LogFbx: 	Total Deformer Count -669999456.
-[2020.01.20-05.32.20:319][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.20:319][ 46]LogFbx: =================================================
-[2020.01.20-05.32.20:319][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.20:319][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.20:319][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.20:319][ 46]LogFbx: =================================================
-[2020.01.20-05.32.20:319][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.20:319][ 46]LogFbx: 	Total Deformer Count -669999456.
-[2020.01.20-05.32.20:319][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.20:319][ 46]LogFbx: =================================================
-[2020.01.20-05.32.20:319][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.20:319][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.20:319][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
-[2020.01.20-05.32.20:345][ 46]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
-[2020.01.20-05.32.20:346][ 46]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
-[2020.01.20-05.32.20:346][ 46]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
-[2020.01.20-05.32.20:346][ 46]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
-[2020.01.20-05.32.20:346][ 46]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
-[2020.01.20-05.32.20:346][ 46]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
-[2020.01.20-05.32.20:346][ 46]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
-[2020.01.20-05.32.20:356][ 46]LogFbx: Parsing AnimStack Take 001
-[2020.01.20-05.32.20:358][ 46]LogLinker: Can't find file '/Game/Animations/Nova_death_animation_Anim'
-[2020.01.20-05.32.20:358][ 46]LogLinker: Can't find file '/Game/Animations/Nova_death_animation_Anim'
-[2020.01.20-05.32.20:987][ 46]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_death_animation_Anim.Nova_death_animation_Anim
-[2020.01.20-05.32.21:024][ 46]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_death_animation_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2020.01.20-05.32.21:072][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_death_animation...
-[2020.01.20-05.32.21:149][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Animations/Nova_death_animation.Nova_death_animation
-[2020.01.20-05.32.21:200][ 46]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2020.01.20-05.32.21:215][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_death_animation...
-[2020.01.20-05.32.21:303][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/Animations/Nova_death_animation.Nova_death_animation
-[2020.01.20-05.32.21:859][ 46]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_push_part1.fbx)
-[2020.01.20-05.32.21:910][ 46]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_push_part1.fbx
-[2020.01.20-05.32.22:497][ 46]LogFbx: FBX Scene Loaded Succesfully
-[2020.01.20-05.32.22:512][ 46]LogFbx: =================================================
-[2020.01.20-05.32.22:512][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.22:512][ 46]LogFbx: 	Total Deformer Count -670003872.
-[2020.01.20-05.32.22:512][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.22:512][ 46]LogFbx: =================================================
-[2020.01.20-05.32.22:512][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.22:512][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.22:512][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.22:512][ 46]LogFbx: =================================================
-[2020.01.20-05.32.22:512][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.22:512][ 46]LogFbx: 	Total Deformer Count -670003872.
-[2020.01.20-05.32.22:512][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.22:513][ 46]LogFbx: =================================================
-[2020.01.20-05.32.22:513][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.22:513][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.22:513][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.22:515][ 46]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
-[2020.01.20-05.32.22:531][ 46]LogFbx: Triangulating skeletal mesh Nova_final_character
-[2020.01.20-05.32.27:281][ 46]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
-[2020.01.20-05.32.28:328][ 46]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
-[2020.01.20-05.32.28:328][ 46]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
-[2020.01.20-05.32.28:328][ 46]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
-[2020.01.20-05.32.28:329][ 46]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
-[2020.01.20-05.32.28:329][ 46]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
-[2020.01.20-05.32.28:329][ 46]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
-[2020.01.20-05.32.28:332][ 46]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
-[2020.01.20-05.32.28:332][ 46]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
-[2020.01.20-05.32.28:332][ 46]LogSkeletalMesh: Section 2: Material=2, 384 triangles
-[2020.01.20-05.32.28:332][ 46]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
-[2020.01.20-05.32.28:332][ 46]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
-[2020.01.20-05.32.28:332][ 46]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
-[2020.01.20-05.32.28:411][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part1...
-[2020.01.20-05.32.28:489][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/Animations/Nova_push_part1.Nova_push_part1
-[2020.01.20-05.32.28:517][ 46]LogLinker: Can't find file '/Game/Animations/Nova_push_part1_PhysicsAsset'
-[2020.01.20-05.32.28:517][ 46]LogLinker: Can't find file '/Game/Animations/Nova_push_part1_PhysicsAsset'
-[2020.01.20-05.32.28:570][ 46]LogFbx: =================================================
-[2020.01.20-05.32.28:570][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.28:570][ 46]LogFbx: 	Total Deformer Count -842031456.
-[2020.01.20-05.32.28:570][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.28:570][ 46]LogFbx: =================================================
-[2020.01.20-05.32.28:570][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.28:570][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.28:570][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.28:571][ 46]LogFbx: =================================================
-[2020.01.20-05.32.28:571][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.28:571][ 46]LogFbx: 	Total Deformer Count -842031456.
-[2020.01.20-05.32.28:571][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.28:571][ 46]LogFbx: =================================================
-[2020.01.20-05.32.28:571][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.28:571][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.28:571][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
-[2020.01.20-05.32.28:573][ 46]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
-[2020.01.20-05.32.28:574][ 46]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
-[2020.01.20-05.32.28:574][ 46]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
-[2020.01.20-05.32.28:574][ 46]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
-[2020.01.20-05.32.28:576][ 46]LogFbx: Parsing AnimStack Take 001
-[2020.01.20-05.32.28:577][ 46]LogLinker: Can't find file '/Game/Animations/Nova_push_part1_Anim'
-[2020.01.20-05.32.28:577][ 46]LogLinker: Can't find file '/Game/Animations/Nova_push_part1_Anim'
-[2020.01.20-05.32.28:796][ 46]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_push_part1_Anim.Nova_push_part1_Anim
-[2020.01.20-05.32.28:796][ 46]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_push_part1_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2020.01.20-05.32.28:804][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part1...
-[2020.01.20-05.32.28:868][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Animations/Nova_push_part1.Nova_push_part1
-[2020.01.20-05.32.28:919][ 46]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2020.01.20-05.32.28:943][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part1...
-[2020.01.20-05.32.29:009][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/Animations/Nova_push_part1.Nova_push_part1
-[2020.01.20-05.32.29:404][ 46]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_push_part2.fbx)
-[2020.01.20-05.32.29:459][ 46]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_push_part2.fbx
-[2020.01.20-05.32.30:069][ 46]LogFbx: FBX Scene Loaded Succesfully
-[2020.01.20-05.32.30:084][ 46]LogFbx: =================================================
-[2020.01.20-05.32.30:084][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.30:084][ 46]LogFbx: 	Total Deformer Count -842034432.
-[2020.01.20-05.32.30:084][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.30:084][ 46]LogFbx: =================================================
-[2020.01.20-05.32.30:084][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.30:084][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.30:084][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.30:084][ 46]LogFbx: =================================================
-[2020.01.20-05.32.30:084][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.30:084][ 46]LogFbx: 	Total Deformer Count -842034432.
-[2020.01.20-05.32.30:084][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.30:084][ 46]LogFbx: =================================================
-[2020.01.20-05.32.30:084][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.30:084][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.30:084][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.30:087][ 46]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
-[2020.01.20-05.32.30:105][ 46]LogFbx: Triangulating skeletal mesh Nova_final_character
-[2020.01.20-05.32.34:898][ 46]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
-[2020.01.20-05.32.35:920][ 46]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
-[2020.01.20-05.32.35:920][ 46]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
-[2020.01.20-05.32.35:921][ 46]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
-[2020.01.20-05.32.35:921][ 46]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
-[2020.01.20-05.32.35:922][ 46]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
-[2020.01.20-05.32.35:922][ 46]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
-[2020.01.20-05.32.35:925][ 46]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
-[2020.01.20-05.32.35:925][ 46]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
-[2020.01.20-05.32.35:925][ 46]LogSkeletalMesh: Section 2: Material=2, 384 triangles
-[2020.01.20-05.32.35:925][ 46]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
-[2020.01.20-05.32.35:925][ 46]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
-[2020.01.20-05.32.35:925][ 46]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
-[2020.01.20-05.32.35:961][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part2...
-[2020.01.20-05.32.36:030][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Animations/Nova_push_part2.Nova_push_part2
-[2020.01.20-05.32.36:055][ 46]LogLinker: Can't find file '/Game/Animations/Nova_push_part2_PhysicsAsset'
-[2020.01.20-05.32.36:055][ 46]LogLinker: Can't find file '/Game/Animations/Nova_push_part2_PhysicsAsset'
-[2020.01.20-05.32.36:097][ 46]LogFbx: =================================================
-[2020.01.20-05.32.36:097][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.36:097][ 46]LogFbx: 	Total Deformer Count -1501520224.
-[2020.01.20-05.32.36:097][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.36:097][ 46]LogFbx: =================================================
-[2020.01.20-05.32.36:097][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.36:097][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.36:097][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.36:098][ 46]LogFbx: =================================================
-[2020.01.20-05.32.36:098][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.36:098][ 46]LogFbx: 	Total Deformer Count -1501520224.
-[2020.01.20-05.32.36:098][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.36:098][ 46]LogFbx: =================================================
-[2020.01.20-05.32.36:098][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.36:098][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.36:098][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.36:100][ 46]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
-[2020.01.20-05.32.36:100][ 46]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
-[2020.01.20-05.32.36:100][ 46]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
-[2020.01.20-05.32.36:100][ 46]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
-[2020.01.20-05.32.36:100][ 46]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
-[2020.01.20-05.32.36:100][ 46]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
-[2020.01.20-05.32.36:101][ 46]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
-[2020.01.20-05.32.36:103][ 46]LogFbx: Parsing AnimStack Take 001
-[2020.01.20-05.32.36:104][ 46]LogLinker: Can't find file '/Game/Animations/Nova_push_part2_Anim'
-[2020.01.20-05.32.36:104][ 46]LogLinker: Can't find file '/Game/Animations/Nova_push_part2_Anim'
-[2020.01.20-05.32.36:370][ 46]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_push_part2_Anim.Nova_push_part2_Anim
-[2020.01.20-05.32.36:371][ 46]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_push_part2_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2020.01.20-05.32.36:513][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part2...
-[2020.01.20-05.32.36:585][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.21s] /Game/Animations/Nova_push_part2.Nova_push_part2
-[2020.01.20-05.32.36:650][ 46]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2020.01.20-05.32.36:652][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part2...
-[2020.01.20-05.32.36:730][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Animations/Nova_push_part2.Nova_push_part2
-[2020.01.20-05.32.41:732][ 46]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_push_part3.fbx)
-[2020.01.20-05.32.41:791][ 46]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_push_part3.fbx
-[2020.01.20-05.32.42:440][ 46]LogFbx: FBX Scene Loaded Succesfully
-[2020.01.20-05.32.42:464][ 46]LogFbx: =================================================
-[2020.01.20-05.32.42:464][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.42:464][ 46]LogFbx: 	Total Deformer Count -1501523104.
-[2020.01.20-05.32.42:464][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.42:464][ 46]LogFbx: =================================================
-[2020.01.20-05.32.42:464][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.42:464][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.42:464][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.42:465][ 46]LogFbx: =================================================
-[2020.01.20-05.32.42:465][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.42:465][ 46]LogFbx: 	Total Deformer Count -1501523104.
-[2020.01.20-05.32.42:465][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.42:465][ 46]LogFbx: =================================================
-[2020.01.20-05.32.42:465][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.42:465][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.42:465][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.42:467][ 46]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
-[2020.01.20-05.32.42:483][ 46]LogFbx: Triangulating skeletal mesh Nova_final_character
-[2020.01.20-05.32.47:315][ 46]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
-[2020.01.20-05.32.48:445][ 46]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
-[2020.01.20-05.32.48:445][ 46]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
-[2020.01.20-05.32.48:445][ 46]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
-[2020.01.20-05.32.48:446][ 46]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
-[2020.01.20-05.32.48:447][ 46]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
-[2020.01.20-05.32.48:447][ 46]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
-[2020.01.20-05.32.48:450][ 46]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
-[2020.01.20-05.32.48:451][ 46]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
-[2020.01.20-05.32.48:451][ 46]LogSkeletalMesh: Section 2: Material=2, 384 triangles
-[2020.01.20-05.32.48:451][ 46]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
-[2020.01.20-05.32.48:451][ 46]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
-[2020.01.20-05.32.48:451][ 46]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
-[2020.01.20-05.32.48:539][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part3...
-[2020.01.20-05.32.48:622][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/Animations/Nova_push_part3.Nova_push_part3
-[2020.01.20-05.32.48:653][ 46]LogLinker: Can't find file '/Game/Animations/Nova_push_part3_PhysicsAsset'
-[2020.01.20-05.32.48:654][ 46]LogLinker: Can't find file '/Game/Animations/Nova_push_part3_PhysicsAsset'
-[2020.01.20-05.32.48:733][ 46]LogFbx: =================================================
-[2020.01.20-05.32.48:733][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.48:733][ 46]LogFbx: 	Total Deformer Count 297950880.
-[2020.01.20-05.32.48:733][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.48:733][ 46]LogFbx: =================================================
-[2020.01.20-05.32.48:733][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.48:733][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.48:733][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.48:733][ 46]LogFbx: =================================================
-[2020.01.20-05.32.48:733][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.48:733][ 46]LogFbx: 	Total Deformer Count 297950880.
-[2020.01.20-05.32.48:734][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.48:734][ 46]LogFbx: =================================================
-[2020.01.20-05.32.48:734][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.48:734][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.48:734][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
-[2020.01.20-05.32.48:737][ 46]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
-[2020.01.20-05.32.48:738][ 46]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
-[2020.01.20-05.32.48:738][ 46]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
-[2020.01.20-05.32.48:738][ 46]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
-[2020.01.20-05.32.48:738][ 46]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
-[2020.01.20-05.32.48:738][ 46]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
-[2020.01.20-05.32.48:738][ 46]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
-[2020.01.20-05.32.48:738][ 46]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
-[2020.01.20-05.32.48:738][ 46]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
-[2020.01.20-05.32.48:748][ 46]LogFbx: Parsing AnimStack Take 001
-[2020.01.20-05.32.48:748][ 46]LogLinker: Can't find file '/Game/Animations/Nova_push_part3_Anim'
-[2020.01.20-05.32.48:749][ 46]LogLinker: Can't find file '/Game/Animations/Nova_push_part3_Anim'
-[2020.01.20-05.32.49:403][ 46]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_push_part3_Anim.Nova_push_part3_Anim
-[2020.01.20-05.32.49:404][ 46]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_push_part3_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2020.01.20-05.32.49:435][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part3...
-[2020.01.20-05.32.49:516][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Animations/Nova_push_part3.Nova_push_part3
-[2020.01.20-05.32.49:571][ 46]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2020.01.20-05.32.49:610][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_push_part3...
-[2020.01.20-05.32.49:680][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.11s] /Game/Animations/Nova_push_part3.Nova_push_part3
-[2020.01.20-05.32.49:905][ 46]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/Nova_telekinesis.fbx)
-[2020.01.20-05.32.49:963][ 46]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/Nova_telekinesis.fbx
-[2020.01.20-05.32.50:600][ 46]LogFbx: FBX Scene Loaded Succesfully
-[2020.01.20-05.32.50:638][ 46]LogFbx: =================================================
-[2020.01.20-05.32.50:638][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.50:638][ 46]LogFbx: 	Total Deformer Count 297947712.
-[2020.01.20-05.32.50:638][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.50:639][ 46]LogFbx: =================================================
-[2020.01.20-05.32.50:639][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.50:639][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.50:639][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.50:639][ 46]LogFbx: =================================================
-[2020.01.20-05.32.50:639][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.50:639][ 46]LogFbx: 	Total Deformer Count 297947712.
-[2020.01.20-05.32.50:639][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.50:639][ 46]LogFbx: =================================================
-[2020.01.20-05.32.50:639][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.50:639][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.50:639][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.50:641][ 46]LogFbx: Valid bind pose for Pose (skinCluster1) - Nova_final_character
-[2020.01.20-05.32.50:659][ 46]LogFbx: Triangulating skeletal mesh Nova_final_character
-[2020.01.20-05.32.55:267][ 46]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 9
-[2020.01.20-05.32.56:305][ 46]LogSkeletalMesh: Section 0: 7907 vertices, 19 active bones
-[2020.01.20-05.32.56:305][ 46]LogSkeletalMesh: Section 1: 714 vertices, 9 active bones
-[2020.01.20-05.32.56:305][ 46]LogSkeletalMesh: Section 2: 225 vertices, 6 active bones
-[2020.01.20-05.32.56:306][ 46]LogSkeletalMesh: Section 3: 4895 vertices, 6 active bones
-[2020.01.20-05.32.56:306][ 46]LogSkeletalMesh: Section 4: 2698 vertices, 3 active bones
-[2020.01.20-05.32.56:306][ 46]LogSkeletalMesh: Section 5: 596 vertices, 7 active bones
-[2020.01.20-05.32.56:314][ 46]LogSkeletalMesh: Section 0: Material=0, 15780 triangles
-[2020.01.20-05.32.56:314][ 46]LogSkeletalMesh: Section 1: Material=1, 1424 triangles
-[2020.01.20-05.32.56:314][ 46]LogSkeletalMesh: Section 2: Material=2, 384 triangles
-[2020.01.20-05.32.56:314][ 46]LogSkeletalMesh: Section 3: Material=3, 8220 triangles
-[2020.01.20-05.32.56:314][ 46]LogSkeletalMesh: Section 4: Material=4, 4992 triangles
-[2020.01.20-05.32.56:314][ 46]LogSkeletalMesh: Section 5: Material=5, 1188 triangles
-[2020.01.20-05.32.56:354][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_telekinesis...
-[2020.01.20-05.32.56:412][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Animations/Nova_telekinesis.Nova_telekinesis
-[2020.01.20-05.32.56:435][ 46]LogLinker: Can't find file '/Game/Animations/Nova_telekinesis_PhysicsAsset'
-[2020.01.20-05.32.56:435][ 46]LogLinker: Can't find file '/Game/Animations/Nova_telekinesis_PhysicsAsset'
-[2020.01.20-05.32.56:478][ 46]LogFbx: =================================================
-[2020.01.20-05.32.56:478][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.56:478][ 46]LogFbx: 	Total Deformer Count -918626656.
-[2020.01.20-05.32.56:478][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.56:478][ 46]LogFbx: =================================================
-[2020.01.20-05.32.56:478][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.56:478][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.56:478][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.56:479][ 46]LogFbx: =================================================
-[2020.01.20-05.32.56:479][ 46]LogFbx: Dumping Node START [Nova_final_character] 
-[2020.01.20-05.32.56:479][ 46]LogFbx: 	Total Deformer Count -918626656.
-[2020.01.20-05.32.56:479][ 46]LogFbx: 		[Node 1]  (Type Skin).
-[2020.01.20-05.32.56:479][ 46]LogFbx: =================================================
-[2020.01.20-05.32.56:479][ 46]LogFbx: 	Attribute () Type (4).
-[2020.01.20-05.32.56:479][ 46]LogFbx: 		[Node Attribute Child 1] Nova_final_character (Type Mesh).
-[2020.01.20-05.32.56:479][ 46]LogFbx: Dumping Node END [Nova_final_character]
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
-[2020.01.20-05.32.56:483][ 46]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
-[2020.01.20-05.32.56:484][ 46]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
-[2020.01.20-05.32.56:484][ 46]LogFbx: SortedLinks :(21) QuickRigCharacter_Head
-[2020.01.20-05.32.56:499][ 46]LogFbx: Parsing AnimStack Take 001
-[2020.01.20-05.32.56:499][ 46]LogLinker: Can't find file '/Game/Animations/Nova_telekinesis_Anim'
-[2020.01.20-05.32.56:500][ 46]LogLinker: Can't find file '/Game/Animations/Nova_telekinesis_Anim'
-[2020.01.20-05.32.57:611][ 46]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Nova_telekinesis_Anim.Nova_telekinesis_Anim
-[2020.01.20-05.32.57:612][ 46]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nova_telekinesis_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2020.01.20-05.32.57:706][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_telekinesis...
-[2020.01.20-05.32.57:773][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Animations/Nova_telekinesis.Nova_telekinesis
-[2020.01.20-05.32.57:826][ 46]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2020.01.20-05.32.57:828][ 46]LogSkeletalMesh: Building Skeletal Mesh Nova_telekinesis...
-[2020.01.20-05.32.57:896][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Animations/Nova_telekinesis.Nova_telekinesis
-[2020.01.20-05.32.58:157][ 47]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
-[2020.01.20-05.33.02:235][131]LogSlate: Window 'Message Log' being destroyed
-[2020.01.20-05.33.02:243][131]LogSlate: Window 'Message Log' being destroyed
-[2020.01.20-05.33.16:438][320]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animations/Nova_walk_animation_Anim.Nova_walk_animation_Anim
-[2020.01.20-05.33.16:666][320]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
-[2020.01.20-05.33.17:723][320]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
-[2020.01.20-05.33.17:815][320]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
-[2020.01.20-05.33.18:548][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
-[2020.01.20-05.33.20:799][320]LogRenderer: Reallocating scene render targets to support 808x392 Format 10 NumSamples 1 (Frame:1).
-[2020.01.20-05.33.20:800][320]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
-[2020.01.20-05.33.41:616][948]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (43.459 sec). This should never happen. Something is wrong with the timer delegate!
-[2020.01.20-05.34.12:646][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
-[2020.01.20-05.34.15:298][976]LogSlate: Window 'Save Content' being destroyed
-[2020.01.20-05.34.15:516][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_death_animationE13E94944D656DE4B8294DAAFE61691A.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_death_animation.uasset'
-[2020.01.20-05.34.15:597][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_death_animation_Anim8E91ED6D40E2BD8C548A14A7C554AB9F.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_death_animation_Anim.uasset'
-[2020.01.20-05.34.15:888][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_death_animation_PhysicsAsseA625F00A40D9E932CD6159AEF0E52180.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_death_animation_PhysicsAsset.uasset'
-[2020.01.20-05.34.16:162][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part1CB507E74496E44A5272E7F9562493D9A.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part1.uasset'
-[2020.01.20-05.34.16:268][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part1_AnimD071514040BF6A60DF4B83BC9A792B52.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part1_Anim.uasset'
-[2020.01.20-05.34.16:579][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part1_PhysicsAsset9D5204A348F251B584FB9493BE138FA1.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part1_PhysicsAsset.uasset'
-[2020.01.20-05.34.17:009][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part2E0577B19419F3684B5CDEC98A93E1C01.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part2.uasset'
-[2020.01.20-05.34.17:164][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part2_Anim884272D344AE687FC715208EB7A4252C.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part2_Anim.uasset'
-[2020.01.20-05.34.17:314][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part2_PhysicsAssetACB68DC94643EFEC35FD2BA090880221.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part2_PhysicsAsset.uasset'
-[2020.01.20-05.34.17:548][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part399104E4B40E8A6CCA57E5FA6D3329905.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part3.uasset'
-[2020.01.20-05.34.17:642][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part3_AnimCDB2D14149C3E002BBBBE7953CDAD074.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part3_Anim.uasset'
-[2020.01.20-05.34.17:731][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_push_part3_PhysicsAsset1EE07AFC44662069813F3D974EF60B46.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_push_part3_PhysicsAsset.uasset'
-[2020.01.20-05.34.18:502][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_telekinesis270148984135F119AC99998C7EB8CCB2.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_telekinesis.uasset'
-[2020.01.20-05.34.18:605][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_telekinesis_AnimE56F4D07426C2C02E543F3A0C138F821.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_telekinesis_Anim.uasset'
-[2020.01.20-05.34.18:845][976]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_telekinesis_PhysicsAsset4E03A4B944210EFB682F27B687A26DD2.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_telekinesis_PhysicsAsset.uasset'
-[2020.01.20-05.39.05:911][ 75]LogSlate: Window 'Message' being destroyed
-[2020.01.20-05.39.05:928][ 75]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Shaquille Georges/Documents/Novas Journey Sound Files_SG/Footsteps.wav)
-[2020.01.20-05.39.05:942][ 75]LogAudioEditor: Stopping Sound Resources of Existing Sound
-[2020.01.20-05.39.18:829][ 75]LogSlate: Window 'Message' being destroyed
-[2020.01.20-05.39.18:952][ 75]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Force_Push...
-[2020.01.20-05.39.19:049][ 75]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 82944 while cooking SoundWave /Game/Audio_SG/Force_Push.Force_Push.
-[2020.01.20-05.39.19:061][ 75]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Shaquille Georges/Documents/Novas Journey Sound Files_SG/Force_Push.wav)
-[2020.01.20-05.39.19:062][ 75]LogAudioEditor: Stopping Sound Resources of Existing Sound
-[2020.01.20-05.39.19:367][ 75]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Shaquille Georges/Documents/Novas Journey Sound Files_SG/forcefield.wav)
-[2020.01.20-05.39.19:376][ 75]LogAudioEditor: Stopping Sound Resources of Existing Sound
-[2020.01.20-05.39.20:145][ 75]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Shaquille Georges/Documents/Novas Journey Sound Files_SG/star_gazing.wav)
-[2020.01.20-05.39.20:188][ 75]LogAudioEditor: Stopping Sound Resources of Existing Sound
-[2020.01.20-05.39.20:574][ 75]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Shaquille Georges/Documents/Novas Journey Sound Files_SG/weapon_gun_shoot.wav)
-[2020.01.20-05.39.20:593][ 75]LogAudioEditor: Stopping Sound Resources of Existing Sound
-[2020.01.20-05.39.24:216][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
-[2020.01.20-05.39.24:216][150]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Levels/Maps/NovaTechConcept' took 0.048
-[2020.01.20-05.39.24:230][150]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio_SG/Footsteps] ([1] browsable assets)...
-[2020.01.20-05.39.24:240][150]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio_SG/Footsteps.Footsteps]
-[2020.01.20-05.39.24:240][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio_SG/Footsteps]
-[2020.01.20-05.39.24:764][150]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Footsteps_Auto14932BF83450088F91E28F4BBD2DC30F6.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Audio_SG/Footsteps_Auto1.uasset'
-[2020.01.20-05.39.24:767][150]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio_SG/Force_Push] ([1] browsable assets)...
-[2020.01.20-05.39.24:779][150]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio_SG/Force_Push.Force_Push]
-[2020.01.20-05.39.24:779][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio_SG/Force_Push]
-[2020.01.20-05.39.24:853][150]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Force_Push_Auto151469B25494C487D778603ABF41FAB1E.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Audio_SG/Force_Push_Auto1.uasset'
-[2020.01.20-05.39.24:855][150]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio_SG/forcefield] ([1] browsable assets)...
-[2020.01.20-05.39.24:878][150]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio_SG/forcefield.forcefield]
-[2020.01.20-05.39.24:878][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio_SG/forcefield]
-[2020.01.20-05.39.25:186][150]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/forcefield_Auto1879363DE4CB23A6E3CB65E9E37A2DCE7.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Audio_SG/forcefield_Auto1.uasset'
-[2020.01.20-05.39.25:188][150]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio_SG/star_gazing] ([1] browsable assets)...
-[2020.01.20-05.39.25:290][150]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio_SG/star_gazing.star_gazing]
-[2020.01.20-05.39.25:290][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio_SG/star_gazing]
-[2020.01.20-05.39.28:495][150]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/star_gazing_Auto10E7313E0484D072513F5D2A0C254CF29.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Audio_SG/star_gazing_Auto1.uasset'
-[2020.01.20-05.39.28:514][150]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio_SG/weapon_gun_shoot] ([1] browsable assets)...
-[2020.01.20-05.39.28:531][150]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio_SG/weapon_gun_shoot.weapon_gun_shoot]
-[2020.01.20-05.39.28:531][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio_SG/weapon_gun_shoot]
-[2020.01.20-05.39.28:612][150]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/weapon_gun_shoot_Auto19AA928514B5A4BDBC70F7FB29E44C35C.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Audio_SG/weapon_gun_shoot_Auto1.uasset'
-[2020.01.20-05.39.28:614][150]LogFileHelpers: Auto-saving content packages took 4.396
-[2020.01.20-05.39.35:882][323]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio_SG/Footsteps.Footsteps
-[2020.01.20-05.39.42:905][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio_SG/Footsteps" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/Footsteps.uasset" SILENT=true
-[2020.01.20-05.39.42:951][711]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Footsteps6AD154914DC13976B41A46BC297D0A18.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/Footsteps.uasset'
-[2020.01.20-05.39.45:515][808]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave forcefield...
-[2020.01.20-05.39.47:196][808]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 10842624 while cooking SoundWave /Game/Audio_SG/forcefield.forcefield.
-[2020.01.20-05.39.47:403][809]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio_SG/forcefield.forcefield
-[2020.01.20-05.39.52:677][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio_SG/forcefield" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/forcefield.uasset" SILENT=true
-[2020.01.20-05.39.52:749][111]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/forcefield39004F894937903682C15ABEDEEB5789.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/forcefield.uasset'
-[2020.01.20-05.39.55:329][213]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio_SG/Force_Push.Force_Push
-[2020.01.20-05.39.59:610][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio_SG/Force_Push" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/Force_Push.uasset" SILENT=true
-[2020.01.20-05.39.59:644][457]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Force_Push7FF0A9924150674D5F81BE88D3CEF7C3.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/Force_Push.uasset'
-[2020.01.20-05.40.06:301][712]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio_SG/weapon_gun_shoot.weapon_gun_shoot
-[2020.01.20-05.40.10:910][974]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/weapon_gun_shoot2910E7274E87AD6D96CCDE9F74B8181F.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/weapon_gun_shoot.uasset'
-[2020.01.20-05.40.13:647][ 87]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio_SG/star_gazing.star_gazing
-[2020.01.20-05.40.18:541][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio_SG/star_gazing" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/star_gazing.uasset" SILENT=true
-[2020.01.20-05.40.19:083][360]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/star_gazingF1F9975C408EED7A4B5723BFB74E9070.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Audio_SG/star_gazing.uasset'
-[2020.01.20-05.40.32:606][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.01.20-21.22.18:506][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.20-21.22.18:506][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.20-21.22.18:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.20-21.22.18:506][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.20-21.22.18:506][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.01.20-21.22.18:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.20-21.22.18:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.20-21.22.18:506][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.20-21.22.18:506][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.20-21.22.18:506][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.20-21.22.18:506][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.20-21.22.18:506][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.20-21.22.18:507][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.20-21.22.18:508][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.20-21.22.18:508][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.20-21.22.18:508][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.20-21.22.18:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.20-21.22.18:508][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.20-21.22.18:515][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:515][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.20-21.22.18:515][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.20-21.22.18:515][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:515][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.20-21.22.18:515][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:515][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.20-21.22.18:515][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.20-21.22.18:515][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.20-21.22.18:515][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.20-21.22.18:515][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.20-21.22.18:516][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.20-21.22.18:516][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.20-21.22.18:516][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.20-21.22.18:516][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.20-21.22.18:516][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.20-21.22.18:516][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.20-21.22.18:516][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.20-21.22.18:516][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.20-21.22.18:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.20-21.22.18:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.20-21.22.18:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.20-21.22.18:516][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.20-21.22.18:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.20-21.22.18:518][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.20-21.22.18:519][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.20-21.22.18:520][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.20-21.22.18:520][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.20-21.22.18:645][  0]LogHAL: Display: Platform has ~ 8 GB [8453226496 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.20-21.22.18:645][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.20-21.22.18:645][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.20-21.22.18:645][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:645][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.20-21.22.18:645][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.20-21.22.18:645][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:645][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.20-21.22.18:645][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.20-21.22.18:646][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.20-21.22.18:647][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.20-21.22.18:647][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.20-21.22.18:647][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.20-21.22.18:647][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.20-21.22.18:647][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:647][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.20-21.22.18:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.20-21.22.18:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.20-21.22.18:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.20-21.22.18:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.20-21.22.18:648][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.20-21.22.18:648][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.20-21.22.18:648][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.20-21.22.18:648][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.20-21.22.18:648][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.20-21.22.18:648][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.20-21.22.18:648][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.20-21.22.18:648][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.20-21.22.18:648][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.20-21.22.18:648][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.20-21.22.18:649][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.20-21.22.18:649][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.20-21.22.18:649][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.20-21.22.18:649][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.20-21.22.18:649][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.20-21.22.18:649][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.20-21.22.18:649][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.20-21.22.18:649][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.20-21.22.18:649][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.20-21.22.18:650][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.20-21.22.18:650][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.20-21.22.18:650][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.20-21.22.18:650][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.20-21.22.18:650][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.20-21.22.18:650][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.20-21.22.18:650][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:650][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.20-21.22.18:650][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.20-21.22.18:651][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.20-21.22.18:652][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.20-21.22.18:652][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-21.22.18:652][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.20-21.22.18:652][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.20-21.22.18:652][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.20-21.22.18:652][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.20-21.22.18:652][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.20-21.22.18:652][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.20-21.22.18:653][  0]LogInit: Computer: DESKTOP-556067R
+[2020.01.20-21.22.18:653][  0]LogInit: User: ShaquilleGeorges
+[2020.01.20-21.22.18:653][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.01.20-21.22.18:653][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.20-21.22.18:653][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.01.20-21.22.18:653][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.20-21.22.18:653][  0]LogMemory: Process Physical Memory: 97.06 MB used, 97.07 MB peak
+[2020.01.20-21.22.18:653][  0]LogMemory: Process Virtual Memory: 91.69 MB used, 91.69 MB peak
+[2020.01.20-21.22.18:654][  0]LogMemory: Physical Memory: 3446.36 MB used,  4615.26 MB free, 8061.63 MB total
+[2020.01.20-21.22.18:654][  0]LogMemory: Virtual Memory: 4628.96 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.01.20-21.22.18:686][  0]LogInit: Using OS detected language (en-US).
+[2020.01.20-21.22.18:686][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.20-21.22.18:687][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.20-21.22.18:957][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.20-21.22.19:007][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.20-21.22.19:007][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.20-21.22.19:304][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.20-21.22.19:304][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.20-21.22.19:444][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.01.20-21.22.19:444][  0]LogD3D11RHI:       128/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.01.20-21.22.19:447][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.20-21.22.19:447][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.20-21.22.19:447][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.20-21.22.19:457][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.20-21.22.19:457][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.20-21.22.19:457][  0]LogWindows: EnumDisplayDevices:
+[2020.01.20-21.22.19:457][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.01.20-21.22.19:458][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.01.20-21.22.19:458][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.01.20-21.22.19:458][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.01.20-21.22.19:458][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2020.01.20-21.22.19:458][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2020.01.20-21.22.19:458][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2020.01.20-21.22.19:458][  0]LogRHI: Texture pool is 1500 MB (70% of 2143 MB)
+[2020.01.20-21.22.19:591][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.20-21.22.19:597][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.20-21.22.19:597][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.20-21.22.19:597][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.20-21.22.19:600][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.01.20-21.22.20:113][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.20-21.22.20:131][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.20-21.22.20:151][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.20-21.22.20:169][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.20-21.22.20:188][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.20-21.22.20:206][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.20-21.22.20:225][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.20-21.22.20:244][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.20-21.22.20:252][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.20-21.22.20:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.20-21.22.20:373][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.20-21.22.20:432][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.20-21.22.20:432][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.20-21.22.20:466][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.20-21.22.20:466][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.20-21.22.20:483][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.20-21.22.20:501][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.20-21.22.20:518][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.20-21.22.20:537][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.20-21.22.20:599][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.20-21.22.20:599][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.20-21.22.20:599][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.20-21.22.20:609][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.20-21.22.20:667][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Intermediate/Shaders/WorkingDirectory/17312/).
+[2020.01.20-21.22.20:667][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Shaquille Georges/AppData/Local/Temp/UnrealShaderWorkingDir/E88E2AC2492A0AFC3A5887B0E43EE902/'.
+[2020.01.20-21.22.20:670][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.20-21.22.20:670][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.20-21.22.20:670][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.20-21.22.21:443][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.20-21.22.21:517][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Shaquille Georges/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.20-21.22.21:517][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Shaquille Georges/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.20-21.22.21:518][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.20-21.22.21:518][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.20-21.22.21:518][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.20-21.22.21:518][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.20-21.22.21:535][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.20-21.22.21:535][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.20-21.22.21:535][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.20-21.22.21:547][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Shaquille Georges/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.20-21.22.21:547][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.20-21.22.21:547][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.20-21.22.21:579][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.20-21.22.21:581][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.20-21.22.21:582][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.20-21.22.21:686][  0]LogAssetRegistry: FAssetRegistry took 0.0379 seconds to start up
+[2020.01.20-21.22.22:186][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.20-21.22.22:387][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.20-21.22.22:388][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.20-21.22.22:388][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.20-21.22.22:388][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.20-21.22.22:388][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.20-21.22.22:402][  0]LogNetVersion: NovasJourney 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 477171736)
+[2020.01.20-21.22.23:382][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.359055 seconds
+[2020.01.20-21.22.23:402][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.20-21.22.23:402][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.20-21.22.23:402][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.20-21.22.24:577][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.20-21.22.24:592][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.20-21.22.25:100][  0]SourceControl: Source control is disabled
+[2020.01.20-21.22.25:100][  0]SourceControl: Source control is disabled
+[2020.01.20-21.22.25:102][  0]SourceControl: Source control is disabled
+[2020.01.20-21.22.25:103][  0]SourceControl: Source control is disabled
+[2020.01.20-21.22.25:311][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.20-21.22.25:434][  0]LogOcInput: OculusInput pre-init called
+[2020.01.20-21.22.26:334][  0]LogEngine: Initializing Engine...
+[2020.01.20-21.22.26:335][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.20-21.22.26:336][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.20-21.22.26:624][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.20-21.22.26:644][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.20-21.22.26:658][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-21.22.27:872][  0]LogInit: FAudioDevice initialized.
+[2020.01.20-21.22.27:873][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.20-21.22.28:202][  0]LogDerivedDataCache: Saved boot cache 0.33s 71MB C:/Users/Shaquille Georges/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.20-21.22.28:224][  0]LogInit: Texture streaming: Enabled
+[2020.01.20-21.22.28:256][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.20-21.22.28:296][  0]LogInit: Transaction tracking system initialized
+[2020.01.20-21.22.28:352][  0]BlueprintLog: New page: Editor Load
+[2020.01.20-21.22.28:476][  0]LocalizationService: Localization service is disabled
+[2020.01.20-21.22.28:992][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/' took 0.05s
+[2020.01.20-21.22.28:992][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.20-21.22.28:992][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.20-21.22.29:211][  0]SourceControl: Source control is disabled
+[2020.01.20-21.22.29:211][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/NovaTechConcept.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.20-21.22.29:471][  0]LightingResults: New page: Lighting Build
+[2020.01.20-21.22.29:474][  0]MapCheck: New page: Map Check
+[2020.01.20-21.22.29:474][  0]LightingResults: New page: Lighting Build
+[2020.01.20-21.22.29:506][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.01.20-21.22.38:166][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
+[2020.01.20-21.22.38:167][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
+[2020.01.20-21.22.38:171][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
+[2020.01.20-21.22.38:171][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
+[2020.01.20-21.22.38:198][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
+[2020.01.20-21.22.38:198][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
+[2020.01.20-21.22.38:199][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
+[2020.01.20-21.22.38:199][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
+[2020.01.20-21.22.38:254][  0]LogLinker: Warning: Can't find file '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData'
+[2020.01.20-21.22.38:254][  0]LoadErrors: Failed to load /Game/Content/Levels/Maps/NovaTechConcept_BuiltData.NovaTechConcept_BuiltData Referenced by PersistentLevel
+[2020.01.20-21.22.38:255][  0]LogLinker: Warning: Can't find file for asset '/Game/Content/Levels/Maps/NovaTechConcept_BuiltData' while loading NULL.
+[2020.01.20-21.22.43:348][  0]LogAIModule: Creating AISystem for world NovaTechConcept
+[2020.01.20-21.22.43:770][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.20-21.22.43:839][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.01.20-21.22.43:840][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.20-21.22.43:840][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.205ms to complete.
+[2020.01.20-21.22.43:840][  0]LogFileHelpers: Loading map 'NovaTechConcept' took 14.629
+[2020.01.20-21.22.44:262][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-21.22.44:273][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-21.22.44:284][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-21.22.44:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-21.22.44:301][  0]LogCollectionManager: Loaded 0 collections in 0.001332 seconds
+[2020.01.20-21.22.44:318][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Collections/' took 0.01s
+[2020.01.20-21.22.44:319][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Developers/ShaquilleGeorges/Collections/' took 0.00s
+[2020.01.20-21.22.44:319][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Collections/' took 0.00s
+[2020.01.20-21.22.44:319][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.01.20-21.22.44:331][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2735 classes and 661 folders.
+[2020.01.20-21.22.44:339][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.01.20-21.22.44:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.44:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.44:516][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.44:546][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.44:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.44:610][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.44:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.44:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.44:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.44:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.44:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:133][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:155][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:186][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:376][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:420][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:601][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.45:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.20-21.22.46:802][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.01.20-21.22.46:814][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2020.01.20-21.22.46:987][  0]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.20-21.22.46:992][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.20-21.22.47:068][  0]LogSlate: Took 0.065992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.20-21.22.47:320][  0]LogRenderer: Reallocating scene render targets to support 712x392 Format 10 NumSamples 1 (Frame:1).
+[2020.01.20-21.22.47:602][  0]LogSlate: Took 0.077322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.20-21.22.47:692][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.20-21.22.47:692][  0]LogLoad: (Engine Initialization) Total time: 33.37 seconds
+[2020.01.20-21.22.47:692][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.20-21.22.48:036][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.20-21.22.48:040][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.20-21.22.48:369][  1]LogAssetRegistry: Asset discovery search completed in 26.7053 seconds
+[2020.01.20-21.22.48:374][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.20-21.22.48:374][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
+[2020.01.20-21.22.53:674][141]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-21.22.53:683][141]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-21.22.59:187][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-21.23.22:858][573]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.20-21.23.22:873][573]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animations/Enemy_Anim/Final_Idle_holding_Gun_Anim.Final_Idle_holding_Gun_Anim
+[2020.01.20-21.23.23:067][573]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2020.01.20-21.23.23:517][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-21.23.23:520][573]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2020.01.20-21.23.23:631][573]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-21.23.24:383][573]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-21.23.36:892][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-21.23.37:006][800]LogSlate: Window 'Final_Idle_holding_Gun_Anim' being destroyed
+[2020.01.20-21.23.37:042][800]LogSlate: Window 'Final_Idle_holding_Gun_Anim' being destroyed
+[2020.01.20-21.24.22:282][985]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/AI_Idle_animation.fbx)
+[2020.01.20-21.24.23:320][985]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/AI_Idle_animation.fbx
+[2020.01.20-21.24.23:888][985]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-21.24.40:712][985]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.20-21.24.40:967][985]LogFbx: =================================================
+[2020.01.20-21.24.40:967][985]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.24.40:967][985]LogFbx: 	Total Deformer Count 197433280.
+[2020.01.20-21.24.40:967][985]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.24.40:967][985]LogFbx: =================================================
+[2020.01.20-21.24.40:967][985]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.24.40:967][985]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.24.40:967][985]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.24.40:967][985]LogFbx: =================================================
+[2020.01.20-21.24.40:967][985]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.24.40:967][985]LogFbx: 	Total Deformer Count 197433280.
+[2020.01.20-21.24.40:967][985]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.24.40:967][985]LogFbx: =================================================
+[2020.01.20-21.24.40:967][985]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.24.40:967][985]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.24.40:967][985]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.24.40:971][985]LogFbx: Valid bind pose for Pose (skinCluster1) - Enemy_Character_Combined
+[2020.01.20-21.24.41:214][985]LogMaterial: Warning: Material /Game/Animations/Enemy_Anim/lambert3.lambert3 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.20-21.24.41:218][985]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.01.20-21.24.41:382][985]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.20-21.24.41:382][985]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.20-21.24.41:382][985]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.20-21.24.41:387][985]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.01.20-21.24.41:455][985]LogMaterial: Warning: Material /Game/Animations/Enemy_Anim/defaultPolygonShader2.defaultPolygonShader2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.20-21.24.41:657][985]LogMaterial: Display: Missing cached shader map for material defaultPolygonShader2, compiling. 
+[2020.01.20-21.24.41:736][985]LogMaterial: Display: Missing cached shader map for material defaultPolygonShader2, compiling. 
+[2020.01.20-21.24.41:795][985]LogFbx: Triangulating skeletal mesh Enemy_Character_Combined
+[2020.01.20-21.24.42:674][985]LogFbx: Warning: Bones digested - 23  Depth of hierarchy - 9
+[2020.01.20-21.24.43:156][985]LogSkeletalMesh: Section 0: 2610 vertices, 7 active bones
+[2020.01.20-21.24.43:157][985]LogSkeletalMesh: Section 1: 2516 vertices, 21 active bones
+[2020.01.20-21.24.43:158][985]LogSkeletalMesh: Section 0: Material=0, 5160 triangles
+[2020.01.20-21.24.43:158][985]LogSkeletalMesh: Section 1: Material=1, 3025 triangles
+[2020.01.20-21.24.43:207][985]LogSkeletalMesh: Building Skeletal Mesh AI_Idle_animation...
+[2020.01.20-21.24.43:228][985]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Animations/Enemy_Anim/AI_Idle_animation.AI_Idle_animation
+[2020.01.20-21.24.43:232][985]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_Idle_animation_Skeleton'
+[2020.01.20-21.24.43:232][985]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_Idle_animation_Skeleton'
+[2020.01.20-21.24.43:236][985]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_Idle_animation_PhysicsAsset'
+[2020.01.20-21.24.43:237][985]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_Idle_animation_PhysicsAsset'
+[2020.01.20-21.24.43:360][985]LogFbx: =================================================
+[2020.01.20-21.24.43:360][985]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.24.43:360][985]LogFbx: 	Total Deformer Count -1773074768.
+[2020.01.20-21.24.43:360][985]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.24.43:360][985]LogFbx: =================================================
+[2020.01.20-21.24.43:360][985]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.24.43:360][985]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.24.43:360][985]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.24.43:361][985]LogFbx: =================================================
+[2020.01.20-21.24.43:361][985]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.24.43:361][985]LogFbx: 	Total Deformer Count -1773074768.
+[2020.01.20-21.24.43:361][985]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.24.43:361][985]LogFbx: =================================================
+[2020.01.20-21.24.43:361][985]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.24.43:362][985]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.24.43:362][985]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(21) QuickRigCharacter_Neck1
+[2020.01.20-21.24.43:371][985]LogFbx: SortedLinks :(22) QuickRigCharacter_Head
+[2020.01.20-21.24.43:405][985]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-21.24.43:406][985]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_Idle_animation_Anim'
+[2020.01.20-21.24.43:406][985]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_Idle_animation_Anim'
+[2020.01.20-21.24.45:328][985]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Enemy_Anim/AI_Idle_animation_Anim.AI_Idle_animation_Anim
+[2020.01.20-21.24.45:340][985]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AI_Idle_animation_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-21.24.45:359][985]LogSkeletalMesh: Building Skeletal Mesh AI_Idle_animation...
+[2020.01.20-21.24.45:381][985]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Animations/Enemy_Anim/AI_Idle_animation.AI_Idle_animation
+[2020.01.20-21.24.45:448][985]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-21.24.45:577][985]LogSkeletalMesh: Building Skeletal Mesh AI_Idle_animation...
+[2020.01.20-21.24.45:598][985]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/Animations/Enemy_Anim/AI_Idle_animation.AI_Idle_animation
+[2020.01.20-21.24.48:791][ 78]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-21.24.48:804][ 78]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-21.25.03:394][257]LogShaderCompilers: Display: Shaders left to compile 120
+[2020.01.20-21.25.07:870][293]LogShaderCompilers: Display: Shaders left to compile 110
+[2020.01.20-21.25.14:167][346]LogMetaData: Removing '/Game/Animations/Enemy_Anim/Enemy_Skeleton.Enemy_Skeleton' ref from Metadata '/Game/Animations/Enemy_Anim/AI_Idle_animation.PackageMetaData'
+[2020.01.20-21.25.14:381][346]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Enemy_SkeletonC21F133F402A386E69DE4E8BB0B5B3DE.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/Enemy_Skeleton.uasset'
+[2020.01.20-21.25.14:659][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.01.20-21.25.14:713][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.01.20-21.25.14:755][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.01.20-21.25.25:987][499]LogShaderCompilers: Display: Shaders left to compile 100
+[2020.01.20-21.25.35:624][620]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.01.20-21.25.46:914][475]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.01.20-21.25.47:214][497]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.01.20-21.25.58:997][ 45]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.20-21.26.00:104][ 54]Cmd: TRANSACTION UNDO
+[2020.01.20-21.26.00:104][ 54]LogEditorTransaction: Undo Edit Skeleton
+[2020.01.20-21.26.09:019][183]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.20-21.26.17:994][260]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.20-21.26.23:024][466]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.20-21.26.33:615][206]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.20-21.26.36:635][419]LogEditorFactories: Performing atomic reimport of [C:/Users/Shaquille Georges/Desktop/AI_Idle_animation.fbx]
+[2020.01.20-21.26.36:687][419]LogFbx: Loading FBX Scene from C:/Users/Shaquille Georges/Desktop/AI_Idle_animation.fbx
+[2020.01.20-21.26.36:875][419]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.20-21.26.36:875][419]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-21.26.36:943][419]LogFbx: =================================================
+[2020.01.20-21.26.36:944][419]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.26.36:944][419]LogFbx: 	Total Deformer Count -2005522336.
+[2020.01.20-21.26.36:944][419]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.26.36:944][419]LogFbx: =================================================
+[2020.01.20-21.26.36:944][419]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.26.36:944][419]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.26.36:944][419]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.26.36:945][419]LogFbx: =================================================
+[2020.01.20-21.26.36:945][419]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.26.36:945][419]LogFbx: 	Total Deformer Count -2005522336.
+[2020.01.20-21.26.36:945][419]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.26.36:945][419]LogFbx: =================================================
+[2020.01.20-21.26.36:945][419]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.26.36:945][419]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.26.36:945][419]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.26.36:949][419]LogFbx: Valid bind pose for Pose (skinCluster1) - Enemy_Character_Combined
+[2020.01.20-21.26.36:950][419]LogFbx: Triangulating skeletal mesh Enemy_Character_Combined
+[2020.01.20-21.26.37:782][419]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/Animations/defaultPolygonShader2.defaultPolygonShader2 or Material /Game/Animations/Enemy_Anim/defaultPolygonShader2.defaultPolygonShader2
+[2020.01.20-21.26.37:782][419]LogFbx: Warning: Bones digested - 23  Depth of hierarchy - 9
+[2020.01.20-21.26.38:247][419]LogSkeletalMesh: Section 0: 2610 vertices, 7 active bones
+[2020.01.20-21.26.38:248][419]LogSkeletalMesh: Section 1: 2516 vertices, 21 active bones
+[2020.01.20-21.26.38:254][419]LogSkeletalMesh: Section 0: Material=0, 5160 triangles
+[2020.01.20-21.26.38:254][419]LogSkeletalMesh: Section 1: Material=1, 3025 triangles
+[2020.01.20-21.26.38:282][419]LogSkeletalMesh: Building Skeletal Mesh Enemy_Skeleton...
+[2020.01.20-21.26.38:306][419]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Animations/Enemy_Anim/Enemy_Skeleton.Enemy_Skeleton
+[2020.01.20-21.26.38:316][419]LogEditorFactories: -- imported successfully
+[2020.01.20-21.26.38:340][419]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-21.26.38:381][419]LogSkeletalMesh: Building Skeletal Mesh Enemy_Skeleton...
+[2020.01.20-21.26.38:404][419]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Animations/Enemy_Anim/Enemy_Skeleton.Enemy_Skeleton
+[2020.01.20-21.26.53:853][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.01.20-21.26.58:340][690]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.20-21.26.58:348][690]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Animations/Enemy_Anim/AI_Idle_animation_Anim.AI_Idle_animation_Anim
+	Asset Name: /Game/Animations/Enemy_Anim/AI_Idle_animation_PhysicsAsset.AI_Idle_animation_PhysicsAsset
+	Asset Name: /Game/Animations/Enemy_Anim/AI_Idle_animation_Skeleton.AI_Idle_animation_Skeleton
+	Asset Name: /Game/Animations/Enemy_Anim/defaultPolygonShader2.defaultPolygonShader2
+	Asset Name: /Game/Animations/Enemy_Anim/Enemy_Skeleton.Enemy_Skeleton
+[2020.01.20-21.27.01:487][690]LogSkeletalMesh: Building Skeletal Mesh Enemy_Skeleton...
+[2020.01.20-21.27.01:501][690]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Animations/Enemy_Anim/Enemy_Skeleton.Enemy_Skeleton
+[2020.01.20-21.27.01:522][690]LogSkeletalMesh: Building Skeletal Mesh Enemy_Skeleton...
+[2020.01.20-21.27.01:534][690]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Animations/Enemy_Anim/Enemy_Skeleton.Enemy_Skeleton
+[2020.01.20-21.27.01:577][690]LogSkeletalMesh: Building Skeletal Mesh Enemy_Skeleton...
+[2020.01.20-21.27.01:589][690]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Enemy_Anim/Enemy_Skeleton.Enemy_Skeleton
+[2020.01.20-21.27.02:590][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.01.20-21.27.02:628][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.20-21.27.02:659][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.01.20-21.27.09:642][716]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/AI_Idle_animation.fbx)
+[2020.01.20-21.27.09:673][716]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/AI_Idle_animation.fbx
+[2020.01.20-21.27.09:799][716]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-21.27.17:028][716]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.20-21.27.17:140][716]LogFbx: =================================================
+[2020.01.20-21.27.17:140][716]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.27.17:140][716]LogFbx: 	Total Deformer Count 1824858688.
+[2020.01.20-21.27.17:140][716]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.27.17:140][716]LogFbx: =================================================
+[2020.01.20-21.27.17:140][716]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.27.17:140][716]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.27.17:140][716]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.27.17:141][716]LogFbx: =================================================
+[2020.01.20-21.27.17:141][716]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.27.17:141][716]LogFbx: 	Total Deformer Count 1824858688.
+[2020.01.20-21.27.17:141][716]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.27.17:141][716]LogFbx: =================================================
+[2020.01.20-21.27.17:141][716]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.27.17:141][716]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.27.17:141][716]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.27.17:143][716]LogFbx: Valid bind pose for Pose (skinCluster1) - Enemy_Character_Combined
+[2020.01.20-21.27.17:148][716]LogMaterial: Warning: Material /Game/Animations/Enemy_Anim/defaultPolygonShader2.defaultPolygonShader2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.20-21.27.17:169][716]LogMaterial: Display: Missing cached shader map for material defaultPolygonShader2, compiling. 
+[2020.01.20-21.27.17:218][716]LogMaterial: Display: Missing cached shader map for material defaultPolygonShader2, compiling. 
+[2020.01.20-21.27.17:265][716]LogFbx: Triangulating skeletal mesh Enemy_Character_Combined
+[2020.01.20-21.27.18:058][716]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.20-21.27.18:059][716]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.20-21.27.18:059][716]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.20-21.27.18:059][716]LogFbx: Warning: Bones digested - 23  Depth of hierarchy - 9
+[2020.01.20-21.27.18:480][716]LogSkeletalMesh: Section 0: 2610 vertices, 7 active bones
+[2020.01.20-21.27.18:480][716]LogSkeletalMesh: Section 1: 2516 vertices, 21 active bones
+[2020.01.20-21.27.18:482][716]LogSkeletalMesh: Section 0: Material=0, 5160 triangles
+[2020.01.20-21.27.18:482][716]LogSkeletalMesh: Section 1: Material=1, 3025 triangles
+[2020.01.20-21.27.18:491][716]LogSkeletalMesh: Building Skeletal Mesh AI_Idle_animation...
+[2020.01.20-21.27.18:514][716]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Animations/Enemy_Anim/AI_Idle_animation.AI_Idle_animation
+[2020.01.20-21.27.18:534][716]LogFbx: =================================================
+[2020.01.20-21.27.18:534][716]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.27.18:534][716]LogFbx: 	Total Deformer Count -1667946176.
+[2020.01.20-21.27.18:535][716]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.27.18:535][716]LogFbx: =================================================
+[2020.01.20-21.27.18:535][716]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.27.18:535][716]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.27.18:535][716]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.27.18:535][716]LogFbx: =================================================
+[2020.01.20-21.27.18:535][716]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.27.18:535][716]LogFbx: 	Total Deformer Count -1667946176.
+[2020.01.20-21.27.18:535][716]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.27.18:535][716]LogFbx: =================================================
+[2020.01.20-21.27.18:535][716]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.27.18:535][716]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.27.18:536][716]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-21.27.18:539][716]LogFbx: SortedLinks :(21) QuickRigCharacter_Neck1
+[2020.01.20-21.27.18:540][716]LogFbx: SortedLinks :(22) QuickRigCharacter_Head
+[2020.01.20-21.27.18:569][716]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-21.27.20:426][716]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Enemy_Anim/AI_Idle_animation_Anim.AI_Idle_animation_Anim
+[2020.01.20-21.27.20:429][716]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AI_Idle_animation_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-21.27.20:443][716]LogSkeletalMesh: Building Skeletal Mesh AI_Idle_animation...
+[2020.01.20-21.27.20:463][716]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Animations/Enemy_Anim/AI_Idle_animation.AI_Idle_animation
+[2020.01.20-21.27.20:491][716]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-21.27.20:520][716]LogSkeletalMesh: Building Skeletal Mesh AI_Idle_animation...
+[2020.01.20-21.27.20:543][716]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Animations/Enemy_Anim/AI_Idle_animation.AI_Idle_animation
+[2020.01.20-21.27.22:804][754]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-21.27.22:817][754]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-21.27.37:162][901]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.20-21.27.43:794][956]LogMetaData: Removing '/Game/Animations/Enemy_Anim/Enemy_Skeleton.Enemy_Skeleton' ref from Metadata '/Game/Animations/Enemy_Anim/AI_Idle_animation_Skeleton.PackageMetaData'
+[2020.01.20-21.27.43:924][956]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Enemy_Skeleton6E28D53349D4C8596386368F545EBAD2.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/Enemy_Skeleton.uasset'
+[2020.01.20-21.27.44:149][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.01.20-21.27.44:204][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.01.20-21.27.44:248][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.01.20-21.27.49:871][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.01.20-21.27.50:148][  4]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.20-21.27.50:403][  4]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.20-21.27.51:807][  4]LogSlate: Window 'Save Content' being destroyed
+[2020.01.20-21.27.51:997][  4]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_Idle_animation6515EB6647C2A7EEC81A2688A8478F6C.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_Idle_animation.uasset'
+[2020.01.20-21.27.52:101][  4]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_Idle_animation_Anim9831CF734E7E3C01CCBCCA9A87B13BB4.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_Idle_animation_Anim.uasset'
+[2020.01.20-21.27.52:227][  4]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_Idle_animation_PhysicsAsset91B9609746FF040EA8EDAF9F308AC100.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_Idle_animation_PhysicsAsset.uasset'
+[2020.01.20-21.27.56:210][  4]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/defaultPolygonShader2366C8F954D394E408DA27EB2FD2E6B83.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/defaultPolygonShader2.uasset'
+[2020.01.20-21.27.56:283][  4]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/lambert36ED958234B6B1E669D627AB655833EBC.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/lambert3.uasset'
