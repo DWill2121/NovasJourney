@@ -1183,3 +1183,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.20-21.33.14:857][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_walking_w_gun_animation_Anim45CD3A0E413EFFF5F31824A826E44E35.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_walking_w_gun_animation_Anim.uasset'
 [2020.01.20-21.33.14:984][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_walking_w_gun_animation_Physi92C2B3FF44767BA2C74136AAEFE2E0B6.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_walking_w_gun_animation_PhysicsAsset.uasset'
 [2020.01.20-21.33.47:955][298]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (42.173 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.20-21.34.18:316][476]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animations/Enemy_Anim/AI_Idle_animation_Anim.AI_Idle_animation_Anim
+[2020.01.20-21.34.18:331][476]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-21.34.18:509][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-21.34.19:374][476]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-21.34.21:631][513]LogRenderer: Reallocating scene render targets to support 808x392 Format 10 NumSamples 1 (Frame:38).
+[2020.01.20-21.34.21:868][514]LogSlate: Window 'AI_Idle_animation_Anim' being destroyed
+[2020.01.20-21.43.28:270][908]LogLinker: Warning: Can't find file '/Engine/EngineFonts/SpaceMono-Bold_Font'
+[2020.01.20-21.43.28:271][908]LogLinker: Warning: Can't find file for asset '/Engine/EngineFonts/SpaceMono-Bold_Font' while loading NULL.
+[2020.01.20-21.43.28:652][908]LogBlueprint: Error: [Compiler SettingsMenu2] In use pin  <Unnamed>  no longer exists on node  Adjust Brightness . Please refresh node or break links to remove pin.
+[2020.01.20-21.43.28:652][908]LogBlueprint: Error: [Compiler SettingsMenu2] In use pin  Target  no longer exists on node  Adjust Brightness . Please refresh node or break links to remove pin.
+[2020.01.20-21.43.28:653][908]LogBlueprint: Error: [Compiler SettingsMenu2] Could not find a function named "Adjust Brightness" in 'Nova1_C'.
+Make sure 'Nova1_C' has been compiled for  Adjust Brightness
+[2020.01.20-21.43.28:666][908]LogBlueprint: Warning: [Compiler SettingsMenu2] Could not find a variable named "Brightness Value" in 'Nova1_C'.
+Make sure 'Nova1_C' has been compiled for  Set Brightness Value
+[2020.01.20-21.43.28:678][908]LogBlueprint: Error: [Compiler SettingsMenu2] The property associated with  Brightness Value  could not be found in '/Game/Menus_AD/SettingsMenu2.SettingsMenu2_C'
+[2020.01.20-21.43.28:697][908]LogBlueprint: Warning: [Compiler SettingsMenu2] [1274.38] Compile of SettingsMenu2 failed. 4 Fatal Issue(s) 1 Warning(s) [in 77 ms] (/Game/Menus_AD/SettingsMenu2.SettingsMenu2)
+[2020.01.20-21.43.28:698][908]LogLinker: Warning: Can't find file '/Engine/EngineFonts/SpaceMono-Bold_Font'
+[2020.01.20-21.43.28:699][908]LogLinker: Warning: Can't find file for asset '/Engine/EngineFonts/SpaceMono-Bold_Font' while loading NULL.
+[2020.01.20-21.43.28:713][908]LogLinker: Warning: Can't find file '/Engine/EngineFonts/SpaceMono-Bold_Font'
+[2020.01.20-21.43.28:714][908]LogLinker: Warning: Can't find file for asset '/Engine/EngineFonts/SpaceMono-Bold_Font' while loading NULL.
+[2020.01.20-21.43.28:714][908]LogLinker: Warning: Can't find file '/Engine/EngineFonts/SpaceMono-Bold_Font'
+[2020.01.20-21.43.28:714][908]LogLinker: Warning: Can't find file for asset '/Engine/EngineFonts/SpaceMono-Bold_Font' while loading NULL.
+[2020.01.20-21.43.28:719][908]LogLinker: Warning: Can't find file '/Engine/EngineFonts/SpaceMono-Bold_Font'
+[2020.01.20-21.43.28:719][908]LoadErrors: Failed to load /Engine/EngineFonts/SpaceMono-Bold_Font.SpaceMono-Bold_Font Referenced by TextBlock_96
+[2020.01.20-21.43.28:719][908]LogLinker: Warning: Can't find file for asset '/Engine/EngineFonts/SpaceMono-Bold_Font' while loading NULL.
+[2020.01.20-21.43.28:720][908]LogLinker: Warning: Can't find file '/Engine/EngineFonts/SpaceMono-Bold_Font'
+[2020.01.20-21.43.28:720][908]LoadErrors: Failed to load /Engine/EngineFonts/SpaceMono-Bold_Font.SpaceMono-Bold_Font Referenced by TextBlock_99
+[2020.01.20-21.43.28:720][908]LogLinker: Warning: Can't find file for asset '/Engine/EngineFonts/SpaceMono-Bold_Font' while loading NULL.
+[2020.01.20-21.43.28:720][908]LogLinker: Warning: Can't find file '/Engine/EngineFonts/SpaceMono-Bold_Font'
+[2020.01.20-21.43.28:720][908]LoadErrors: Failed to load /Engine/EngineFonts/SpaceMono-Bold_Font.SpaceMono-Bold_Font Referenced by TextBlock_100
+[2020.01.20-21.43.28:720][908]LogLinker: Warning: Can't find file for asset '/Engine/EngineFonts/SpaceMono-Bold_Font' while loading NULL.
+[2020.01.20-21.43.28:721][908]LogLinker: Warning: Can't find file '/Engine/EngineFonts/SpaceMono-Bold_Font'
+[2020.01.20-21.43.28:721][908]LoadErrors: Failed to load /Engine/EngineFonts/SpaceMono-Bold_Font.SpaceMono-Bold_Font Referenced by Pause
+[2020.01.20-21.43.28:721][908]LogLinker: Warning: Can't find file for asset '/Engine/EngineFonts/SpaceMono-Bold_Font' while loading NULL.
+[2020.01.20-21.43.29:118][908]LogTexture: Display: Building textures: B_button (BGRA8, 900X781)
+[2020.01.20-21.43.29:118][908]LogTexture: Display: Building textures: health_background (AutoDXT, 1920X1080)
+[2020.01.20-21.43.29:118][908]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.01.20-21.43.31:075][908]LogTexture: Display: Building textures: Y_button (BGRA8, 900X781)
+[2020.01.20-21.43.31:075][908]LogTexture: Display: Building textures: hotbar_image (BGRA8, 1759X647)
+[2020.01.20-21.43.31:076][908]LogTexture: Display: Building textures: X_button (BGRA8, 900X781)
+[2020.01.20-21.43.31:076][908]LogTexture: Display: Building textures: empty_bar (BGRA8, 1875X158)
+[2020.01.20-21.43.31:076][908]LogStaticMesh: Building static mesh Explosive_Barrel_With_Collider_2...
+[2020.01.20-21.43.31:463][908]LogStaticMesh: Built static mesh [0.40s] /Game/Content/Explosive_Barrel_With_Collider_2.Explosive_Barrel_With_Collider_2
+[2020.01.20-21.43.31:587][908]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.01.20-21.43.31:921][908]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/NovaAnimations.NovaAnimations
+[2020.01.20-21.43.31:987][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-21.43.32:918][908]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 121 classes and 0 folders.
+[2020.01.20-21.43.35:130][908]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-21.43.35:937][908]LogSlate: Took 0.031895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.20-21.43.36:872][908]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-21.43.36:964][909]LogSlate: Took 0.012899 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.20-21.43.57:256][507]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2020.01.20-21.44.08:382][507]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.20-21.44.28:681][ 81]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.01.20-21.44.50:076][ 81]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.01.20-21.45.17:931][516]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/Nova_Final_Animation.Nova_Final_Animation
+[2020.01.20-21.45.17:995][516]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-21.45.18:470][516]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-21.45.19:337][516]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-21.45.23:701][610]LogSlate: Window 'Nova_Final_Animation' being destroyed
+[2020.01.20-21.45.59:937][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.01.20-21.46.01:925][992]LogSlate: Window 'Save Content' being destroyed
+[2020.01.20-21.46.02:174][992]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_Animation119A84124FCFD2987F1503A9DF6D0749.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animation.uasset'
