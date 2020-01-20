@@ -849,3 +849,337 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.20-21.27.52:227][  4]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_Idle_animation_PhysicsAsset91B9609746FF040EA8EDAF9F308AC100.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_Idle_animation_PhysicsAsset.uasset'
 [2020.01.20-21.27.56:210][  4]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/defaultPolygonShader2366C8F954D394E408DA27EB2FD2E6B83.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/defaultPolygonShader2.uasset'
 [2020.01.20-21.27.56:283][  4]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/lambert36ED958234B6B1E669D627AB655833EBC.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/lambert3.uasset'
+[2020.01.20-21.32.46:490][ 63]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/AI_death_animation.fbx)
+[2020.01.20-21.32.46:510][ 63]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/AI_death_animation.fbx
+[2020.01.20-21.32.46:596][ 63]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-21.32.59:284][ 63]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.20-21.32.59:344][ 63]LogFbx: =================================================
+[2020.01.20-21.32.59:344][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.32.59:344][ 63]LogFbx: 	Total Deformer Count -1818844048.
+[2020.01.20-21.32.59:344][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.32.59:344][ 63]LogFbx: =================================================
+[2020.01.20-21.32.59:344][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.32.59:345][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.32.59:345][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.32.59:345][ 63]LogFbx: =================================================
+[2020.01.20-21.32.59:345][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.32.59:345][ 63]LogFbx: 	Total Deformer Count -1818844048.
+[2020.01.20-21.32.59:345][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.32.59:345][ 63]LogFbx: =================================================
+[2020.01.20-21.32.59:345][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.32.59:345][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.32.59:345][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.32.59:347][ 63]LogFbx: Valid bind pose for Pose (skinCluster1) - Enemy_Character_Combined
+[2020.01.20-21.32.59:352][ 63]LogFbx: Triangulating skeletal mesh Enemy_Character_Combined
+[2020.01.20-21.32.59:905][ 63]LogFbx: Warning: Bones digested - 23  Depth of hierarchy - 9
+[2020.01.20-21.33.00:153][ 63]LogSkeletalMesh: Section 0: 2610 vertices, 7 active bones
+[2020.01.20-21.33.00:154][ 63]LogSkeletalMesh: Section 1: 2516 vertices, 21 active bones
+[2020.01.20-21.33.00:155][ 63]LogSkeletalMesh: Section 0: Material=0, 5160 triangles
+[2020.01.20-21.33.00:155][ 63]LogSkeletalMesh: Section 1: Material=1, 3025 triangles
+[2020.01.20-21.33.00:161][ 63]LogSkeletalMesh: Building Skeletal Mesh AI_death_animation...
+[2020.01.20-21.33.00:172][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Animations/Enemy_Anim/AI_death_animation.AI_death_animation
+[2020.01.20-21.33.00:176][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_death_animation_PhysicsAsset'
+[2020.01.20-21.33.00:176][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_death_animation_PhysicsAsset'
+[2020.01.20-21.33.00:188][ 63]LogFbx: =================================================
+[2020.01.20-21.33.00:188][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.00:188][ 63]LogFbx: 	Total Deformer Count -2039999648.
+[2020.01.20-21.33.00:188][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.00:188][ 63]LogFbx: =================================================
+[2020.01.20-21.33.00:188][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.00:188][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.00:188][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.00:188][ 63]LogFbx: =================================================
+[2020.01.20-21.33.00:188][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.00:188][ 63]LogFbx: 	Total Deformer Count -2039999648.
+[2020.01.20-21.33.00:188][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.00:188][ 63]LogFbx: =================================================
+[2020.01.20-21.33.00:188][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.00:188][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.00:188][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(21) QuickRigCharacter_Neck1
+[2020.01.20-21.33.00:190][ 63]LogFbx: SortedLinks :(22) QuickRigCharacter_Head
+[2020.01.20-21.33.00:199][ 63]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-21.33.00:200][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_death_animation_Anim'
+[2020.01.20-21.33.00:200][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_death_animation_Anim'
+[2020.01.20-21.33.00:639][ 63]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Enemy_Anim/AI_death_animation_Anim.AI_death_animation_Anim
+[2020.01.20-21.33.00:640][ 63]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AI_death_animation_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-21.33.00:648][ 63]LogSkeletalMesh: Building Skeletal Mesh AI_death_animation...
+[2020.01.20-21.33.00:662][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Animations/Enemy_Anim/AI_death_animation.AI_death_animation
+[2020.01.20-21.33.00:681][ 63]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-21.33.00:696][ 63]LogSkeletalMesh: Building Skeletal Mesh AI_death_animation...
+[2020.01.20-21.33.00:716][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Animations/Enemy_Anim/AI_death_animation.AI_death_animation
+[2020.01.20-21.33.00:895][ 63]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/AI_running_w_gun.fbx)
+[2020.01.20-21.33.00:930][ 63]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/AI_running_w_gun.fbx
+[2020.01.20-21.33.01:016][ 63]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-21.33.01:034][ 63]LogFbx: =================================================
+[2020.01.20-21.33.01:034][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.01:034][ 63]LogFbx: 	Total Deformer Count -2040002672.
+[2020.01.20-21.33.01:034][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.01:034][ 63]LogFbx: =================================================
+[2020.01.20-21.33.01:034][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.01:034][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.01:034][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.01:034][ 63]LogFbx: =================================================
+[2020.01.20-21.33.01:034][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.01:034][ 63]LogFbx: 	Total Deformer Count -2040002672.
+[2020.01.20-21.33.01:034][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.01:035][ 63]LogFbx: =================================================
+[2020.01.20-21.33.01:035][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.01:035][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.01:035][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.01:037][ 63]LogFbx: Valid bind pose for Pose (skinCluster1) - Enemy_Character_Combined
+[2020.01.20-21.33.01:042][ 63]LogFbx: Triangulating skeletal mesh Enemy_Character_Combined
+[2020.01.20-21.33.01:583][ 63]LogFbx: Warning: Bones digested - 23  Depth of hierarchy - 9
+[2020.01.20-21.33.01:812][ 63]LogSkeletalMesh: Section 0: 2610 vertices, 7 active bones
+[2020.01.20-21.33.01:812][ 63]LogSkeletalMesh: Section 1: 2516 vertices, 21 active bones
+[2020.01.20-21.33.01:813][ 63]LogSkeletalMesh: Section 0: Material=0, 5160 triangles
+[2020.01.20-21.33.01:813][ 63]LogSkeletalMesh: Section 1: Material=1, 3025 triangles
+[2020.01.20-21.33.01:818][ 63]LogSkeletalMesh: Building Skeletal Mesh AI_running_w_gun...
+[2020.01.20-21.33.01:829][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Animations/Enemy_Anim/AI_running_w_gun.AI_running_w_gun
+[2020.01.20-21.33.01:833][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_running_w_gun_PhysicsAsset'
+[2020.01.20-21.33.01:833][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_running_w_gun_PhysicsAsset'
+[2020.01.20-21.33.01:848][ 63]LogFbx: =================================================
+[2020.01.20-21.33.01:848][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.01:848][ 63]LogFbx: 	Total Deformer Count -1666524016.
+[2020.01.20-21.33.01:848][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.01:848][ 63]LogFbx: =================================================
+[2020.01.20-21.33.01:848][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.01:848][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.01:848][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.01:848][ 63]LogFbx: =================================================
+[2020.01.20-21.33.01:848][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.01:848][ 63]LogFbx: 	Total Deformer Count -1666524016.
+[2020.01.20-21.33.01:848][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.01:848][ 63]LogFbx: =================================================
+[2020.01.20-21.33.01:848][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.01:848][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.01:848][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(21) QuickRigCharacter_Neck1
+[2020.01.20-21.33.01:850][ 63]LogFbx: SortedLinks :(22) QuickRigCharacter_Head
+[2020.01.20-21.33.01:855][ 63]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-21.33.01:855][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_running_w_gun_Anim'
+[2020.01.20-21.33.01:855][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_running_w_gun_Anim'
+[2020.01.20-21.33.02:155][ 63]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Enemy_Anim/AI_running_w_gun_Anim.AI_running_w_gun_Anim
+[2020.01.20-21.33.02:155][ 63]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AI_running_w_gun_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-21.33.02:162][ 63]LogSkeletalMesh: Building Skeletal Mesh AI_running_w_gun...
+[2020.01.20-21.33.02:174][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Animations/Enemy_Anim/AI_running_w_gun.AI_running_w_gun
+[2020.01.20-21.33.02:192][ 63]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-21.33.02:215][ 63]LogSkeletalMesh: Building Skeletal Mesh AI_running_w_gun...
+[2020.01.20-21.33.02:225][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Animations/Enemy_Anim/AI_running_w_gun.AI_running_w_gun
+[2020.01.20-21.33.02:395][ 63]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/AI_shooting_gun_animation.fbx)
+[2020.01.20-21.33.02:432][ 63]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/AI_shooting_gun_animation.fbx
+[2020.01.20-21.33.02:536][ 63]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-21.33.02:567][ 63]LogFbx: =================================================
+[2020.01.20-21.33.02:567][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.02:567][ 63]LogFbx: 	Total Deformer Count -1666527152.
+[2020.01.20-21.33.02:567][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.02:567][ 63]LogFbx: =================================================
+[2020.01.20-21.33.02:567][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.02:567][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.02:567][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.02:568][ 63]LogFbx: =================================================
+[2020.01.20-21.33.02:568][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.02:568][ 63]LogFbx: 	Total Deformer Count -1666527152.
+[2020.01.20-21.33.02:568][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.02:568][ 63]LogFbx: =================================================
+[2020.01.20-21.33.02:568][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.02:568][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.02:568][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.02:570][ 63]LogFbx: Valid bind pose for Pose (skinCluster1) - Enemy_Character_Combined
+[2020.01.20-21.33.02:574][ 63]LogFbx: Triangulating skeletal mesh Enemy_Character_Combined
+[2020.01.20-21.33.03:081][ 63]LogFbx: Warning: Bones digested - 23  Depth of hierarchy - 9
+[2020.01.20-21.33.03:308][ 63]LogSkeletalMesh: Section 0: 2610 vertices, 7 active bones
+[2020.01.20-21.33.03:308][ 63]LogSkeletalMesh: Section 1: 2516 vertices, 21 active bones
+[2020.01.20-21.33.03:309][ 63]LogSkeletalMesh: Section 0: Material=0, 5160 triangles
+[2020.01.20-21.33.03:309][ 63]LogSkeletalMesh: Section 1: Material=1, 3025 triangles
+[2020.01.20-21.33.03:337][ 63]LogSkeletalMesh: Building Skeletal Mesh AI_shooting_gun_animation...
+[2020.01.20-21.33.03:348][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Animations/Enemy_Anim/AI_shooting_gun_animation.AI_shooting_gun_animation
+[2020.01.20-21.33.03:351][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_shooting_gun_animation_PhysicsAsset'
+[2020.01.20-21.33.03:351][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_shooting_gun_animation_PhysicsAsset'
+[2020.01.20-21.33.03:375][ 63]LogFbx: =================================================
+[2020.01.20-21.33.03:375][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.03:375][ 63]LogFbx: 	Total Deformer Count 198794720.
+[2020.01.20-21.33.03:375][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.03:375][ 63]LogFbx: =================================================
+[2020.01.20-21.33.03:375][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.03:375][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.03:375][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.03:375][ 63]LogFbx: =================================================
+[2020.01.20-21.33.03:375][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.03:375][ 63]LogFbx: 	Total Deformer Count 198794720.
+[2020.01.20-21.33.03:375][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.03:375][ 63]LogFbx: =================================================
+[2020.01.20-21.33.03:375][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.03:375][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.03:375][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-21.33.03:377][ 63]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-21.33.03:378][ 63]LogFbx: SortedLinks :(21) QuickRigCharacter_Neck1
+[2020.01.20-21.33.03:378][ 63]LogFbx: SortedLinks :(22) QuickRigCharacter_Head
+[2020.01.20-21.33.03:389][ 63]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-21.33.03:390][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_shooting_gun_animation_Anim'
+[2020.01.20-21.33.03:390][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_shooting_gun_animation_Anim'
+[2020.01.20-21.33.04:132][ 63]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Enemy_Anim/AI_shooting_gun_animation_Anim.AI_shooting_gun_animation_Anim
+[2020.01.20-21.33.04:133][ 63]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AI_shooting_gun_animation_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-21.33.04:144][ 63]LogSkeletalMesh: Building Skeletal Mesh AI_shooting_gun_animation...
+[2020.01.20-21.33.04:157][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Animations/Enemy_Anim/AI_shooting_gun_animation.AI_shooting_gun_animation
+[2020.01.20-21.33.04:175][ 63]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-21.33.04:177][ 63]LogSkeletalMesh: Building Skeletal Mesh AI_shooting_gun_animation...
+[2020.01.20-21.33.04:188][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Animations/Enemy_Anim/AI_shooting_gun_animation.AI_shooting_gun_animation
+[2020.01.20-21.33.04:374][ 63]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Shaquille Georges/Desktop/AI_walking_w_gun_animation.fbx)
+[2020.01.20-21.33.04:396][ 63]LogFbx: Loading FBX Scene from ../../../../../../Users/Shaquille Georges/Desktop/AI_walking_w_gun_animation.fbx
+[2020.01.20-21.33.04:470][ 63]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.20-21.33.04:484][ 63]LogFbx: =================================================
+[2020.01.20-21.33.04:484][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.04:484][ 63]LogFbx: 	Total Deformer Count 198791360.
+[2020.01.20-21.33.04:484][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.04:484][ 63]LogFbx: =================================================
+[2020.01.20-21.33.04:484][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.04:484][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.04:484][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.04:484][ 63]LogFbx: =================================================
+[2020.01.20-21.33.04:484][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.04:484][ 63]LogFbx: 	Total Deformer Count 198791360.
+[2020.01.20-21.33.04:484][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.04:484][ 63]LogFbx: =================================================
+[2020.01.20-21.33.04:484][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.04:485][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.04:485][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.04:487][ 63]LogFbx: Valid bind pose for Pose (skinCluster1) - Enemy_Character_Combined
+[2020.01.20-21.33.04:491][ 63]LogFbx: Triangulating skeletal mesh Enemy_Character_Combined
+[2020.01.20-21.33.04:992][ 63]LogFbx: Warning: Bones digested - 23  Depth of hierarchy - 9
+[2020.01.20-21.33.05:216][ 63]LogSkeletalMesh: Section 0: 2610 vertices, 7 active bones
+[2020.01.20-21.33.05:217][ 63]LogSkeletalMesh: Section 1: 2516 vertices, 21 active bones
+[2020.01.20-21.33.05:218][ 63]LogSkeletalMesh: Section 0: Material=0, 5160 triangles
+[2020.01.20-21.33.05:218][ 63]LogSkeletalMesh: Section 1: Material=1, 3025 triangles
+[2020.01.20-21.33.05:260][ 63]LogSkeletalMesh: Building Skeletal Mesh AI_walking_w_gun_animation...
+[2020.01.20-21.33.05:274][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Animations/Enemy_Anim/AI_walking_w_gun_animation.AI_walking_w_gun_animation
+[2020.01.20-21.33.05:283][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_walking_w_gun_animation_PhysicsAsset'
+[2020.01.20-21.33.05:283][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_walking_w_gun_animation_PhysicsAsset'
+[2020.01.20-21.33.05:317][ 63]LogFbx: =================================================
+[2020.01.20-21.33.05:317][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.05:317][ 63]LogFbx: 	Total Deformer Count 1745870304.
+[2020.01.20-21.33.05:317][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.05:317][ 63]LogFbx: =================================================
+[2020.01.20-21.33.05:317][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.05:317][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.05:318][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.05:318][ 63]LogFbx: =================================================
+[2020.01.20-21.33.05:318][ 63]LogFbx: Dumping Node START [Enemy_Character_Combined] 
+[2020.01.20-21.33.05:318][ 63]LogFbx: 	Total Deformer Count 1745870304.
+[2020.01.20-21.33.05:318][ 63]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.20-21.33.05:318][ 63]LogFbx: =================================================
+[2020.01.20-21.33.05:318][ 63]LogFbx: 	Attribute () Type (4).
+[2020.01.20-21.33.05:318][ 63]LogFbx: 		[Node Attribute Child 1] Enemy_Character_Combined (Type Mesh).
+[2020.01.20-21.33.05:318][ 63]LogFbx: Dumping Node END [Enemy_Character_Combined]
+[2020.01.20-21.33.05:319][ 63]LogFbx: SortedLinks :(0) QuickRigCharacter_Ctrl_Reference
+[2020.01.20-21.33.05:319][ 63]LogFbx: SortedLinks :(1) QuickRigCharacter_Reference
+[2020.01.20-21.33.05:319][ 63]LogFbx: SortedLinks :(2) QuickRigCharacter_Hips
+[2020.01.20-21.33.05:319][ 63]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftUpLeg
+[2020.01.20-21.33.05:319][ 63]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftLeg
+[2020.01.20-21.33.05:319][ 63]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftFoot
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(6) QuickRigCharacter_LeftToeBase
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(7) QuickRigCharacter_RightUpLeg
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(8) QuickRigCharacter_RightLeg
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(9) QuickRigCharacter_RightFoot
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(10) QuickRigCharacter_RightToeBase
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine1
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(13) QuickRigCharacter_Spine2
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(17) QuickRigCharacter_RightArm
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(18) QuickRigCharacter_RightForeArm
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(19) QuickRigCharacter_RightHand
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(20) QuickRigCharacter_Neck
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(21) QuickRigCharacter_Neck1
+[2020.01.20-21.33.05:320][ 63]LogFbx: SortedLinks :(22) QuickRigCharacter_Head
+[2020.01.20-21.33.05:323][ 63]LogFbx: Parsing AnimStack Take 001
+[2020.01.20-21.33.05:323][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_walking_w_gun_animation_Anim'
+[2020.01.20-21.33.05:324][ 63]LogLinker: Can't find file '/Game/Animations/Enemy_Anim/AI_walking_w_gun_animation_Anim'
+[2020.01.20-21.33.05:517][ 63]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Enemy_Anim/AI_walking_w_gun_animation_Anim.AI_walking_w_gun_animation_Anim
+[2020.01.20-21.33.05:518][ 63]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AI_walking_w_gun_animation_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.20-21.33.05:523][ 63]LogSkeletalMesh: Building Skeletal Mesh AI_walking_w_gun_animation...
+[2020.01.20-21.33.05:536][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Animations/Enemy_Anim/AI_walking_w_gun_animation.AI_walking_w_gun_animation
+[2020.01.20-21.33.05:555][ 63]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.20-21.33.05:633][ 63]LogSkeletalMesh: Building Skeletal Mesh AI_walking_w_gun_animation...
+[2020.01.20-21.33.05:664][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.11s] /Game/Animations/Enemy_Anim/AI_walking_w_gun_animation.AI_walking_w_gun_animation
+[2020.01.20-21.33.08:992][116]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-21.33.09:002][116]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-21.33.11:777][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.01.20-21.33.13:543][182]LogSlate: Window 'Save Content' being destroyed
+[2020.01.20-21.33.13:795][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_death_animation7EDECCC04B795BA4D8FDFCA1291B8978.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_death_animation.uasset'
+[2020.01.20-21.33.13:880][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_death_animation_AnimD5788BAA41FCECF8F62E73B88C2E00F2.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_death_animation_Anim.uasset'
+[2020.01.20-21.33.13:968][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_death_animation_PhysicsAssetC27979804388E6A83A5F61886081C38F.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_death_animation_PhysicsAsset.uasset'
+[2020.01.20-21.33.14:120][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_running_w_gun0C12D4CD444833C44A7ECEB81CBC72EA.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_running_w_gun.uasset'
+[2020.01.20-21.33.14:199][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_running_w_gun_AnimF36BF50B468D5354BFC6D6B180B0ED87.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_running_w_gun_Anim.uasset'
+[2020.01.20-21.33.14:290][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_running_w_gun_PhysicsAsset2DEA2C9B438CD643ECE555AE204FCF68.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_running_w_gun_PhysicsAsset.uasset'
+[2020.01.20-21.33.14:440][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_shooting_gun_animationE22530B5492B5E5A58F52FB6157BE142.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_shooting_gun_animation.uasset'
+[2020.01.20-21.33.14:517][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_shooting_gun_animation_Anim9C9B96334083EDA81E7306982B22F0DC.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_shooting_gun_animation_Anim.uasset'
+[2020.01.20-21.33.14:606][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_shooting_gun_animation_Physic8676735B4F4FB55091C0498CC713A045.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_shooting_gun_animation_PhysicsAsset.uasset'
+[2020.01.20-21.33.14:774][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_walking_w_gun_animation8CD7F144472020B8ECD92096BB6A4EF6.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_walking_w_gun_animation.uasset'
+[2020.01.20-21.33.14:857][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_walking_w_gun_animation_Anim45CD3A0E413EFFF5F31824A826E44E35.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_walking_w_gun_animation_Anim.uasset'
+[2020.01.20-21.33.14:984][182]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/AI_walking_w_gun_animation_Physi92C2B3FF44767BA2C74136AAEFE2E0B6.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/AI_walking_w_gun_animation_PhysicsAsset.uasset'
+[2020.01.20-21.33.47:955][298]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (42.173 sec). This should never happen. Something is wrong with the timer delegate!
