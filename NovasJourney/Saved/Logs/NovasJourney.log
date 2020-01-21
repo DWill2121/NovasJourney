@@ -619,3 +619,37 @@ Make sure 'ShootAI_C' has been compiled for  Get Forget
 [2020.01.21-18.05.07:791][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   8.73ms
 [2020.01.21-18.05.07:797][ 91]LogBlueprint: Warning: [Compiler Enemy_Animation] [0299.49] Compile of Enemy_Animation successful, but with 2 Warning(s) [in 439 ms] (/Game/Animations/Enemy_Anim/Enemy_Animation.Enemy_Animation)
 [2020.01.21-18.05.09:403][149]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Enemy_Animation4A5E41DB4026F93A4609D984B5B1B1FB.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/Enemy_Animation.uasset'
+[2020.01.21-18.07.20:421][729]BlueprintLog: New page: Compile Enemy_Animation
+[2020.01.21-18.07.20:775][729]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2020.01.21-18.07.23:955][836]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Enemy_AnimationD27A0D004C58B1265C5408A97EAC17A4.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/Enemy_Animation.uasset'
+[2020.01.21-18.11.00:007][313]BlueprintLog: New page: Compile Enemy_Animation
+[2020.01.21-18.11.00:054][313]LogBlueprint: Warning: [Compiler Enemy_Animation] Enemy_Movement to Enemy_Shoot  will never be taken, please connect something to  Can Enter Transition
+[2020.01.21-18.11.00:347][313]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.01.21-18.11.00:352][313]LogBlueprint: Warning: [Compiler Enemy_Animation] [0652.05] Compile of Enemy_Animation successful, but with 1 Warning(s) [in 344 ms] (/Game/Animations/Enemy_Anim/Enemy_Animation.Enemy_Animation)
+[2020.01.21-18.11.01:915][369]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Enemy_Animation366E9914466232757C0FD9B3CE72EC94.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/Enemy_Animation.uasset'
+[2020.01.21-18.11.52:885][717]BlueprintLog: New page: Compile Enemy_Animation
+[2020.01.21-18.11.53:187][717]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.01.21-18.11.55:020][786]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Enemy_AnimationCF8011D04D7806B9C1B1FC9A7004D0BB.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/Enemy_Animation.uasset'
+[2020.01.21-18.12.40:253][756]BlueprintLog: New page: Compile Enemy_Animation
+[2020.01.21-18.12.40:573][756]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.01.21-18.12.42:355][822]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Enemy_Animation93907F874F42BC854A23E1A5849B20E4.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/Enemy_Animation.uasset'
+[2020.01.21-18.14.33:278][574]LogProperty: Warning: Serialized Class /Script/Engine.Skeleton for a property of Class /Script/Engine.SkeletalMesh. Reference will be nullptred.
+    Property = SoftObjectProperty /Script/Engine.PhysicsAsset:PreviewSkeletalMesh
+    Item = Skeleton /Game/Animations/Enemy_Anim/Enemy_Skeleton.Enemy_Skeleton
+[2020.01.21-18.14.33:404][574]LogAnimation: Warning: AnimBP AIAnimations_C is incompatible with skeleton Enemy_Skeleton, removing AnimBP from actor.
+[2020.01.21-18.14.33:405][574]LogAnimation: Warning: AnimBP AIAnimations_C is incompatible with skeleton Enemy_Skeleton, removing AnimBP from actor.
+[2020.01.21-18.14.33:405][574]LogAnimation: Warning: AnimBP AIAnimations_C is incompatible with skeleton Enemy_Skeleton, removing AnimBP from actor.
+[2020.01.21-18.15.06:550][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-18.15.06:556][242]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.21-18.15.18:192][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-18.15.18:327][548]BlueprintLog: New page: Compile ShootAI
+[2020.01.21-18.15.18:343][548]LogBlueprint: Warning: [Compiler ShootAI] Could not find a variable named "Forget" in 'ShootAI_C'.
+Make sure 'ShootAI_C' has been compiled for  Get Forget
+[2020.01.21-18.15.18:348][548]LogBlueprint: Error: [Compiler ShootAI] The property associated with  Forget  could not be found in '/Game/Content/Actors/AI/ShootAI.ShootAI_C'
+[2020.01.21-18.15.18:702][548]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.01.21-18.15.18:729][548]LogBlueprint: Warning: [Compiler ShootAI] [0910.42] Compile of ShootAI failed. 1 Fatal Issue(s) 1 Warning(s) [in 401 ms] (/Game/Content/Actors/AI/ShootAI.ShootAI)
+[2020.01.21-18.15.28:540][937]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/ShootAI0A709CD94E0E381D6E4A58A1E288A408.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Actors/AI/ShootAI.uasset'
+[2020.01.21-18.15.54:251][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.01.21-18.15.54:988][ 90]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/NovaTechConcept_Auto1497543534FF0BC45889696BB5246A36E.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Content/Levels/Maps/NovaTechConcept_Auto1.umap'
+[2020.01.21-18.15.54:997][ 90]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Levels/Maps/NovaTechConcept' took 0.798
+[2020.01.21-18.15.54:997][ 90]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.798
