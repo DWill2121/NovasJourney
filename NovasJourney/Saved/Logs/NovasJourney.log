@@ -2640,3 +2640,57 @@ Make sure 'Nova1_C' has been compiled for  Set Brightness Value
 [2020.01.20-22.24.23:079][247]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
 [2020.01.20-22.26.06:680][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Nova_BS" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset" SILENT=true
 [2020.01.20-22.26.06:730][902]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_BS63D757844A1C7D30D4F0B0AEC7B5ED63.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset'
+[2020.01.20-22.28.46:790][173]Cmd: TRANSACTION UNDO
+[2020.01.20-22.28.46:791][173]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2020.01.20-22.28.47:027][173]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-22.28.50:668][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Nova_BS" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset" SILENT=true
+[2020.01.20-22.28.50:709][295]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_BS34DE0B0A4CC1D933D61C1F957086D8D4.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset'
+[2020.01.20-22.30.02:248][ 80]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.01.20-22.30.10:178][ 80]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.01.20-22.30.28:844][281]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/Nova_Final_Animations.Nova_Final_Animations
+[2020.01.20-22.30.28:898][281]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_71:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-22.30.29:517][281]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_71:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-22.30.30:303][281]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-22.30.33:092][339]LogSlate: Window 'Nova_Final_Animations' being destroyed
+[2020.01.20-22.30.34:821][381]LogSlate: Window 'Nova_Final_Animations' being destroyed
+[2020.01.20-22.30.57:304][328]BlueprintLog: New page: Compile Nova_Final_Animations
+[2020.01.20-22.30.57:308][328]LogBlueprint: Warning: [Compiler Nova_Final_Animations] Entry node  Nova_State  is not connected to state
+[2020.01.20-22.30.57:309][328]LogBlueprint: Warning: [Compiler Nova_Final_Animations] There was no entry state connection in  Nova_State
+[2020.01.20-22.30.57:595][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.01.20-22.30.57:601][328]LogBlueprint: Warning: [Compiler Nova_Final_Animations] [4123.28] Compile of Nova_Final_Animations successful, but with 2 Warning(s) [in 297 ms] (/Game/Animations/Nova_Final_Animations.Nova_Final_Animations)
+[2020.01.20-22.30.59:184][385]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_Animations7F25CF594050B88A3DD4F7877AE1CA5B.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
+[2020.01.20-22.32.09:623][260]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Animations/Nova_BS.Nova_BS
+[2020.01.20-22.32.09:633][260]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_73:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.20-22.32.09:682][260]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_73:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.20-22.32.10:349][260]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.20-22.32.38:871][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Nova_BS" FILE="../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset" SILENT=true
+[2020.01.20-22.32.38:919][301]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_BS7DB8A6D649B6AFF7766A1C842788E34E.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_BS.uasset'
+[2020.01.20-22.32.54:374][920]BlueprintLog: New page: Compile Nova_Final_Animations
+[2020.01.20-22.32.54:665][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.01.20-22.32.56:497][987]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_Animations1E7598DB424257F53166578224407BF8.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
+[2020.01.20-22.34.07:613][367]BlueprintLog: New page: Compile Nova_Final_Animations
+[2020.01.20-22.34.07:911][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.01.20-22.34.20:362][751]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_AnimationsFAFF42524AD9EE8B541219ABC48C1A9A.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
+[2020.01.20-22.44.52:517][666]BlueprintLog: New page: Compile Nova_Final_Animations
+[2020.01.20-22.44.52:553][666]LogBlueprint: Warning: [Compiler Nova_Final_Animations] Nova_Move to Nova_Jump  will never be taken, please connect something to  Can Enter Transition
+[2020.01.20-22.44.52:836][666]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.01.20-22.44.52:843][666]LogBlueprint: Warning: [Compiler Nova_Final_Animations] [4958.52] Compile of Nova_Final_Animations successful, but with 1 Warning(s) [in 325 ms] (/Game/Animations/Nova_Final_Animations.Nova_Final_Animations)
+[2020.01.20-22.44.54:550][722]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_Animations258BA54543597BF81937A39D644E161C.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
+[2020.01.20-22.46.12:418][291]BlueprintLog: New page: Compile Nova_Final_Animations
+[2020.01.20-22.46.12:711][291]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.01.20-22.46.14:367][349]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_Animations0ECEB6D9442E1FA77CC6899C5B70099B.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
+[2020.01.20-22.50.32:759][810]BlueprintLog: New page: Compile Nova_Final_Animations
+[2020.01.20-22.50.33:058][810]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.01.20-22.50.34:895][878]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_Animations99E6A5044FBB640CF80E6E8AB654A86B.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
+[2020.01.20-23.00.25:166][ 75]BlueprintLog: New page: Compile Nova_Final_Animations
+[2020.01.20-23.00.28:053][ 75]LogUObjectHash: Compacting FUObjectHashTables data took  42.37ms
+[2020.01.20-23.00.31:375][132]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_Animations28B6F45B4A37FCCCDBEA49AECD4099F8.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
+[2020.01.20-23.04.29:593][180]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_AnimationsCCB925E44982564080FAAF8BB64E6AF8.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
+[2020.01.20-23.15.11:291][322]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.21-01.44.17:880][360]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/Character/Nova1.Nova1
+[2020.01.21-01.44.22:200][464]LogRenderer: Reallocating scene render targets to support 808x460 Format 10 NumSamples 1 (Frame:1).
+[2020.01.21-01.44.55:328][ 38]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.21-01.45.11:182][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-01.45.11:292][520]BlueprintLog: New page: Compile Nova1
+[2020.01.21-01.45.12:546][520]LogUObjectHash: Compacting FUObjectHashTables data took   8.17ms
+[2020.01.21-01.45.15:360][581]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova1CC951C8D43DBACA3E66B51A132FF624F.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Actors/Character/Nova1.uasset'
