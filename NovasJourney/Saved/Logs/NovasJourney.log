@@ -606,3 +606,16 @@ Make sure 'ShootAI_C' has been compiled for  Get Forget
 [2020.01.21-18.01.19:900][566]LogRenderer: Reallocating scene render targets to support 808x460 Format 10 NumSamples 1 (Frame:61).
 [2020.01.21-18.01.20:566][583]LogSlate: Window 'Enemy_BS' being destroyed
 [2020.01.21-18.03.09:207][807]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Enemy_BS0F9C920C4153775678AD1394880188FD.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/Enemy_BS.uasset'
+[2020.01.21-18.04.05:672][771]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.01.21-18.04.15:461][771]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.01.21-18.04.39:898][ 45]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/Enemy_Anim/Enemy_Animation.Enemy_Animation
+[2020.01.21-18.04.39:952][ 45]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.21-18.04.40:500][ 45]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.21-18.04.41:276][ 45]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.21-18.04.44:195][118]LogSlate: Window 'Enemy_Animation' being destroyed
+[2020.01.21-18.05.07:357][ 91]BlueprintLog: New page: Compile Enemy_Animation
+[2020.01.21-18.05.07:389][ 91]LogBlueprint: Warning: [Compiler Enemy_Animation] Entry node  Enemy_State  is not connected to state
+[2020.01.21-18.05.07:389][ 91]LogBlueprint: Warning: [Compiler Enemy_Animation] There was no entry state connection in  Enemy_State
+[2020.01.21-18.05.07:791][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   8.73ms
+[2020.01.21-18.05.07:797][ 91]LogBlueprint: Warning: [Compiler Enemy_Animation] [0299.49] Compile of Enemy_Animation successful, but with 2 Warning(s) [in 439 ms] (/Game/Animations/Enemy_Anim/Enemy_Animation.Enemy_Animation)
+[2020.01.21-18.05.09:403][149]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Enemy_Animation4A5E41DB4026F93A4609D984B5B1B1FB.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Enemy_Anim/Enemy_Animation.uasset'
