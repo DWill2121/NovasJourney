@@ -3124,3 +3124,7 @@ Script Stack (0 frames):
 [2020.01.21-02.10.56:337][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
 [2020.01.21-02.10.56:897][107]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/NovaTechConcept048473C0421E5EC92C4697AA8083BDF6.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/NovaTechConcept.umap'
 [2020.01.21-02.10.57:399][107]LogFileHelpers: Saving map 'NovaTechConcept' took 1.230
+[2020.01.21-02.16.50:933][184]BlueprintLog: New page: Compile Nova_Final_Animations
+[2020.01.21-02.16.51:257][184]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.01.21-02.16.53:141][246]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_AnimationsAF6B265F46025BEEC0645191A33B000D.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
+[2020.01.21-02.16.58:957][371]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
