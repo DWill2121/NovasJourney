@@ -3128,3 +3128,101 @@ Script Stack (0 frames):
 [2020.01.21-02.16.51:257][184]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
 [2020.01.21-02.16.53:141][246]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_AnimationsAF6B265F46025BEEC0645191A33B000D.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
 [2020.01.21-02.16.58:957][371]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.01.21-02.21.16:398][655]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-02.21.16:756][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.21-02.21.16:813][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-02.21.24:508][655]LogSlate: Window 'Message' being destroyed
+[2020.01.21-02.21.35:863][116]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-02.21.35:933][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.21-02.21.35:933][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-02.21.37:511][116]LogSlate: Window 'Message' being destroyed
+[2020.01.21-02.21.38:017][116]PIE: New page: PIE session: NovaTechConcept (Jan 20, 2020, 4:21:37 PM)
+[2020.01.21-02.21.38:584][116]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept
+[2020.01.21-02.21.40:082][116]LogPlayLevel: PIE: StaticDuplicateObject took: (1.496924s)
+[2020.01.21-02.21.40:147][116]LogAIModule: Creating AISystem for world NovaTechConcept
+[2020.01.21-02.21.40:242][116]LogPlayLevel: PIE: World Init took: (0.160676s)
+[2020.01.21-02.21.40:246][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept to /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept.NovaTechConcept (1.662103s)
+[2020.01.21-02.21.40:307][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.01.21-02.21.40:851][116]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.21-02.21.41:004][116]LogInit: FAudioDevice initialized.
+[2020.01.21-02.21.41:991][116]LogLoad: Game class is 'NovasJourney_C'
+[2020.01.21-02.21.42:312][116]PIE: Warning: Invalid Simulate Options: Body (BarrelLevel_2.Sphere1) is set to simulate physics but Collision Enabled is incompatible
+[2020.01.21-02.21.42:313][116]PIE: Warning: Invalid Simulate Options: Body (BarrelLevel_2.Sphere1) is set to simulate physics but Collision Enabled is incompatible
+[2020.01.21-02.21.42:350][116]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept.NovaTechConcept up for play (max tick rate 60) at 2020.01.20-21.21.42
+[2020.01.21-02.21.42:912][116]LogWorld: Bringing up level for play took: 0.872017
+[2020.01.21-02.21.43:585][116]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.01.21-02.21.43:779][116]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.01.21-02.21.43:910][116]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.1305 seconds. Added 20 classes and 0 folders.
+[2020.01.21-02.21.43:940][116]PIE: Warning: BarrelLevel_2.Sphere1 has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2020.01.21-02.21.44:019][116]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.21-02.21.44:019][116]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.21-02.21.44:882][116]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept 9.313
+[2020.01.21-02.21.44:882][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.21-02.21.52:507][117]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.055707 > MaxSimulationTimeStep (0.050) for 'Nova1_C_0', movement 'Walking'
+[2020.01.21-02.22.03:920][436]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.21-02.22.03:954][437]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.21-02.22.04:023][439]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.21-02.22.04:058][440]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.21-02.22.33:769][247]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.21-02.22.34:417][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-02.22.34:642][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-02.22.34:643][247]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.21-02.22.34:927][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-02.22.36:825][247]LogUObjectHash: Compacting FUObjectHashTables data took  96.49ms
+[2020.01.21-02.22.36:919][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-02.22.37:249][248]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2020.01.21-02.22.50:845][532]LogSlate: Window 'Message Log' being destroyed
+[2020.01.21-02.22.50:908][532]LogSlate: Window 'Message Log' being destroyed
+[2020.01.21-02.23.12:729][ 88]LogEditorViewport: Clicking on Actor (LMB): ShootAI_C (ShootAI)
+[2020.01.21-02.23.15:938][159]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.01.21-02.23.21:996][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-02.23.45:247][683]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/AI/ShootAI.ShootAI
+[2020.01.21-02.24.36:322][603]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-02.24.36:524][603]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.21-02.24.36:524][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-02.24.36:524][603]PIE: New page: PIE session: NovaTechConcept (Jan 20, 2020, 4:24:36 PM)
+[2020.01.21-02.24.36:524][603]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept
+[2020.01.21-02.24.36:557][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032692s)
+[2020.01.21-02.24.36:558][603]LogAIModule: Creating AISystem for world NovaTechConcept
+[2020.01.21-02.24.36:558][603]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2020.01.21-02.24.36:558][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept to /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept.NovaTechConcept (0.034191s)
+[2020.01.21-02.24.37:226][603]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.01.21-02.24.37:236][603]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.21-02.24.37:338][603]LogInit: FAudioDevice initialized.
+[2020.01.21-02.24.37:380][603]LogLoad: Game class is 'NovasJourney_C'
+[2020.01.21-02.24.37:392][603]PIE: Warning: Invalid Simulate Options: Body (BarrelLevel_2.Sphere1) is set to simulate physics but Collision Enabled is incompatible
+[2020.01.21-02.24.37:392][603]PIE: Warning: Invalid Simulate Options: Body (BarrelLevel_2.Sphere1) is set to simulate physics but Collision Enabled is incompatible
+[2020.01.21-02.24.37:394][603]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept.NovaTechConcept up for play (max tick rate 60) at 2020.01.20-21.24.37
+[2020.01.21-02.24.37:401][603]LogWorld: Bringing up level for play took: 0.020062
+[2020.01.21-02.24.37:419][603]PIE: Warning: BarrelLevel_2.Sphere1 has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2020.01.21-02.24.37:419][603]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.21-02.24.37:419][603]LogBlueprintUserMessages: [Nova1_C_0] You've Discovered an Item!
+[2020.01.21-02.24.37:428][603]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_NovaTechConcept 1.859
+[2020.01.21-02.24.37:428][603]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.21-02.24.37:476][604]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059590 > MaxSimulationTimeStep (0.050) for 'Nova1_C_0', movement 'Walking'
+[2020.01.21-02.24.41:043][695]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.21-02.24.41:117][697]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.21-02.24.41:117][697]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.21-02.24.41:194][699]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.21-02.24.46:100][835]LogBlueprintUserMessages: [BP_Checkpoint_2] CheckPoint Reached!
+[2020.01.21-02.24.54:701][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.21-02.24.54:703][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-02.24.54:820][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-02.24.54:820][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept' with GeneratedClass '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/NovaTechConcept.NovaTechConcept:PersistentLevel.NovaTechConcept'
+[2020.01.21-02.24.54:894][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-02.24.54:919][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.01.21-02.24.54:931][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-02.24.55:014][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2020.01.21-02.24.57:040][120]LogSlate: Window 'Message Log' being destroyed
+[2020.01.21-02.24.57:102][120]LogSlate: Window 'Message Log' being destroyed
+[2020.01.21-02.25.02:848][248]LogEditorViewport: Clicking on Actor (LMB): ShootAI_C (ShootAI)
+[2020.01.21-02.25.17:817][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-02.25.18:074][509]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/AI/BasicAI.BasicAI
+[2020.01.21-02.26.03:295][126]BlueprintLog: New page: Compile BasicAI
+[2020.01.21-02.26.04:119][126]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.01.21-02.26.05:989][199]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/BasicAI4F388BD945B6F8C14F53FF96AC2C9288.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Actors/AI/BasicAI.uasset'
+[2020.01.21-02.26.08:801][289]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2020.01.21-02.26.10:451][289]LogSlate: Window 'Save Content' being destroyed
+[2020.01.21-02.26.10:549][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.01.21-02.26.11:291][289]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/NovaTechConcept0DAB9E2C4D56048F062D5A8AB99F0EF5.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/NovaTechConcept.umap'
+[2020.01.21-02.26.11:349][289]LogFileHelpers: Saving map 'NovaTechConcept' took 0.864
