@@ -3096,3 +3096,31 @@ Script Stack (0 frames):
 [2020.01.21-01.59.45:002][271]BlueprintLog: New page: Compile BasicAI
 [2020.01.21-01.59.46:106][271]LogUObjectHash: Compacting FUObjectHashTables data took  36.11ms
 [2020.01.21-01.59.48:409][369]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/BasicAI4A4CABF849B4766B93F058A242E00D5A.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Actors/AI/BasicAI.uasset'
+[2020.01.21-02.02.40:376][791]BlueprintLog: New page: Compile Nova_Final_Animations
+[2020.01.21-02.02.40:387][791]LogBlueprint: Warning: [Compiler Nova_Final_Animations] Nova_Move to Nova_Telekinesis  will never be taken, please connect something to  Can Enter Transition
+[2020.01.21-02.02.40:732][791]LogUObjectHash: Compacting FUObjectHashTables data took  34.77ms
+[2020.01.21-02.02.40:740][791]LogBlueprint: Warning: [Compiler Nova_Final_Animations] [6825.38] Compile of Nova_Final_Animations successful, but with 1 Warning(s) [in 364 ms] (/Game/Animations/Nova_Final_Animations.Nova_Final_Animations)
+[2020.01.21-02.02.42:208][837]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_Animations0D3DBB154EF68F02AEDB88AA7BC9CD64.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
+[2020.01.21-02.03.16:013][236]BlueprintLog: New page: Compile Nova_Final_Animations
+[2020.01.21-02.03.16:331][236]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.01.21-02.03.18:030][293]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_Animations206954414FB3A8DDB2CFCCA0D0BAB11D.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
+[2020.01.21-02.04.14:439][591]BlueprintLog: New page: Compile Nova_Final_Animations
+[2020.01.21-02.04.14:752][591]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.01.21-02.04.16:570][656]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_Animations9E17739240CF663E808D12B103F69D23.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
+[2020.01.21-02.10.30:661][345]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.01.21-02.10.31:850][345]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/NovaTechConcept_Auto4366C416F4AD2C1E3DE8F7796B93F6C98.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Content/Levels/Maps/NovaTechConcept_Auto4.umap'
+[2020.01.21-02.10.31:925][345]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Levels/Maps/NovaTechConcept' took 1.320
+[2020.01.21-02.10.31:925][345]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.320
+[2020.01.21-02.10.31:929][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Nova_Final_Animations] ([1] browsable assets)...
+[2020.01.21-02.10.31:970][345]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animations/Nova_Final_Animations.Nova_Final_Animations]
+[2020.01.21-02.10.31:970][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Nova_Final_Animations]
+[2020.01.21-02.10.32:065][345]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_Animations_Auto4D9DC092B47E6B898612F09B1E7FF5482.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Animations/Nova_Final_Animations_Auto4.uasset'
+[2020.01.21-02.10.32:066][345]LogFileHelpers: Auto-saving content packages took 0.138
+[2020.01.21-02.10.44:665][840]BlueprintLog: New page: Compile Nova_Final_Animations
+[2020.01.21-02.10.45:025][840]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.01.21-02.10.46:718][894]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova_Final_Animations54107B474838723EC6D8D48854497533.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Animations/Nova_Final_Animations.uasset'
+[2020.01.21-02.10.53:289][107]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.01.21-02.10.56:136][107]LogSlate: Window 'Save Content' being destroyed
+[2020.01.21-02.10.56:337][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.01.21-02.10.56:897][107]LogSavePackage: Moving '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Saved/NovaTechConcept048473C0421E5EC92C4697AA8083BDF6.tmp' to '../../../../../../Users/Shaquille Georges/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/NovaTechConcept.umap'
+[2020.01.21-02.10.57:399][107]LogFileHelpers: Saving map 'NovaTechConcept' took 1.230
