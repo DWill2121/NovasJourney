@@ -1,7 +1,7 @@
-C:\Users\Shaquille Georges\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\Definitions.NovasJourney.h
+C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\Definitions.NovasJourney.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Shaquille Georges\Documents\GitHub\NovasJourney\NovasJourney\Source\NovasJourney/Nova.h
+C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Source\NovasJourney/Nova.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
@@ -13,9 +13,9 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Compone
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
-c:\users\shaquille georges\documents\github\novasjourney\novasjourney\intermediate\build\win64\ue4editor\inc\novasjourney\Nova.generated.h
+C:\Users\dewil\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Inc\NovasJourney\Nova.generated.h
