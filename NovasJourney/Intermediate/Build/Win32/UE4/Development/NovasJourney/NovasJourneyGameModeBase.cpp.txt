@@ -1,0 +1,7 @@
+C:\Users\antwa\Desktop\Workshop_NovasJourney\NovasJourney\NovasJourney\Intermediate\Build\Win32\UE4\Development\NovasJourney\Definitions.NovasJourney.h
+c:\users\antwa\desktop\workshop_novasjourney\novasjourney\novasjourney\source\novasjourney\NovasJourneyGameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\GameModeBase.generated.h
+C:\Users\antwa\Desktop\Workshop_NovasJourney\NovasJourney\NovasJourney\Intermediate\Build\Win32\UE4\Inc\NovasJourney\NovasJourneyGameModeBase.generated.h

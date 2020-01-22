@@ -1,0 +1,2 @@
+C:\Users\antwa\Desktop\Workshop_NovasJourney\NovasJourney\NovasJourney\Intermediate\Build\Win32\UE4\Development\NovasJourney\Definitions.NovasJourney.h
+c:\users\antwa\desktop\workshop_novasjourney\novasjourney\novasjourney\source\novasjourney\NovasJourney.h

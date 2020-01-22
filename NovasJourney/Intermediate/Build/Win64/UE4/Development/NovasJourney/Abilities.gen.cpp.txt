@@ -1,0 +1,5 @@
+C:\Users\antwa\Desktop\Workshop_NovasJourney\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4\Development\NovasJourney\Definitions.NovasJourney.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\antwa\Desktop\Workshop_NovasJourney\NovasJourney\NovasJourney\Source\NovasJourney/Abilities.h
+c:\users\antwa\desktop\workshop_novasjourney\novasjourney\novasjourney\intermediate\build\win64\ue4\inc\novasjourney\Abilities.generated.h

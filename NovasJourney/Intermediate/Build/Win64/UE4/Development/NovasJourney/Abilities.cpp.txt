@@ -1,0 +1,3 @@
+C:\Users\antwa\Desktop\Workshop_NovasJourney\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4\Development\NovasJourney\Definitions.NovasJourney.h
+c:\users\antwa\desktop\workshop_novasjourney\novasjourney\novasjourney\source\novasjourney\Abilities.h
+C:\Users\antwa\Desktop\Workshop_NovasJourney\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4\Inc\NovasJourney\Abilities.generated.h
