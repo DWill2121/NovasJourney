@@ -6,7 +6,6 @@
 #include "Camera/CameraComponent.h"
 #include "Components/CapsuleComponent.h"
 #include "Components/InputComponent.h"
-#include "HeadMountedDisplayFunctionLibrary.h"
 #include "Engine/World.h"
 
 // Sets default values

@@ -7,7 +7,6 @@
 #include "Camera/CameraComponent.h"
 #include "Components/CapsuleComponent.h"
 #include "Components/InputComponent.h"
-#include "HeadMountedDisplayFunctionLibrary.h"
 #include "Nova.generated.h"
 
 UCLASS()
