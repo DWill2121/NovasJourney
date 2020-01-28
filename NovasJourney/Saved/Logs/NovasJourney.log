@@ -8944,3 +8944,511 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.28-19.17.59:571][464]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/NOVA_Level_VS46670FC0E4EC0C61DEECF07B8A008CA65.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Content_AGV/Level/NOVA_Level_VS4.umap'
 [2020.01.28-19.17.59:603][464]LogFileHelpers: Saving map 'NOVA_Level_VS4' took 2.608
 [2020.01.28-19.17.59:870][464]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova29D21F62C45380D1A520413843235F81A.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Actors/Character/Nova2.uasset'
+[2020.01.28-19.19.52:644][138]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo.fbx)
+[2020.01.28-19.19.52:669][138]LogFbx: Loading FBX Scene from ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo.fbx
+[2020.01.28-19.19.52:679][138]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.28-19.20.08:760][138]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.28-19.20.08:912][138]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.20.09:021][138]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.20.09:132][138]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2020.01.28-19.20.09:252][138]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.20.09:371][138]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.20.09:397][138]LogFbx: Display: Triangulating static mesh ScifiCargo
+[2020.01.28-19.20.09:493][138]LogStaticMesh: Building static mesh scificargo...
+[2020.01.28-19.20.09:513][138]LogStaticMesh: Built static mesh [0.02s] /Game/Models_And_Textures/Crate/scificargo.scificargo
+[2020.01.28-19.20.09:544][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_blinn1_BaseColor.png)
+[2020.01.28-19.20.09:669][138]LogTexture: Display: Building textures: scificargo_blinn1_BaseColor (AutoDXT, 2048X2048)
+[2020.01.28-19.20.10:106][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_blinn1_Normal.png)
+[2020.01.28-19.20.10:244][138]LogTexture: Display: Building textures: scificargo_blinn1_Normal (BC5, 2048X2048)
+[2020.01.28-19.20.10:480][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_blinn1_OcclusionRoughnessMetallic.png)
+[2020.01.28-19.20.10:603][138]LogTexture: Display: Building textures: scificargo_blinn1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-19.20.11:145][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_blinn2_BaseColor.png)
+[2020.01.28-19.20.11:261][138]LogTexture: Display: Building textures: scificargo_blinn2_BaseColor (AutoDXT, 2048X2048)
+[2020.01.28-19.20.11:585][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_blinn2_Normal.png)
+[2020.01.28-19.20.11:713][138]LogTexture: Display: Building textures: scificargo_blinn2_Normal (BC5, 2048X2048)
+[2020.01.28-19.20.11:954][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_blinn2_OcclusionRoughnessMetallic.png)
+[2020.01.28-19.20.12:081][138]LogTexture: Display: Building textures: scificargo_blinn2_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-19.20.12:563][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_blinn3_BaseColor.png)
+[2020.01.28-19.20.12:678][138]LogTexture: Display: Building textures: scificargo_blinn3_BaseColor (AutoDXT, 2048X2048)
+[2020.01.28-19.20.12:981][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_blinn3_Emissive.png)
+[2020.01.28-19.20.13:050][138]LogTexture: Display: Building textures: scificargo_blinn3_Emissive (AutoDXT, 2048X2048)
+[2020.01.28-19.20.13:263][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_blinn3_Normal.png)
+[2020.01.28-19.20.13:387][138]LogTexture: Display: Building textures: scificargo_blinn3_Normal (BC5, 2048X2048)
+[2020.01.28-19.20.13:626][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_blinn3_OcclusionRoughnessMetallic.png)
+[2020.01.28-19.20.13:749][138]LogTexture: Display: Building textures: scificargo_blinn3_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-19.20.14:205][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_phongE1_BaseColor.png)
+[2020.01.28-19.20.14:295][138]LogTexture: Display: Building textures: scificargo_phongE1_BaseColor (AutoDXT, 2048X2048)
+[2020.01.28-19.20.14:515][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_phongE1_Normal.png)
+[2020.01.28-19.20.14:637][138]LogTexture: Display: Building textures: scificargo_phongE1_Normal (BC5, 2048X2048)
+[2020.01.28-19.20.14:864][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_phongE1_OcclusionRoughnessMetallic.png)
+[2020.01.28-19.20.14:958][138]LogTexture: Display: Building textures: scificargo_phongE1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-19.20.15:225][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_rampShader1_BaseColor.png)
+[2020.01.28-19.20.15:336][138]LogTexture: Display: Building textures: scificargo_rampShader1_BaseColor (AutoDXT, 2048X2048)
+[2020.01.28-19.20.15:695][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_rampShader1_Normal.png)
+[2020.01.28-19.20.15:843][138]LogTexture: Display: Building textures: scificargo_rampShader1_Normal (BC5, 2048X2048)
+[2020.01.28-19.20.16:090][138]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/de768578/Downloads/ScifiCargo/ScifiCargo/scificargo_rampShader1_OcclusionRoughnessMetallic.png)
+[2020.01.28-19.20.16:209][138]LogTexture: Display: Building textures: scificargo_rampShader1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-19.20.26:756][521]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models_And_Textures/Crate/scificargo.scificargo
+[2020.01.28-19.20.26:766][521]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2020.01.28-19.20.27:407][522]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.01.28-19.20.30:194][853]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (13.393 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.28-19.20.35:275][330]LogAssetEditorManager: Opening Asset editor for Material /Game/Models_And_Textures/Crate/blinn1.blinn1
+[2020.01.28-19.20.35:281][330]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.20.35:366][330]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.20.35:378][330]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.20.35:415][330]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.01.28-19.20.39:912][856]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.01.28-19.20.39:912][856]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.01.28-19.20.39:912][856]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-19.20.39:912][856]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-19.20.42:948][154]LogAssetEditorManager: Opening Asset editor for Material /Game/Models_And_Textures/Crate/blinn2.blinn2
+[2020.01.28-19.20.42:951][154]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.20.43:019][154]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.20.43:031][154]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.20.43:069][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.01.28-19.20.47:726][694]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.01.28-19.20.47:726][694]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.01.28-19.20.47:726][694]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-19.20.47:726][694]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-19.20.53:885][979]LogAssetEditorManager: Opening Asset editor for Material /Game/Models_And_Textures/Crate/blinn3.blinn3
+[2020.01.28-19.20.53:887][979]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2020.01.28-19.20.53:955][979]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2020.01.28-19.20.53:967][979]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2020.01.28-19.20.54:007][979]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.01.28-19.20.58:758][536]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.01.28-19.20.58:758][536]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.01.28-19.20.58:758][536]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-19.20.58:758][536]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-19.21.37:629][840]LogEditorViewport: Clicking on Actor (LMB): BarrelLevel_C (BarrelLevel3)
+[2020.01.28-19.21.43:637][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.22.00:710][441]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.00:722][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.22.00:756][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.01.28-19.22.00:761][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.22.00:771][441]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.00:783][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.22.00:817][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.01.28-19.22.00:822][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.22.00:827][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.22.00:836][441]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.00:848][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.22.00:878][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.01.28-19.22.00:883][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.22.00:887][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.22.00:892][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.22.04:431][652]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.17:147][365]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.17:165][365]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.22.21:176][630]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.21:192][630]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.22.25:914][967]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.25:932][967]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.22.28:951][ 92]LogEditorTransaction: Undo Create Pin Link
+[2020.01.28-19.22.28:954][ 92]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.29:042][ 92]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.29:061][ 92]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.22.29:092][ 92]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.22.29:109][ 92]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2020.01.28-19.22.30:597][225]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.30:613][225]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.22.32:456][378]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.32:472][378]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.22.34:621][540]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.34:638][540]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.22.35:573][584]LogMaterialEditor: Saving and Compiling material blinn1
+[2020.01.28-19.22.37:128][584]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.37:177][584]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.37:207][584]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.22.37:315][584]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.01.28-19.22.37:323][584]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.28-19.23.07:185][584]TextureStreamingBuild: Display: Compiling optional shaders took 29.869 seconds.
+[2020.01.28-19.23.07:237][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.01.28-19.23.07:326][584]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/blinn16FA8EF304F3ACE71373FEDAE06181C91.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/blinn1.uasset'
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-19.23.07:340][584]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-19.23.14:232][  3]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.23.18:622][258]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.23.18:634][258]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.23.18:666][258]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.23.18:676][258]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.23.18:689][258]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.23.18:721][258]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.23.18:727][258]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.23.18:737][258]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.23.18:751][258]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.23.18:781][258]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.23.18:786][258]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.23.18:790][258]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.23.31:656][135]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.23.31:671][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.23.37:496][448]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.23.37:510][448]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.23.39:109][571]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.23.39:130][571]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.23.42:134][805]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.23.42:153][805]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.23.43:922][951]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.23.43:941][951]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.23.45:864][104]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.23.45:886][104]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.23.47:665][194]LogMaterialEditor: Saving and Compiling material blinn2
+[2020.01.28-19.23.47:951][194]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.23.47:996][194]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.23.48:026][194]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.23.48:096][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.01.28-19.23.48:135][194]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.28-19.24.04:868][194]TextureStreamingBuild: Display: Compiling optional shaders took 16.740 seconds.
+[2020.01.28-19.24.04:906][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.01.28-19.24.04:987][194]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/blinn20BC98B1D477CA54B50943F80D43913C0.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/blinn2.uasset'
+[2020.01.28-19.24.05:005][194]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.01.28-19.24.05:005][194]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.01.28-19.24.05:005][194]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-19.24.05:005][194]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.28-19.24.05:005][194]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.28-19.24.05:005][194]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-19.24.11:660][495]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Models_And_Textures/Crate/scificargo_blinn1_OcclusionRoughnessMetallic.scificargo_blinn1_OcclusionRoughnessMetallic
+[2020.01.28-19.24.11:682][495]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2020.01.28-19.24.11:682][495]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.01.28-19.24.14:930][780]LogTexture: Display: Building textures: scificargo_blinn1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-19.24.15:350][780]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.24.15:351][780]LogMaterial: Warning: C:\Users\de768578\Documents\GitHub\NovasJourney\NovasJourney\Content\Models_And_Textures\Crate\blinn1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.28-19.24.15:351][780]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Models_And_Textures/Crate/scificargo_blinn1_OcclusionRoughnessMetallic.scificargo_blinn1_OcclusionRoughnessMetallic
+[2020.01.28-19.24.15:354][780]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.24.15:354][780]LogMaterial: Warning: /Engine/Transient.blinn1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.28-19.24.15:354][780]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Models_And_Textures/Crate/scificargo_blinn1_OcclusionRoughnessMetallic.scificargo_blinn1_OcclusionRoughnessMetallic
+[2020.01.28-19.24.15:374][780]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Models_And_Textures/Crate/scificargo_blinn1_OcclusionRoughnessMetallic.scificargo_blinn1_OcclusionRoughnessMetallic
+[2020.01.28-19.24.18:497][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-19.24.18:868][125]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_blinn1_OcclusionRoughFB946117447D9FD0C9EB2CBE4C009887.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_blinn1_OcclusionRoughnessMetallic.uasset'
+[2020.01.28-19.24.21:519][330]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Models_And_Textures/Crate/scificargo_blinn2_OcclusionRoughnessMetallic.scificargo_blinn2_OcclusionRoughnessMetallic
+[2020.01.28-19.24.22:715][449]LogTexture: Display: Building textures: scificargo_blinn2_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-19.24.23:084][449]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.24.23:084][449]LogMaterial: Warning: C:\Users\de768578\Documents\GitHub\NovasJourney\NovasJourney\Content\Models_And_Textures\Crate\blinn2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.28-19.24.23:084][449]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Models_And_Textures/Crate/scificargo_blinn2_OcclusionRoughnessMetallic.scificargo_blinn2_OcclusionRoughnessMetallic
+[2020.01.28-19.24.23:087][449]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.24.23:088][449]LogMaterial: Warning: /Engine/Transient.blinn2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.28-19.24.23:088][449]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Models_And_Textures/Crate/scificargo_blinn2_OcclusionRoughnessMetallic.scificargo_blinn2_OcclusionRoughnessMetallic
+[2020.01.28-19.24.23:116][449]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Models_And_Textures/Crate/scificargo_blinn2_OcclusionRoughnessMetallic.scificargo_blinn2_OcclusionRoughnessMetallic
+[2020.01.28-19.24.24:453][563]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_blinn2_OcclusionRoughC1ED95D542ADB5C439046E9BA9CF1D45.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_blinn2_OcclusionRoughnessMetallic.uasset'
+[2020.01.28-19.24.25:919][640]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Models_And_Textures/Crate/scificargo_blinn3_OcclusionRoughnessMetallic.scificargo_blinn3_OcclusionRoughnessMetallic
+[2020.01.28-19.24.26:788][722]LogTexture: Display: Building textures: scificargo_blinn3_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-19.24.28:242][804]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_blinn3_OcclusionRough3EE863D4414F03FB9FE9548C6C1AB9D6.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_blinn3_OcclusionRoughnessMetallic.uasset'
+[2020.01.28-19.24.30:230][935]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Models_And_Textures/Crate/scificargo_rampShader1_OcclusionRoughnessMetallic.scificargo_rampShader1_OcclusionRoughnessMetallic
+[2020.01.28-19.24.31:277][ 40]LogTexture: Display: Building textures: scificargo_rampShader1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-19.24.32:809][135]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_rampShader1_Occlusion573B9C18464CED32FF9E2E9DF7E5CD4E.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_rampShader1_OcclusionRoughnessMetallic.uasset'
+[2020.01.28-19.24.35:090][267]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Models_And_Textures/Crate/scificargo_phongE1_OcclusionRoughnessMetallic.scificargo_phongE1_OcclusionRoughnessMetallic
+[2020.01.28-19.24.36:542][419]LogTexture: Display: Building textures: scificargo_phongE1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-19.24.38:543][609]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_phongE1_OcclusionRougBFDD3510483A2627C58899962F0187A6.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_phongE1_OcclusionRoughnessMetallic.uasset'
+[2020.01.28-19.24.43:952][255]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.24.51:882][958]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.01.28-19.24.51:882][958]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2020.01.28-19.24.51:882][958]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-19.24.51:882][958]MaterialEditorStats: Texture samplers: 5/16
+[2020.01.28-19.24.51:882][958]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.01.28-19.24.51:882][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-19.24.52:727][ 26]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.24.52:739][ 26]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.28-19.24.52:774][ 26]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.24.52:778][ 26]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.24.52:783][ 26]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.28-19.24.56:009][281]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.24.56:027][281]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.28-19.24.58:358][492]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.24.58:373][492]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.28-19.25.02:636][855]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.25.02:651][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.28-19.25.03:706][907]LogMaterialEditor: Saving and Compiling material blinn2
+[2020.01.28-19.25.03:996][907]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.25.04:041][907]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.25.04:069][907]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.25.04:162][907]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.01.28-19.25.04:169][907]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.28-19.25.20:791][907]TextureStreamingBuild: Display: Compiling optional shaders took 16.629 seconds.
+[2020.01.28-19.25.20:846][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.01.28-19.25.20:930][907]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/blinn2070136DC4620E2E0B0C088B05659ED65.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/blinn2.uasset'
+[2020.01.28-19.25.20:946][907]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.01.28-19.25.20:946][907]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.01.28-19.25.20:946][907]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-19.25.20:946][907]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.28-19.25.20:946][907]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.28-19.25.20:946][907]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-19.25.24:270][ 89]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2020.01.28-19.25.29:026][327]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-19.25.29:026][327]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-19.25.29:026][327]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-19.25.29:026][327]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-19.25.32:270][518]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.25.35:175][681]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.25.35:188][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.28-19.25.35:219][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.25.35:224][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.25.35:228][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.28-19.25.40:553][202]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.25.40:571][202]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.28-19.25.42:377][351]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.25.42:394][351]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.28-19.25.48:091][929]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.25.48:110][929]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.28-19.25.50:061][ 73]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.25.50:079][ 73]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.28-19.25.56:892][541]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.25.58:263][609]LogMaterialEditor: Saving and Compiling material blinn1
+[2020.01.28-19.25.58:545][609]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.25.58:593][609]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.25.58:623][609]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.25.58:686][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.01.28-19.25.58:721][609]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.28-19.26.10:202][609]TextureStreamingBuild: Display: Compiling optional shaders took 11.487 seconds.
+[2020.01.28-19.26.10:239][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.01.28-19.26.10:321][609]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/blinn15355BB0B4864401603D8E7BA6E3A47C8.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/blinn1.uasset'
+[2020.01.28-19.26.10:338][609]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.01.28-19.26.10:338][609]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.01.28-19.26.10:338][609]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-19.26.10:338][609]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.28-19.26.10:338][609]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.28-19.26.10:338][609]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-19.26.11:116][638]LogAssetEditorManager: Opening Asset editor for Material /Game/Models_And_Textures/Crate/phongE1.phongE1
+[2020.01.28-19.26.11:118][638]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.26.11:186][638]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.26.11:198][638]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.26.11:241][638]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.01.28-19.26.13:613][845]LogAssetEditorManager: Opening Asset editor for Material /Game/Models_And_Textures/Crate/rampShader1.rampShader1
+[2020.01.28-19.26.13:616][845]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.26.13:697][845]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.26.13:709][845]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.26.13:749][845]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.01.28-19.26.15:353][ 23]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.01.28-19.26.15:353][ 23]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.01.28-19.26.15:353][ 23]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-19.26.15:353][ 23]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-19.26.19:698][310]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.01.28-19.26.19:698][310]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.01.28-19.26.19:698][310]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-19.26.19:698][310]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-19.26.26:806][836]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.26.31:469][ 70]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-19.26.31:469][ 70]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-19.26.31:469][ 70]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-19.26.31:469][ 70]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-19.26.34:468][270]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.26.34:481][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.26.34:513][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.26.34:522][270]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.26.34:535][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.26.34:568][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.26.34:572][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.26.34:582][270]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.26.34:595][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.26.34:628][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.26.34:633][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.26.34:637][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.26.39:103][626]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.26.39:120][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.26.52:931][501]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.01.28-19.26.52:931][501]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.01.28-19.26.52:931][501]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-19.26.52:931][501]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.28-19.26.52:931][501]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.28-19.26.52:931][501]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-19.27.06:545][328]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.27.06:562][328]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.27.12:155][822]MaterialEditorStats: Base pass shader: 113 instructions
+[2020.01.28-19.27.12:155][822]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
+[2020.01.28-19.27.12:155][822]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-19.27.12:155][822]MaterialEditorStats: Texture samplers: 5/16
+[2020.01.28-19.27.12:155][822]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.01.28-19.27.12:155][822]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-19.27.15:667][185]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.27.15:683][185]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.27.18:435][367]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.27.20:958][569]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.27.20:978][569]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.27.22:265][627]LogEditorTransaction: Undo Create Pin Link
+[2020.01.28-19.27.22:267][627]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.27.22:353][627]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.27.22:371][627]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.27.22:386][627]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2020.01.28-19.27.22:403][627]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.27.22:424][627]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.27.22:456][627]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.27.23:507][709]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.27.23:524][709]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.27.27:167][ 63]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.27.27:183][ 63]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.27.29:293][223]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.27.29:313][223]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.27.30:372][274]LogMaterialEditor: Saving and Compiling material phongE1
+[2020.01.28-19.27.30:653][274]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.27.30:700][274]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.27.30:728][274]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.01.28-19.27.30:830][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.01.28-19.27.30:836][274]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.28-19.28.08:431][274]TextureStreamingBuild: Display: Compiling optional shaders took 37.601 seconds.
+[2020.01.28-19.28.08:468][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.01.28-19.28.08:569][274]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/phongE1256513DD438258BFFA6054868159E9DD.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/phongE1.uasset'
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass shader: 114 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-19.28.08:589][274]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-19.28.12:349][535]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.28.17:116][766]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-19.28.17:116][766]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-19.28.17:116][766]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-19.28.17:116][766]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-19.28.17:479][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.01.28-19.28.17:531][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.01.28-19.28.20:155][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/NOVA_Level_VS4E436E2F843145883D0DA349F807435DE.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Content_AGV/Level/NOVA_Level_VS4.umap'
+[2020.01.28-19.28.20:191][782]LogFileHelpers: Saving map 'NOVA_Level_VS4' took 2.700
+[2020.01.28-19.28.20:224][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargoAEA8369044CF5EE97F1985A68F4EFACF.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo.uasset'
+[2020.01.28-19.28.20:250][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/rampShader113F357394F6734BB3C9DD6A484AEC2CC.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/rampShader1.uasset'
+[2020.01.28-19.28.20:278][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/blinn31F0A137F43AA82D10CC5889256BAB5AB.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/blinn3.uasset'
+[2020.01.28-19.28.20:623][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_blinn1_BaseColorF3B7F185448C6918BD620BBA932E7DE9.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_blinn1_BaseColor.uasset'
+[2020.01.28-19.28.21:050][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_blinn1_Normal33CF4B674B388390F2A41F8FA09D41AE.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_blinn1_Normal.uasset'
+[2020.01.28-19.28.21:333][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_blinn2_BaseColorA801F6954A1964F8FEDA8595FEA61994.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_blinn2_BaseColor.uasset'
+[2020.01.28-19.28.21:726][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_blinn2_NormalABD4240B415B6A8D934CE7B3ED476C49.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_blinn2_Normal.uasset'
+[2020.01.28-19.28.21:955][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_blinn3_BaseColorC8F823754672EAD702CA349020E98BB0.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_blinn3_BaseColor.uasset'
+[2020.01.28-19.28.22:071][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_blinn3_Emissive5C5DA2284C47115B70CDA9B33EA3CFB4.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_blinn3_Emissive.uasset'
+[2020.01.28-19.28.22:467][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_blinn3_NormalFDB080814DF49A5808C334AA7F6FD478.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_blinn3_Normal.uasset'
+[2020.01.28-19.28.22:596][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_phongE1_BaseColor680D59DA4E07AB9634D50899498ED734.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_phongE1_BaseColor.uasset'
+[2020.01.28-19.28.22:981][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_phongE1_Normal45FC225F467E31FB2DB155816C924FDB.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_phongE1_Normal.uasset'
+[2020.01.28-19.28.23:247][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_rampShader1_BaseColor54D74AA141EB16584AB55FBB298F6D29.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_rampShader1_BaseColor.uasset'
+[2020.01.28-19.28.23:754][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/scificargo_rampShader1_Normal4C4F700C47A1320C991D61B7FFA4BE10.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/scificargo_rampShader1_Normal.uasset'
+[2020.01.28-19.28.28:372][ 30]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.28.28:384][ 30]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.28.28:416][ 30]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.28.28:426][ 30]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.28.28:438][ 30]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.28.28:469][ 30]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.28.28:474][ 30]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.28.28:484][ 30]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.28.28:496][ 30]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.28.28:530][ 30]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.28.28:535][ 30]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.28.28:539][ 30]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.28.31:044][220]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.28.31:063][220]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.28.35:354][588]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.28.35:372][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.28.43:689][127]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.28.43:710][127]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.28.47:837][530]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.28.47:851][530]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.28.54:802][937]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.28.57:650][208]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.28.57:669][208]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.28.59:441][334]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.28.59:457][334]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.29.01:087][465]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.29.01:107][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.29.04:083][733]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.29.04:104][733]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.29.05:044][782]LogMaterialEditor: Saving and Compiling material rampShader1
+[2020.01.28-19.29.05:325][782]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.29.05:370][782]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.29.05:397][782]LogMaterial: Display: Missing cached shader map for material rampShader1, compiling. 
+[2020.01.28-19.29.05:462][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.01.28-19.29.05:500][782]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.28-19.29.24:935][782]TextureStreamingBuild: Display: Compiling optional shaders took 19.440 seconds.
+[2020.01.28-19.29.24:981][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.01.28-19.29.25:075][782]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/rampShader1A6DA21814093F05FC2184288EDE7CDBA.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Crate/rampShader1.uasset'
+[2020.01.28-19.29.25:094][782]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.01.28-19.29.25:094][782]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.01.28-19.29.25:094][782]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-19.29.25:094][782]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.28-19.29.25:094][782]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.28-19.29.25:094][782]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-19.29.38:384][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.29.55:473][366]LogSlate: Window 'Message' being destroyed
+[2020.01.28-19.29.55:757][366]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.29.55:800][366]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.29.55:829][366]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2020.01.28-19.29.55:942][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.01.28-19.29.55:948][366]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.28-19.30.03:848][366]TextureStreamingBuild: Display: Compiling optional shaders took 7.905 seconds.
+[2020.01.28-19.30.03:886][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.01.28-19.30.06:189][366]LogSlate: Window 'Message' being destroyed
+[2020.01.28-19.30.06:469][366]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.30.06:514][366]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.30.06:542][366]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2020.01.28-19.30.06:601][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.01.28-19.30.06:648][366]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.28-19.30.14:562][366]TextureStreamingBuild: Display: Compiling optional shaders took 7.920 seconds.
+[2020.01.28-19.30.14:601][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.01.28-19.30.16:586][366]LogSlate: Window 'Message' being destroyed
+[2020.01.28-19.30.16:871][366]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2020.01.28-19.30.16:917][366]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2020.01.28-19.30.16:945][366]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2020.01.28-19.30.17:002][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.01.28-19.30.17:052][366]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.28-19.30.24:652][366]TextureStreamingBuild: Display: Compiling optional shaders took 7.605 seconds.
+[2020.01.28-19.30.24:688][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.01.28-19.30.24:697][366]LogSlate: Window 'rampShader1' being destroyed
+[2020.01.28-19.30.24:698][366]LogSlate: Window 'rampShader1' being destroyed
+[2020.01.28-19.30.47:910][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.30.58:034][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.31.01:137][787]LogAssetEditorManager: Opening Asset editor for Material /Game/Models_And_Textures/Crate/phongE1.phongE1
+[2020.01.28-19.31.01:140][787]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.28-19.31.01:209][787]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.28-19.31.01:220][787]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.28-19.31.01:257][787]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-19.31.01:262][787]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-19.31.01:266][787]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-19.31.05:957][336]MaterialEditorStats: Base pass shader: 114 instructions
+[2020.01.28-19.31.05:957][336]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.01.28-19.31.05:957][336]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-19.31.05:957][336]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.28-19.31.05:957][336]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.28-19.31.05:957][336]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-19.31.22:113][563]LogTexture: Display: Building textures: novacharactermodel_lambert1_BaseColor (AutoDXT, 1024X1024)
+[2020.01.28-19.31.22:119][563]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Models_And_Textures/Nova_Textures/novacharactermodel_lambert1_BaseColor.novacharactermodel_lambert1_BaseColor
+[2020.01.28-19.31.32:932][386]LogTexture: Display: Building textures: platform1_Platform1SG2_BaseColor (AutoDXT, 2048X2048)
+[2020.01.28-19.31.32:932][386]LogTexture: Display: Building textures: platform1_Platform1SG2_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-19.31.32:932][386]LogTexture: Display: Building textures: platform1_Platform1SG2_Normal (BC5, 2048X2048)
+[2020.01.28-19.31.32:932][386]LogMaterial: Display: Missing cached shader map for material blinn7, compiling. 
+[2020.01.28-19.31.32:961][386]LogAssetEditorManager: Opening Asset editor for Material /Game/Models_And_Textures/Platform2Textures/blinn7.blinn7
+[2020.01.28-19.31.32:964][386]LogMaterial: Display: Missing cached shader map for material blinn7, compiling. 
+[2020.01.28-19.31.33:039][386]LogMaterial: Display: Missing cached shader map for material blinn7, compiling. 
+[2020.01.28-19.31.33:054][386]LogMaterial: Display: Missing cached shader map for material blinn7, compiling. 
+[2020.01.28-19.31.33:092][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.28-19.31.33:097][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2020.01.28-19.31.33:101][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.01.28-19.31.45:452][854]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.01.28-19.31.45:452][854]MaterialEditorStats: Base pass shader with Surface Lightmap: 150 instructions
+[2020.01.28-19.31.45:452][854]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.01.28-19.31.45:452][854]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-19.31.45:452][854]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.28-19.31.45:452][854]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.28-19.31.45:452][854]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
