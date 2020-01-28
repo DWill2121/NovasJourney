@@ -1,0 +1,1189 @@
+﻿Log file open, 01/27/20 19:12:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NovasJourney
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.279490
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.28-00.12.30:722][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.28-00.12.30:722][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.28-00.12.30:722][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.28-00.12.30:722][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.28-00.12.30:722][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.01.28-00.12.30:722][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.28-00.12.30:723][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.28-00.12.30:723][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.28-00.12.30:723][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.28-00.12.30:725][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:725][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.28-00.12.30:725][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.28-00.12.30:725][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:725][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.28-00.12.30:725][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:725][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.28-00.12.30:725][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.28-00.12.30:725][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.28-00.12.30:725][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.28-00.12.30:725][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.28-00.12.30:726][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.28-00.12.30:727][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.28-00.12.30:728][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.28-00.12.30:728][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.28-00.12.30:836][  0]LogHAL: Display: Platform has ~ 12 GB [12777775104 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.28-00.12.30:836][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.28-00.12.30:836][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.28-00.12.30:836][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:836][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.28-00.12.30:836][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.28-00.12.30:836][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:836][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.28-00.12.30:836][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:836][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.28-00.12.30:836][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.28-00.12.30:836][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.28-00.12.30:836][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.28-00.12.30:836][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.28-00.12.30:836][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.28-00.12.30:836][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.28-00.12.30:836][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.28-00.12.30:837][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.28-00.12.30:838][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.28-00.12.30:838][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-00.12.30:838][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.28-00.12.30:838][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.28-00.12.30:838][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.28-00.12.30:838][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.28-00.12.30:838][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.28-00.12.30:838][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.01.28-00.12.30:838][  0]LogInit: Computer: DESKTOP-8LB3I6G
+[2020.01.28-00.12.30:838][  0]LogInit: User: dewil
+[2020.01.28-00.12.30:838][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.28-00.12.30:838][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.28-00.12.30:838][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.01.28-00.12.30:838][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.28-00.12.30:838][  0]LogMemory: Process Physical Memory: 99.02 MB used, 99.02 MB peak
+[2020.01.28-00.12.30:838][  0]LogMemory: Process Virtual Memory: 92.87 MB used, 92.87 MB peak
+[2020.01.28-00.12.30:839][  0]LogMemory: Physical Memory: 6025.42 MB used,  6160.42 MB free, 12185.84 MB total
+[2020.01.28-00.12.30:839][  0]LogMemory: Virtual Memory: 4646.21 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.01.28-00.12.30:861][  0]LogInit: Using OS detected language (en-US).
+[2020.01.28-00.12.30:861][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.28-00.12.30:862][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.28-00.12.31:010][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.28-00.12.31:036][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.28-00.12.31:036][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.28-00.12.31:286][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.28-00.12.31:286][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.28-00.12.31:438][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.01.28-00.12.31:438][  0]LogD3D11RHI:       128/0/6092 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.01.28-00.12.31:441][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.28-00.12.31:441][  0]LogD3D11RHI:       0/0/6092 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.28-00.12.31:441][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.28-00.12.31:447][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.28-00.12.31:447][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.28-00.12.31:447][  0]LogWindows: EnumDisplayDevices:
+[2020.01.28-00.12.31:447][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.01.28-00.12.31:448][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.01.28-00.12.31:448][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.01.28-00.12.31:448][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.01.28-00.12.31:448][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2020.01.28-00.12.31:448][  0]LogD3D11RHI:   Driver Version: 26.20.100.7262 (internal:26.20.100.7262, unified:26.20.100.7262)
+[2020.01.28-00.12.31:448][  0]LogD3D11RHI:      Driver Date: 9-25-2019
+[2020.01.28-00.12.31:448][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2020.01.28-00.12.31:531][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.28-00.12.31:535][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.28-00.12.31:535][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.28-00.12.31:535][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.28-00.12.31:537][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.01.28-00.12.32:335][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.28-00.12.32:350][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.28-00.12.32:364][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.28-00.12.32:378][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.28-00.12.32:400][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.28-00.12.32:415][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.28-00.12.32:430][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.28-00.12.32:444][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.28-00.12.32:451][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.28-00.12.32:540][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.28-00.12.32:543][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.28-00.12.32:595][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.28-00.12.32:595][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.28-00.12.32:621][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.28-00.12.32:621][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.28-00.12.32:634][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.28-00.12.32:648][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.28-00.12.32:661][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.28-00.12.32:674][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.28-00.12.32:731][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.28-00.12.32:732][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.28-00.12.32:732][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.28-00.12.32:741][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.28-00.12.32:810][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Intermediate/Shaders/WorkingDirectory/11296/).
+[2020.01.28-00.12.32:811][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dewil/AppData/Local/Temp/UnrealShaderWorkingDir/115289494AE6F0B83A620EA9EF2DF776/'.
+[2020.01.28-00.12.32:813][  0]LogXGEController: Cleaning working directory: C:/Users/dewil/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.28-00.12.32:813][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.28-00.12.32:813][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.28-00.12.32:814][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.28-00.12.33:355][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.28-00.12.33:406][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/dewil/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.28-00.12.33:406][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dewil/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.28-00.12.33:407][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.28-00.12.33:407][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.28-00.12.33:407][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.28-00.12.33:407][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.28-00.12.33:419][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.28-00.12.33:419][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.28-00.12.33:419][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.28-00.12.33:431][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dewil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.28-00.12.33:431][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.28-00.12.33:431][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.28-00.12.33:452][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.28-00.12.33:453][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.28-00.12.33:454][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.28-00.12.33:556][  0]LogAssetRegistry: FAssetRegistry took 0.0338 seconds to start up
+[2020.01.28-00.12.33:932][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.28-00.12.34:067][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.28-00.12.34:067][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.28-00.12.34:067][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.28-00.12.34:067][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.28-00.12.34:067][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.28-00.12.34:084][  0]LogNetVersion: NovasJourney 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 477171736)
+[2020.01.28-00.12.34:534][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.085687 seconds
+[2020.01.28-00.12.34:542][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.28-00.12.34:542][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.28-00.12.34:542][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.28-00.12.35:523][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.28-00.12.35:536][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.28-00.12.35:654][  0]SourceControl: Source control is disabled
+[2020.01.28-00.12.35:654][  0]SourceControl: Source control is disabled
+[2020.01.28-00.12.35:656][  0]SourceControl: Source control is disabled
+[2020.01.28-00.12.35:657][  0]SourceControl: Source control is disabled
+[2020.01.28-00.12.35:748][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.28-00.12.35:818][  0]LogOcInput: OculusInput pre-init called
+[2020.01.28-00.12.41:759][  0]LogEngine: Initializing Engine...
+[2020.01.28-00.12.41:760][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.28-00.12.41:761][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.28-00.12.41:969][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.28-00.12.41:986][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.28-00.12.41:994][  0]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.28-00.12.43:674][  0]LogInit: FAudioDevice initialized.
+[2020.01.28-00.12.43:674][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.28-00.12.44:867][  0]LogDerivedDataCache: Saved boot cache 1.19s 71MB C:/Users/dewil/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.28-00.12.44:985][  0]LogInit: Texture streaming: Enabled
+[2020.01.28-00.12.45:009][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.28-00.12.45:036][  0]LogInit: Transaction tracking system initialized
+[2020.01.28-00.12.45:066][  0]BlueprintLog: New page: Editor Load
+[2020.01.28-00.12.45:160][  0]LocalizationService: Localization service is disabled
+[2020.01.28-00.12.45:487][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/' took 0.03s
+[2020.01.28-00.12.45:487][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.28-00.12.45:487][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.28-00.12.45:668][  0]SourceControl: Source control is disabled
+[2020.01.28-00.12.45:668][  0]Cmd: MAP LOAD FILE="../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/NovaTechConcept.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.28-00.12.45:669][  0]LightingResults: New page: Lighting Build
+[2020.01.28-00.12.45:672][  0]MapCheck: New page: Map Check
+[2020.01.28-00.12.45:672][  0]LightingResults: New page: Lighting Build
+[2020.01.28-00.12.45:696][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.01.28-00.12.46:641][  0]LogAIModule: Creating AISystem for world NovaTechConcept
+[2020.01.28-00.12.46:670][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.28-00.12.46:729][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.01.28-00.12.46:729][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.28-00.12.46:729][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.246ms to complete.
+[2020.01.28-00.12.46:729][  0]LogFileHelpers: Loading map 'NovaTechConcept' took 1.061
+[2020.01.28-00.12.46:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.28-00.12.46:834][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.28-00.12.46:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.28-00.12.46:846][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.28-00.12.46:853][  0]LogCollectionManager: Loaded 0 collections in 0.002394 seconds
+[2020.01.28-00.12.46:893][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Collections/' took 0.01s
+[2020.01.28-00.12.46:893][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Developers/dewil/Collections/' took 0.01s
+[2020.01.28-00.12.46:893][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Collections/' took 0.01s
+[2020.01.28-00.12.46:893][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.28-00.12.46:900][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2735 classes and 661 folders.
+[2020.01.28-00.12.46:907][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.28-00.12.46:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.28-00.12.46:971][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.28-00.12.46:979][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.01.28-00.12.46:994][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.28-00.12.46:996][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.28-00.12.47:002][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.28-00.12.47:067][  0]LogRenderer: Reallocating scene render targets to support 828x460 Format 10 NumSamples 1 (Frame:1).
+[2020.01.28-00.12.47:269][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.28-00.12.47:269][  0]LogLoad: (Engine Initialization) Total time: 22.66 seconds
+[2020.01.28-00.12.47:269][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.28-00.12.47:360][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.28-00.12.47:387][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.28-00.12.48:153][  7]LogAssetRegistry: Asset discovery search completed in 14.6188 seconds
+[2020.01.28-00.12.48:157][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.01.28-00.12.48:157][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000421 seconds (updated 0 objects)
+[2020.01.28-00.12.48:797][  9]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.28-00.12.52:476][ 20]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/' took 5.17s
+[2020.01.28-00.13.17:689][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-00.14.10:244][559]AssetReimport: New page: Outstanding source content changes 2:14:10 PM
+[2020.01.28-00.14.10:392][559]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_rampShader2_OcclusionRoughnessMetallic.png)
+[2020.01.28-00.14.10:448][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.01.28-00.14.10:471][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.28-00.14.10:489][560]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_rampShader2_Normal.png)
+[2020.01.28-00.14.10:513][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.01.28-00.14.10:536][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.01.28-00.14.10:553][561]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_rampShader2_BaseColor.png)
+[2020.01.28-00.14.10:576][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.01.28-00.14.10:600][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.01.28-00.14.10:619][562]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_phongE2_OcclusionRoughnessMetallic.png)
+[2020.01.28-00.14.10:643][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.01.28-00.14.10:666][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.28-00.14.10:681][563]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_phongE2_Normal.png)
+[2020.01.28-00.14.10:705][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.28-00.14.10:728][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.01.28-00.14.10:746][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_phongE2_BaseColor.png)
+[2020.01.28-00.14.10:770][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.28-00.14.10:793][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.01.28-00.14.10:801][565]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_phong2_OcclusionRoughnessMetallic.png)
+[2020.01.28-00.14.10:828][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.01.28-00.14.10:851][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.01.28-00.14.10:863][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_phong2_Normal.png)
+[2020.01.28-00.14.10:886][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.28-00.14.10:909][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.01.28-00.14.10:916][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_phong2_BaseColor.png)
+[2020.01.28-00.14.10:941][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.28-00.14.10:963][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.01.28-00.14.10:969][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_lambert15_OcclusionRoughnessMetallic.png)
+[2020.01.28-00.14.10:996][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.28-00.14.11:017][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.01.28-00.14.11:023][569]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_lambert15_Normal.png)
+[2020.01.28-00.14.11:052][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.28-00.14.11:075][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.01.28-00.14.11:080][570]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_lambert15_BaseColor.png)
+[2020.01.28-00.14.11:106][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.01.28-00.14.11:128][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.01.28-00.14.11:133][571]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_blinn2_OcclusionRoughnessMetallic.png)
+[2020.01.28-00.14.11:158][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.28-00.14.11:180][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.01.28-00.14.11:186][572]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_blinn2_Normal.png)
+[2020.01.28-00.14.11:214][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.28-00.14.11:235][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.01.28-00.14.11:243][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_blinn2_BaseColor.png)
+[2020.01.28-00.14.11:273][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.01.28-00.14.11:295][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.01.28-00.14.14:325][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_rampShader2_OcclusionRoughnessMetallic.
+[2020.01.28-00.14.14:325][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_rampShader2_OcclusionRoughnessMetallic.png.
+[2020.01.28-00.14.14:325][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_rampShader2_Normal.
+[2020.01.28-00.14.14:325][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_rampShader2_Normal.png.
+[2020.01.28-00.14.14:325][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_rampShader2_BaseColor.
+[2020.01.28-00.14.14:325][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_rampShader2_BaseColor.png.
+[2020.01.28-00.14.14:325][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_phongE2_OcclusionRoughnessMetallic.
+[2020.01.28-00.14.14:325][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_phongE2_OcclusionRoughnessMetallic.png.
+[2020.01.28-00.14.14:325][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_phongE2_Normal.
+[2020.01.28-00.14.14:325][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_phongE2_Normal.png.
+[2020.01.28-00.14.14:325][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_phongE2_BaseColor.
+[2020.01.28-00.14.14:325][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_phongE2_BaseColor.png.
+[2020.01.28-00.14.14:325][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_phong2_OcclusionRoughnessMetallic.
+[2020.01.28-00.14.14:325][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_phong2_OcclusionRoughnessMetallic.png.
+[2020.01.28-00.14.14:325][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_phong2_Normal.
+[2020.01.28-00.14.14:325][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_phong2_Normal.png.
+[2020.01.28-00.14.14:325][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_phong2_BaseColor.
+[2020.01.28-00.14.14:325][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_phong2_BaseColor.png.
+[2020.01.28-00.14.14:325][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_lambert15_OcclusionRoughnessMetallic.
+[2020.01.28-00.14.14:325][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_lambert15_OcclusionRoughnessMetallic.png.
+[2020.01.28-00.14.14:325][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_lambert15_Normal.
+[2020.01.28-00.14.14:325][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_lambert15_Normal.png.
+[2020.01.28-00.14.14:326][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_lambert15_BaseColor.
+[2020.01.28-00.14.14:326][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_lambert15_BaseColor.png.
+[2020.01.28-00.14.14:326][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_blinn2_OcclusionRoughnessMetallic.
+[2020.01.28-00.14.14:326][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_blinn2_OcclusionRoughnessMetallic.png.
+[2020.01.28-00.14.14:326][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_blinn2_Normal.
+[2020.01.28-00.14.14:326][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_blinn2_Normal.png.
+[2020.01.28-00.14.14:326][640]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/__Nova_Low_blinn2_BaseColor.
+[2020.01.28-00.14.14:326][640]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/._Nova_Low_blinn2_BaseColor.png.
+[2020.01.28-00.15.23:450][277]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/Character/Nova2.Nova2
+[2020.01.28-00.15.23:879][277]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.01.28-00.15.24:703][277]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.28-00.15.25:202][278]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.28-00.15.26:474][344]LogRenderer: Reallocating scene render targets to support 844x572 Format 10 NumSamples 1 (Frame:1).
+[2020.01.28-00.15.55:849][874]LogTexture: Display: Building textures: Nova_Low_blinn2_BaseColor (AutoDXT, 2048X2048)
+[2020.01.28-00.15.55:849][874]LogTexture: Display: Building textures: Nova_Low_blinn2_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-00.15.55:849][874]LogTexture: Display: Building textures: Nova_Low_blinn2_Normal (BC5, 2048X2048)
+[2020.01.28-00.15.55:849][874]LogMaterial: Display: Missing cached shader map for material Nova_Low_blinn2, compiling. 
+[2020.01.28-00.15.56:138][874]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.28-00.15.56:138][874]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.28-00.15.56:138][874]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.28-00.15.56:138][874]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.28-00.16.03:788][967]LogTexture: Display: Building textures: Nova_Low_lambert15_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-00.16.03:788][967]LogTexture: Display: Building textures: Nova_Low_lambert15_BaseColor (AutoDXT, 2048X2048)
+[2020.01.28-00.16.03:788][967]LogTexture: Display: Building textures: Nova_Low_lambert15_Normal (BC5, 2048X2048)
+[2020.01.28-00.16.03:788][967]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.16.03:788][967]LogMaterial: Display: Missing cached shader map for material Nova_Low_lambert15, compiling. 
+[2020.01.28-00.16.04:294][973]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.01.28-00.16.04:837][979]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.28-00.16.11:052][ 31]LogTexture: Display: Building textures: Nova_Low_phong2_BaseColor (AutoDXT, 2048X2048)
+[2020.01.28-00.16.11:052][ 31]LogTexture: Display: Building textures: Nova_Low_phong2_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-00.16.11:052][ 31]LogTexture: Display: Building textures: Nova_Low_phong2_Normal (BC5, 2048X2048)
+[2020.01.28-00.16.11:052][ 31]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.28-00.16.11:052][ 31]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.28-00.16.11:052][ 31]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.28-00.16.11:052][ 31]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.16.11:052][ 31]LogMaterial: Display: Missing cached shader map for material Nova_Low_phong2, compiling. 
+[2020.01.28-00.16.12:770][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.16.16:347][115]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.01.28-00.16.18:967][115]LogTexture: Display: Building textures: Nova_Low_phongE2_BaseColor (AutoDXT, 2048X2048)
+[2020.01.28-00.16.18:967][115]LogTexture: Display: Building textures: Nova_Low_phongE2_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-00.16.18:967][115]LogTexture: Display: Building textures: Nova_Low_phongE2_Normal (BC5, 2048X2048)
+[2020.01.28-00.16.18:967][115]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.28-00.16.18:967][115]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.28-00.16.18:967][115]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.28-00.16.18:967][115]LogMaterial: Display: Missing cached shader map for material Nova_Low_phongE2, compiling. 
+[2020.01.28-00.16.22:544][172]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.16.23:896][208]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.01.28-00.16.24:469][220]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.01.28-00.16.24:880][228]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.01.28-00.16.27:529][257]LogTexture: Display: Building textures: Nova_Low_rampShader2_BaseColor (AutoDXT, 2048X2048)
+[2020.01.28-00.16.27:529][257]LogTexture: Display: Building textures: Nova_Low_rampShader2_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-00.16.27:529][257]LogTexture: Display: Building textures: Nova_Low_rampShader2_Normal (BC5, 2048X2048)
+[2020.01.28-00.16.27:529][257]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.28-00.16.27:529][257]LogMaterial: Display: Missing cached shader map for material Nova_Low_ramShader2, compiling. 
+[2020.01.28-00.16.31:856][362]LogShaderCompilers: Display: Shaders left to compile 110
+[2020.01.28-00.16.33:817][417]LogShaderCompilers: Display: Shaders left to compile 100
+[2020.01.28-00.16.34:268][432]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.01.28-00.16.35:002][453]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.01.28-00.16.43:362][694]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.01.28-00.16.44:212][721]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.28-00.16.46:064][779]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.28-00.16.47:333][803]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.28-00.16.50:071][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.16.51:975][865]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.28-00.16.53:888][911]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.16.55:180][931]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-00.17.07:925][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.17.17:287][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.17.27:787][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.17.34:808][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.17.38:623][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.17.42:101][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.17.49:081][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.17.51:191][147]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Wood_Walnut.M_Wood_Walnut needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.28-00.17.51:204][147]LogMaterial: Display: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2020.01.28-00.17.54:453][183]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.18.09:819][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-00.21.31:753][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.21.42:745][436]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.21.51:076][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.21.55:234][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.22.02:486][858]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.22.07:823][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.22.12:672][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.22.17:444][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.22.23:444][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.22.38:080][760]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.22.40:945][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.23.04:286][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-00.23.13:208][752]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2020.01.28-00.23.13:208][752]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Levels/Maps/NovaTechConcept' took 0.082
+[2020.01.28-00.23.13:210][752]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/Actors/Character/Nova2] ([1] browsable assets)...
+[2020.01.28-00.23.13:353][752]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Content/Actors/Character/Nova2.Nova2]
+[2020.01.28-00.23.13:353][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Actors/Character/Nova2]
+[2020.01.28-00.23.14:107][752]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova2_Auto1177C3B8945E721119324DA9A3BFE9D8C.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Content/Actors/Character/Nova2_Auto1.uasset'
+[2020.01.28-00.23.14:109][752]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Wood_Walnut] ([1] browsable assets)...
+[2020.01.28-00.23.14:142][752]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Wood_Walnut.M_Wood_Walnut]
+[2020.01.28-00.23.14:142][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Wood_Walnut]
+[2020.01.28-00.23.14:243][752]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/M_Wood_Walnut_Auto12AB666B54997AAF5DF76349C7D1089A8.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Walnut_Auto1.uasset'
+[2020.01.28-00.23.14:245][752]LogFileHelpers: Auto-saving content packages took 1.036
+[2020.01.28-00.23.20:184][873]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.01.28-00.23.22:863][873]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.28-00.23.22:946][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.01.28-00.23.22:985][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.01.28-00.23.23:019][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.28-00.23.33:050][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.01.28-00.23.39:011][129]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.28-00.23.39:243][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.01.28-00.23.39:283][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.01.28-00.23.39:315][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.01.28-00.23.39:351][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.01.28-00.23.39:384][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.01.28-00.23.39:417][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.01.28-00.23.39:448][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.01.28-00.23.39:485][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.01.28-00.23.39:519][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.01.28-00.23.39:551][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.01.28-00.23.39:583][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.01.28-00.23.39:618][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.01.28-00.23.39:652][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.01.28-00.23.39:692][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.01.28-00.23.39:722][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.01.28-00.23.39:752][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.01.28-00.23.39:786][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.01.28-00.23.39:820][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.01.28-00.23.39:852][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.01.28-00.23.39:883][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.01.28-00.23.39:914][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.01.28-00.24.02:165][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_blinn2_BaseColor.png)
+[2020.01.28-00.24.02:165][367]Error: Texture import failed
+[2020.01.28-00.24.04:382][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.04:388][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_blinn2_BaseColor.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_blinn2_BaseColor'.
+Please see Output Log for details.
+[2020.01.28-00.24.04:392][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_blinn2_Normal.png)
+[2020.01.28-00.24.04:392][367]Error: Texture import failed
+[2020.01.28-00.24.06:585][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.06:593][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_blinn2_Normal.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_blinn2_Normal'.
+Please see Output Log for details.
+[2020.01.28-00.24.06:597][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_blinn2_OcclusionRoughnessMetallic.png)
+[2020.01.28-00.24.06:598][367]Error: Texture import failed
+[2020.01.28-00.24.07:562][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.07:569][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_blinn2_OcclusionRoughnessMetallic.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_blinn2_OcclusionRoughnessMetallic'.
+Please see Output Log for details.
+[2020.01.28-00.24.07:572][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_lambert15_BaseColor.png)
+[2020.01.28-00.24.07:572][367]Error: Texture import failed
+[2020.01.28-00.24.08:104][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.08:108][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_lambert15_BaseColor.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_lambert15_BaseColor'.
+Please see Output Log for details.
+[2020.01.28-00.24.08:110][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_lambert15_Normal.png)
+[2020.01.28-00.24.08:110][367]Error: Texture import failed
+[2020.01.28-00.24.08:608][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.08:612][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_lambert15_Normal.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_lambert15_Normal'.
+Please see Output Log for details.
+[2020.01.28-00.24.08:614][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_lambert15_OcclusionRoughnessMetallic.png)
+[2020.01.28-00.24.08:615][367]Error: Texture import failed
+[2020.01.28-00.24.08:951][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.08:955][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_lambert15_OcclusionRoughnessMetallic.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_lambert15_OcclusionRoughnessMetallic'.
+Please see Output Log for details.
+[2020.01.28-00.24.08:959][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_phong2_BaseColor.png)
+[2020.01.28-00.24.08:959][367]Error: Texture import failed
+[2020.01.28-00.24.09:204][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.09:207][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_phong2_BaseColor.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_phong2_BaseColor'.
+Please see Output Log for details.
+[2020.01.28-00.24.09:209][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_phong2_Normal.png)
+[2020.01.28-00.24.09:209][367]Error: Texture import failed
+[2020.01.28-00.24.09:447][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.09:451][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_phong2_Normal.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_phong2_Normal'.
+Please see Output Log for details.
+[2020.01.28-00.24.09:453][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_phong2_OcclusionRoughnessMetallic.png)
+[2020.01.28-00.24.09:454][367]Error: Texture import failed
+[2020.01.28-00.24.09:763][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.09:771][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_phong2_OcclusionRoughnessMetallic.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_phong2_OcclusionRoughnessMetallic'.
+Please see Output Log for details.
+[2020.01.28-00.24.09:773][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_phongE2_BaseColor.png)
+[2020.01.28-00.24.09:773][367]Error: Texture import failed
+[2020.01.28-00.24.10:257][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.10:263][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_phongE2_BaseColor.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_phongE2_BaseColor'.
+Please see Output Log for details.
+[2020.01.28-00.24.10:267][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_phongE2_Normal.png)
+[2020.01.28-00.24.10:268][367]Error: Texture import failed
+[2020.01.28-00.24.10:764][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.10:768][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_phongE2_Normal.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_phongE2_Normal'.
+Please see Output Log for details.
+[2020.01.28-00.24.10:771][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_phongE2_OcclusionRoughnessMetallic.png)
+[2020.01.28-00.24.10:771][367]Error: Texture import failed
+[2020.01.28-00.24.10:975][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.10:979][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_phongE2_OcclusionRoughnessMetallic.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_phongE2_OcclusionRoughnessMetallic'.
+Please see Output Log for details.
+[2020.01.28-00.24.10:983][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_rampShader2_BaseColor.png)
+[2020.01.28-00.24.10:983][367]Error: Texture import failed
+[2020.01.28-00.24.11:172][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.11:176][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_rampShader2_BaseColor.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_rampShader2_BaseColor'.
+Please see Output Log for details.
+[2020.01.28-00.24.11:179][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_rampShader2_Normal.png)
+[2020.01.28-00.24.11:179][367]Error: Texture import failed
+[2020.01.28-00.24.11:346][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.11:350][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_rampShader2_Normal.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_rampShader2_Normal'.
+Please see Output Log for details.
+[2020.01.28-00.24.11:353][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_rampShader2_OcclusionRoughnessMetallic.png)
+[2020.01.28-00.24.11:353][367]Error: Texture import failed
+[2020.01.28-00.24.11:533][367]LogSlate: Window 'Message' being destroyed
+[2020.01.28-00.24.11:539][367]LogAssetTools: Warning: Failed to import '../../../../../../Users/dewil/Downloads/__MACOSX/Nova Textured/._Nova_Low_rampShader2_OcclusionRoughnessMetallic.png'. Failed to create asset '/Game/Models_And_Textures/Nova_Textured/__Nova_Low_rampShader2_OcclusionRoughnessMetallic'.
+Please see Output Log for details.
+[2020.01.28-00.24.11:896][371]Cmd: EDCALLBACK SURFPROPS
+[2020.01.28-00.24.12:705][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-00.27.53:845][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.27.57:054][362]AssetReimport: New page: Outstanding source content changes 2:27:57 PM
+[2020.01.28-00.27.57:058][362]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (15).png)
+[2020.01.28-00.27.57:102][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.01.28-00.27.57:145][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.01.28-00.27.57:159][363]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (14).png)
+[2020.01.28-00.27.57:205][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.01.28-00.27.57:243][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.01.28-00.27.57:254][364]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (13).png)
+[2020.01.28-00.27.57:295][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.01.28-00.27.57:333][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.01.28-00.27.57:344][365]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (12).png)
+[2020.01.28-00.27.57:385][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.01.28-00.27.57:419][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.01.28-00.27.57:442][366]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (11).png)
+[2020.01.28-00.27.57:482][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.01.28-00.27.57:522][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.01.28-00.27.57:541][367]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (10).png)
+[2020.01.28-00.27.57:578][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.01.28-00.27.57:613][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.01.28-00.27.57:630][368]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (9).png)
+[2020.01.28-00.27.57:666][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.01.28-00.27.57:705][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.01.28-00.27.57:713][369]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (8).png)
+[2020.01.28-00.27.57:750][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.01.28-00.27.57:784][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.01.28-00.27.57:805][370]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (7).png)
+[2020.01.28-00.27.57:842][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.01.28-00.27.57:872][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.01.28-00.27.57:888][371]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (6).png)
+[2020.01.28-00.27.57:928][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.01.28-00.27.57:962][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.01.28-00.27.57:972][372]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (5).png)
+[2020.01.28-00.27.58:016][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.01.28-00.27.58:052][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.01.28-00.27.58:068][373]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (4).png)
+[2020.01.28-00.27.58:110][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.01.28-00.27.58:145][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.01.28-00.27.58:171][374]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (3).png)
+[2020.01.28-00.27.58:286][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.28-00.27.58:329][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.01.28-00.27.58:361][375]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (2).png)
+[2020.01.28-00.27.58:424][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.01.28-00.27.58:477][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.01.28-00.27.58:515][376]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (1).png)
+[2020.01.28-00.27.58:569][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.01.28-00.27.58:622][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.01.28-00.28.01:701][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__15_.
+[2020.01.28-00.28.01:702][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (15).png.
+[2020.01.28-00.28.01:702][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__14_.
+[2020.01.28-00.28.01:702][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (14).png.
+[2020.01.28-00.28.01:702][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__13_.
+[2020.01.28-00.28.01:702][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (13).png.
+[2020.01.28-00.28.01:702][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__12_.
+[2020.01.28-00.28.01:702][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (12).png.
+[2020.01.28-00.28.01:702][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__11_.
+[2020.01.28-00.28.01:702][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (11).png.
+[2020.01.28-00.28.01:702][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__10_.
+[2020.01.28-00.28.01:702][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (10).png.
+[2020.01.28-00.28.01:702][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__9_.
+[2020.01.28-00.28.01:702][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (9).png.
+[2020.01.28-00.28.01:702][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__8_.
+[2020.01.28-00.28.01:702][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (8).png.
+[2020.01.28-00.28.01:703][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__7_.
+[2020.01.28-00.28.01:703][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (7).png.
+[2020.01.28-00.28.01:703][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__6_.
+[2020.01.28-00.28.01:703][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (6).png.
+[2020.01.28-00.28.01:703][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__5_.
+[2020.01.28-00.28.01:703][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (5).png.
+[2020.01.28-00.28.01:703][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__4_.
+[2020.01.28-00.28.01:703][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (4).png.
+[2020.01.28-00.28.01:703][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__3_.
+[2020.01.28-00.28.01:703][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (3).png.
+[2020.01.28-00.28.01:703][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__2_.
+[2020.01.28-00.28.01:703][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (2).png.
+[2020.01.28-00.28.01:703][403]AssetReimport: Importing new asset /Game/Models_And_Textures/Nova_Textured/NovaTexture__1_.
+[2020.01.28-00.28.01:703][403]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Models_And_Textures/Nova Textured/NovaTexture (1).png.
+[2020.01.28-00.32.38:848][642]AssetReimport: New page: Outstanding source content changes 2:32:38 PM
+[2020.01.28-00.32.38:868][643]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novalowpolyexport_phongE2_OcclusionRoughnessMetallic.png)
+[2020.01.28-00.32.39:948][644]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novalowpolyexport_phongE2_Normal.png)
+[2020.01.28-00.32.40:515][645]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novalowpolyexport_lambert15_Normal.png)
+[2020.01.28-00.32.41:083][646]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novalowpolyexport_lambert15_BaseColor.png)
+[2020.01.28-00.32.41:982][647]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novalowpolyexport_phong2_BaseColor.png)
+[2020.01.28-00.32.42:991][648]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novalowpolyexport_blinn2_Normal.png)
+[2020.01.28-00.32.43:454][649]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novalowpolyexport_phong2_Normal.png)
+[2020.01.28-00.32.43:939][650]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novalowpolyexport_rampShader2_Normal.png)
+[2020.01.28-00.32.44:368][651]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novalowpolyexport_phongE2_BaseColor.png)
+[2020.01.28-00.32.45:176][652]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novalowpolyexport_lambert15_OcclusionRoughnessMetallic.png)
+[2020.01.28-00.32.45:770][653]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novalowpolyexport_phong2_OcclusionRoughnessMetallic.png)
+[2020.01.28-00.32.46:524][654]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novalowpolyexport_rampShader2_BaseColor.png)
+[2020.01.28-00.32.47:008][655]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novatexture_lowpoly.json)
+[2020.01.28-00.32.48:990][655]LogSlate: Window 'DataTable Options' being destroyed
+[2020.01.28-00.32.49:061][655]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.01.28-00.32.49:096][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.01.28-00.32.49:482][656]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_phongE2_OcclusA4E88A9146A39B45BFD910B531A337EE.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_phongE2_OcclusionRoughnessMetallic.uasset'
+[2020.01.28-00.32.50:129][656]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_phongE2_NormalF8F105C9428053E45789E9A915CFAAFF.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_phongE2_Normal.uasset'
+[2020.01.28-00.32.50:864][656]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_lambert15_NormC6F072634F338881F32D589995A68C4F.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_lambert15_Normal.uasset'
+[2020.01.28-00.32.51:230][656]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_lambert15_Base3B6D99694D71365284F8A69C15DC1686.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_lambert15_BaseColor.uasset'
+[2020.01.28-00.32.51:631][656]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_phong2_BaseCol161F17E342A1C79CF52AA7B5F0DE4BE4.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_phong2_BaseColor.uasset'
+[2020.01.28-00.32.52:267][656]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_blinn2_Normal4266720B4227D659EB950BB9B4768B22.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_blinn2_Normal.uasset'
+[2020.01.28-00.32.52:875][656]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_phong2_NormalC9CF58E4416D9A4EF0A9BD9F9EE5D5E7.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_phong2_Normal.uasset'
+[2020.01.28-00.32.53:464][656]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_rampShader2_NoB5ABA03D496488D4D895DCB5A4BB32DA.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_rampShader2_Normal.uasset'
+[2020.01.28-00.32.53:872][656]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_phongE2_BaseCo4FA49ECF4636CF26487DEE92204BCE60.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_phongE2_BaseColor.uasset'
+[2020.01.28-00.32.54:205][656]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_lambert15_Occl4CC30D3C48A815B9512987BE67F1532D.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_lambert15_OcclusionRoughnessMetallic.uasset'
+[2020.01.28-00.32.54:614][656]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_phong2_Occlusi815D8B434DC6CBD0C27BEB88719F48AD.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_phong2_OcclusionRoughnessMetallic.uasset'
+[2020.01.28-00.32.54:831][656]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_rampShader2_Ba33676C75485EA74C01AC468999C886B6.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_rampShader2_BaseColor.uasset'
+[2020.01.28-00.32.57:850][708]AssetReimport: Importing new asset /Game/Nova_Textures_Final/novalowpolyexport_phongE2_OcclusionRoughnessMetallic.
+[2020.01.28-00.32.57:850][708]AssetReimport: Importing new asset /Game/Nova_Textures_Final/novalowpolyexport_phongE2_Normal.
+[2020.01.28-00.32.57:850][708]AssetReimport: Importing new asset /Game/Nova_Textures_Final/novalowpolyexport_lambert15_Normal.
+[2020.01.28-00.32.57:850][708]AssetReimport: Importing new asset /Game/Nova_Textures_Final/novalowpolyexport_lambert15_BaseColor.
+[2020.01.28-00.32.57:850][708]AssetReimport: Importing new asset /Game/Nova_Textures_Final/novalowpolyexport_phong2_BaseColor.
+[2020.01.28-00.32.57:850][708]AssetReimport: Importing new asset /Game/Nova_Textures_Final/novalowpolyexport_blinn2_Normal.
+[2020.01.28-00.32.57:850][708]AssetReimport: Importing new asset /Game/Nova_Textures_Final/novalowpolyexport_phong2_Normal.
+[2020.01.28-00.32.57:850][708]AssetReimport: Importing new asset /Game/Nova_Textures_Final/novalowpolyexport_rampShader2_Normal.
+[2020.01.28-00.32.57:850][708]AssetReimport: Importing new asset /Game/Nova_Textures_Final/novalowpolyexport_phongE2_BaseColor.
+[2020.01.28-00.32.57:850][708]AssetReimport: Importing new asset /Game/Nova_Textures_Final/novalowpolyexport_lambert15_OcclusionRoughnessMetallic.
+[2020.01.28-00.32.57:850][708]AssetReimport: Importing new asset /Game/Nova_Textures_Final/novalowpolyexport_phong2_OcclusionRoughnessMetallic.
+[2020.01.28-00.32.57:850][708]AssetReimport: Importing new asset /Game/Nova_Textures_Final/novalowpolyexport_rampShader2_BaseColor.
+[2020.01.28-00.32.57:850][708]AssetReimport: Importing new asset /Game/Nova_Textures_Final/novatexture_lowpoly.
+[2020.01.28-00.32.57:850][708]AssetReimport: Failed to import file C:/Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova Textures Final/novatexture_lowpoly.json.
+[2020.01.28-00.33.16:384][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.33.45:778][858]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-00.34.13:690][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-00.34.43:036][457]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Nova_Textures_Final/novalowpolyexport_lambert15_OcclusionRoughnessMetallic.novalowpolyexport_lambert15_OcclusionRoughnessMetallic
+[2020.01.28-00.34.43:187][457]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2020.01.28-00.34.43:187][457]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2020.01.28-00.34.46:718][539]LogSlate: Window 'novalowpolyexport_lambert15_OcclusionRoughnessMetallic' being destroyed
+[2020.01.28-00.34.50:982][784]LogTexture: Display: Building textures: novalowpolyexport_lambert15_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-00.34.55:037][982]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_lambert15_OcclC1B2DAC74D31643B61A394BEB4E374B8.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_lambert15_OcclusionRoughnessMetallic.uasset'
+[2020.01.28-00.34.57:456][ 70]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Nova_Textures_Final/novalowpolyexport_phong2_OcclusionRoughnessMetallic.novalowpolyexport_phong2_OcclusionRoughnessMetallic
+[2020.01.28-00.34.59:065][152]LogTexture: Display: Building textures: novalowpolyexport_phong2_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-00.35.00:730][202]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_phong2_Occlusi4A2788354098371003704B92107A525E.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_phong2_OcclusionRoughnessMetallic.uasset'
+[2020.01.28-00.35.02:274][258]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Nova_Textures_Final/novalowpolyexport_phongE2_OcclusionRoughnessMetallic.novalowpolyexport_phongE2_OcclusionRoughnessMetallic
+[2020.01.28-00.35.03:961][343]LogTexture: Display: Building textures: novalowpolyexport_phongE2_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.28-00.35.06:397][443]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_phongE2_Occlus4D14C1C34675DF7E181D3DA89AD4DD28.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_phongE2_OcclusionRoughnessMetallic.uasset'
+[2020.01.28-00.35.32:978][173]LogAssetEditorManager: Opening Asset editor for Material /Game/Nova_Textures_Final/Blend.Blend
+[2020.01.28-00.35.33:111][173]LogMaterial: Display: Missing cached shader map for material Blend, compiling. 
+[2020.01.28-00.35.34:098][173]LogMaterial: Display: Missing cached shader map for material Blend, compiling. 
+[2020.01.28-00.35.34:174][173]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.35.34:177][173]LogMaterial: Display: Missing cached shader map for material Blend, compiling. 
+[2020.01.28-00.35.35:828][213]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.35.38:484][308]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-00.35.45:342][478]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-00.35.45:342][478]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-00.35.45:342][478]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-00.35.45:342][478]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-00.36.11:399][106]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_phong2_Normal33BE37B8444F17B404B5F9800D02E61F.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_phong2_Normal.uasset'
+[2020.01.28-00.36.11:539][106]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_phong2_BaseCol7012B6734A03FDC4A8B8DE90DF46FF18.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_phong2_BaseColor.uasset'
+[2020.01.28-00.36.11:634][106]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/novalowpolyexport_phong2_OcclusiAAE9F0374BE589AF65FB9EA416149F86.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/novalowpolyexport_phong2_OcclusionRoughnessMetallic.uasset'
+[2020.01.28-00.36.12:405][106]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.01.28-00.37.42:006][100]LogMaterial: Display: Missing cached shader map for material Blend, compiling. 
+[2020.01.28-00.37.42:045][100]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.37.42:045][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-00.37.42:086][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-00.37.42:110][100]LogMaterial: Display: Missing cached shader map for material Blend, compiling. 
+[2020.01.28-00.37.42:134][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-00.37.42:175][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-00.37.42:184][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-00.37.42:211][100]LogMaterial: Display: Missing cached shader map for material Blend, compiling. 
+[2020.01.28-00.37.42:245][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-00.37.42:301][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-00.37.42:315][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-00.37.42:329][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-00.37.44:913][136]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.37.49:386][196]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-00.37.51:781][243]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-00.37.51:781][243]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-00.37.51:781][243]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-00.37.51:782][243]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-00.38.11:235][580]LogMaterial: Display: Missing cached shader map for material Blend, compiling. 
+[2020.01.28-00.38.11:267][580]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.38.11:267][580]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-00.38.14:539][627]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-00.38.20:221][747]LogMaterial: Display: Missing cached shader map for material Blend, compiling. 
+[2020.01.28-00.38.20:256][747]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.38.20:395][747]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-00.38.23:391][784]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-00.38.27:575][855]LogMaterial: Display: Missing cached shader map for material Blend, compiling. 
+[2020.01.28-00.38.27:621][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-00.38.28:609][865]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.38.31:623][909]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-00.38.32:815][940]LogMaterial: Display: Missing cached shader map for material Blend, compiling. 
+[2020.01.28-00.38.32:869][940]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-00.38.34:205][957]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.38.37:061][ 14]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-00.38.37:800][ 34]LogMaterial: Display: Missing cached shader map for material Blend, compiling. 
+[2020.01.28-00.38.37:838][ 34]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-00.38.39:242][ 51]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.38.42:537][ 91]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-00.38.46:243][177]LogSlate: Window 'Blend' being destroyed
+[2020.01.28-00.38.47:059][201]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.01.28-00.38.47:059][201]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.01.28-00.38.47:059][201]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-00.38.47:060][201]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.28-00.38.47:060][201]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.28-00.38.47:060][201]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-00.38.52:962][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nova_Textures_Final/Blend1" FILE="../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/Blend1.uasset" SILENT=true
+[2020.01.28-00.38.52:997][331]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Blend1DE33121147AEFBC9C48E40ACE6718ABB.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/Blend1.uasset'
+[2020.01.28-00.38.53:244][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.01.28-00.38.53:294][331]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.01.28-00.38.53:333][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.01.28-00.38.56:151][420]LogMaterialEditor: Saving and Compiling material Blend1
+[2020.01.28-00.38.56:827][420]LogMaterial: Display: Missing cached shader map for material Blend, compiling. 
+[2020.01.28-00.38.56:883][420]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.38.57:050][420]LogMaterial: Display: Missing cached shader map for material Blend1, compiling. 
+[2020.01.28-00.38.57:092][420]LogMaterial: Display: Missing cached shader map for material Blend1, compiling. 
+[2020.01.28-00.38.57:169][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.01.28-00.38.57:213][420]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.28-00.38.59:297][420]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.28-00.38.59:297][420]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.28-00.38.59:301][420]TextureStreamingBuild: Display: Compiling optional shaders took 2.113 seconds.
+[2020.01.28-00.38.59:530][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.01.28-00.39.02:804][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nova_Textures_Final/Blend1" FILE="../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/Blend1.uasset" SILENT=true
+[2020.01.28-00.39.02:863][420]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/Blend1DF91F1A942C0CC3FB583FDB54F017905.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/Blend1.uasset'
+[2020.01.28-00.39.25:962][982]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/NovaBlend25B7205904E72152E5B4B479DA26CD5D0.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/NovaBlend2.uasset'
+[2020.01.28-00.39.26:226][982]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2020.01.28-00.39.26:279][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.01.28-00.39.26:328][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.01.28-00.39.31:206][ 71]LogSavePackage: Moving '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Saved/NovaBlend1A3AE0AB148106EF8E938809AB25157D0.tmp' to '../../../../../../Users/dewil/Documents/GitHub/NovasJourney/NovasJourney/Content/Nova_Textures_Final/NovaBlend1.uasset'
+[2020.01.28-00.39.31:472][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.01.28-00.39.31:528][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2020.01.28-00.39.31:569][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.01.28-00.39.34:140][116]LogAssetEditorManager: Opening Asset editor for Material /Game/Nova_Textures_Final/NovaBlend2.NovaBlend2
+[2020.01.28-00.39.34:147][116]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.39.34:369][116]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.39.34:403][116]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.39.34:449][116]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.39.37:058][203]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-00.39.41:735][392]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-00.39.41:735][392]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-00.39.41:735][392]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-00.39.41:735][392]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-00.39.59:337][681]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.39.59:367][681]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.39.59:367][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-00.39.59:413][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-00.39.59:443][681]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.39.59:482][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-00.39.59:564][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-00.39.59:577][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-00.39.59:613][681]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.39.59:664][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-00.39.59:710][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-00.39.59:726][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-00.39.59:741][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-00.40.01:807][715]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.40.06:545][774]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-00.40.10:589][850]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-00.40.10:589][850]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-00.40.10:589][850]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-00.40.10:589][850]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-00.40.27:248][186]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.40.27:276][186]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.40.27:281][186]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.28-00.40.30:787][244]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-00.40.35:588][350]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.40.35:635][350]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.40.35:635][350]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.28-00.40.39:443][430]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-00.40.40:251][453]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.40.40:289][453]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-00.40.42:081][480]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.40.42:890][500]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.40.43:046][500]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.40.43:046][500]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-00.40.43:996][513]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.40.45:418][544]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.40.45:463][544]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.28-00.40.46:821][561]LogMaterialEditor: Saving and Compiling material NovaBlend2
+[2020.01.28-00.40.47:895][561]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-00.40.47:929][561]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.40.48:073][561]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.40.48:137][561]LogMaterial: Display: Missing cached shader map for material NovaBlend2, compiling. 
+[2020.01.28-00.40.48:289][561]LogUObjectHash: Compacting FUObjectHashTables data took  19.04ms
+[2020.01.28-00.40.48:315][561]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.28-00.40.51:185][561]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.28-00.40.51:185][561]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.28-00.40.51:187][561]TextureStreamingBuild: Display: Compiling optional shaders took 2.897 seconds.
+[2020.01.28-00.40.51:268][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.01.28-00.40.54:744][561]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.28-00.40.57:423][561]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.678 s
+[2020.01.28-00.40.57:423][561]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.28-00.40.57:423][561]LogOutputDevice: Error: 
+[2020.01.28-00.40.57:423][561]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2020.01.28-00.40.57:423][561]LogOutputDevice: Error: Found circular redirect from /Game/Nova_Textures_Final/novalowpolyexport_phong2_BaseColor.novalowpolyexport_phong2_BaseColor to /Game/Nova_Textures_Final/novalowpolyexport_phong2_BaseColor.novalowpolyexport_phong2_BaseColor! Returning None instead
+[2020.01.28-00.40.57:423][561]LogOutputDevice: Error: Stack: 
+[2020.01.28-00.40.57:423][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeac62690 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:423][561]LogOutputDevice: Error: [Callstack] 0x00007ffaea934d22 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:423][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeabbc2ca UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:423][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeabc74c9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:423][561]LogOutputDevice: Error: [Callstack] 0x00007ffaea969017 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:423][561]LogOutputDevice: Error: [Callstack] 0x00007ffaea9006c3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:423][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeabc7113 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeaa7533c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeab87d99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeab880a1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeaa7736c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeaa75412 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeab87d99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeab2dced UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeab880a1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeaa7736c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeab2e3f3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeab2c9f7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeab2c6f4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffae1cd7bfa UE4Editor-Engine.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeab6c315 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeab8b619 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaeab73f55 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffae7129ddb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffae712a757 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffae715fce4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffae715c5b5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffae78ef0aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffae749da24 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffae749c599 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffae74b00b2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffae7893996 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffadfcae452 UE4Editor-MaterialEditor.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffae7866f08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaea3d180a UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaea4a9122 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaea48aa84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaea542a12 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-00.40.57:424][561]LogOutputDevice: Error: [Callstack] 0x00007ffaea394021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ffaea410301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ffaea3faaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ffaea3f0414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ffb2904b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ffb2903ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ffb2904d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ffb2903c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ffb3a6c5b6d USER32.dll!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ffb3a6c5562 USER32.dll!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ffb2904e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ff615c45d3e UE4Editor.exe!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ff615c5554c UE4Editor.exe!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ff615c555ca UE4Editor.exe!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ff615c6316c UE4Editor.exe!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ff615c65b8e UE4Editor.exe!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ffb3b4f7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: [Callstack] 0x00007ffb3c04ced1 ntdll.dll!UnknownFunction []
+[2020.01.28-00.40.57:425][561]LogOutputDevice: Error: 
+[2020.01.28-00.40.57:427][561]LogStats:                SubmitErrorReport -  0.000 s
