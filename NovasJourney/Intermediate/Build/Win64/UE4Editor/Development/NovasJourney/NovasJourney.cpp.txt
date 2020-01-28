@@ -1,2 +1,2 @@
-C:\Users\de768578\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\Definitions.NovasJourney.h
-c:\users\de768578\documents\github\novasjourney\novasjourney\source\novasjourney\NovasJourney.h
+C:\Users\ju151424.NET\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\Definitions.NovasJourney.h
+c:\users\ju151424.net\documents\github\novasjourney\novasjourney\source\novasjourney\NovasJourney.h
