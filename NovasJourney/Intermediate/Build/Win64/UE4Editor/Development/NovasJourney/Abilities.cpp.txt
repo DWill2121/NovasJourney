@@ -1,3 +1,3 @@
-C:\Users\ju151424.NET\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\Definitions.NovasJourney.h
-c:\users\ju151424.net\documents\github\novasjourney\novasjourney\source\novasjourney\Abilities.h
-C:\Users\ju151424.NET\Documents\GitHub\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Inc\NovasJourney\Abilities.generated.h
+S:\Spring2020\WorkShop\MainGame\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Development\NovasJourney\Definitions.NovasJourney.h
+s:\spring2020\workshop\maingame\novasjourney\novasjourney\source\novasjourney\Abilities.h
+S:\Spring2020\WorkShop\MainGame\NovasJourney\NovasJourney\Intermediate\Build\Win64\UE4Editor\Inc\NovasJourney\Abilities.generated.h
