@@ -1,0 +1,1142 @@
+﻿Log file open, 02/05/20 13:20:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NovasJourney
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.936266
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.02.05-18.20.48:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.05-18.20.48:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.02.05-18.20.48:895][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.02.05-18.20.48:902][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.05-18.20.48:902][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.05-18.20.48:903][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.05-18.20.48:904][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.05-18.20.48:904][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.05-18.20.48:922][  0]LogHAL: Display: Platform has ~ 32 GB [34169487360 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.05-18.20.48:922][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.05-18.20.48:922][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.05-18.20.48:923][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.05-18.20.48:924][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.05-18.20.48:929][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.05-18.20.48:929][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.05-18.20.48:929][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Config/Windows/Engine.ini]
+[2020.02.05-18.20.48:930][  0]LogInit: Computer: DTCBC7Y3Y2
+[2020.02.05-18.20.48:930][  0]LogInit: User: de768578
+[2020.02.05-18.20.48:930][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.02.05-18.20.48:930][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.05-18.20.48:931][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2020.02.05-18.20.48:931][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.05-18.20.48:931][  0]LogMemory: Process Physical Memory: 103.13 MB used, 103.14 MB peak
+[2020.02.05-18.20.48:931][  0]LogMemory: Process Virtual Memory: 99.22 MB used, 99.22 MB peak
+[2020.02.05-18.20.48:931][  0]LogMemory: Physical Memory: 6939.41 MB used,  25647.15 MB free, 32586.56 MB total
+[2020.02.05-18.20.48:931][  0]LogMemory: Virtual Memory: 4686.14 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2020.02.05-18.20.49:162][  0]LogInit: Using OS detected language (en-US).
+[2020.02.05-18.20.49:163][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.05-18.20.49:163][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.05-18.20.49:491][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.05-18.20.49:576][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.05-18.20.49:576][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.05-18.20.51:507][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.05-18.20.51:507][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.05-18.20.51:594][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2020.02.05-18.20.51:594][  0]LogD3D11RHI:       8010/0/16293 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.05-18.20.51:630][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.02.05-18.20.51:630][  0]LogD3D11RHI:       128/0/16293 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.05-18.20.51:640][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.05-18.20.51:640][  0]LogD3D11RHI:       0/0/16293 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.05-18.20.51:642][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.05-18.20.51:642][  0]LogD3D11RHI:       0/0/16293 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.05-18.20.51:643][  0]LogD3D11RHI:    4. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.05-18.20.51:643][  0]LogD3D11RHI:       0/0/16293 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.05-18.20.51:643][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.05-18.20.51:651][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.05-18.20.51:651][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.05-18.20.51:651][  0]LogWindows: EnumDisplayDevices:
+[2020.02.05-18.20.51:651][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2020.02.05-18.20.51:652][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2020.02.05-18.20.51:652][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.02.05-18.20.51:652][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.02.05-18.20.51:652][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.05-18.20.51:652][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.05-18.20.51:652][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.05-18.20.51:653][  0]LogWindows:    7. 'Intel Unite Graphics Adapter' (P:0 D:0)
+[2020.02.05-18.20.51:653][  0]LogWindows:    8. 'Intel Unite Graphics Adapter' (P:0 D:0)
+[2020.02.05-18.20.51:653][  0]LogWindows:    9. 'Intel Unite Graphics Adapter' (P:0 D:0)
+[2020.02.05-18.20.51:653][  0]LogWindows:    10. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.02.05-18.20.51:653][  0]LogWindows:    11. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.02.05-18.20.51:653][  0]LogWindows:    12. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.02.05-18.20.51:653][  0]LogWindows:    13. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.02.05-18.20.51:654][  0]LogWindows:    14. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.02.05-18.20.51:654][  0]LogWindows:    15. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.02.05-18.20.51:654][  0]LogWindows:    16. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.02.05-18.20.51:654][  0]LogWindows:    17. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.02.05-18.20.51:654][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.02.05-18.20.51:654][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2020.02.05-18.20.51:654][  0]LogD3D11RHI:   Driver Version: 441.12 (internal:26.21.14.4112, unified:441.12)
+[2020.02.05-18.20.51:654][  0]LogD3D11RHI:      Driver Date: 10-24-2019
+[2020.02.05-18.20.51:654][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.02.05-18.20.51:699][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.05-18.20.51:709][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.05-18.20.51:709][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.05-18.20.51:709][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.05-18.20.51:720][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.05-18.20.52:024][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.05-18.20.52:038][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.05-18.20.52:051][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.05-18.20.52:064][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.05-18.20.52:083][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.05-18.20.52:098][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.05-18.20.52:113][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.05-18.20.52:126][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.05-18.20.52:133][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.05-18.20.52:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.05-18.20.52:221][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.05-18.20.52:281][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.05-18.20.52:281][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.05-18.20.52:303][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.05-18.20.52:303][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.05-18.20.52:316][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.05-18.20.52:330][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.05-18.20.52:343][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.05-18.20.52:363][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.05-18.20.52:408][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.05-18.20.52:408][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.05-18.20.52:408][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.05-18.20.52:449][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.05-18.20.52:572][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Intermediate/Shaders/WorkingDirectory/10828/).
+[2020.02.05-18.20.52:572][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/de768578/AppData/Local/Temp/5/UnrealShaderWorkingDir/64588A994136F020B12186915BA971DF/'.
+[2020.02.05-18.20.52:576][  0]LogXGEController: Cleaning working directory: C:/Users/de768578/AppData/Local/Temp/5/UnrealXGEWorkingDir/
+[2020.02.05-18.20.52:587][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2020.02.05-18.20.54:661][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.05-18.20.54:732][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/de768578/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.05-18.20.54:732][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/de768578/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.05-18.20.54:732][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.05-18.20.54:732][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.05-18.20.54:732][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.05-18.20.54:732][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.05-18.20.54:757][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.05-18.20.54:773][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.02.05-18.20.54:787][  0]LogDerivedDataCache: Using Local data cache path C:/Users/de768578/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.05-18.20.54:787][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.05-18.20.54:787][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.05-18.20.54:808][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.05-18.20.54:814][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.05-18.20.54:833][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.05-18.20.55:116][  0]LogAssetRegistry: FAssetRegistry took 0.0341 seconds to start up
+[2020.02.05-18.20.55:510][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.05-18.20.55:810][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.05-18.20.55:810][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.05-18.20.55:810][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.05-18.20.55:810][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.05-18.20.55:811][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.05-18.20.55:862][  0]LogNetVersion: NovasJourney 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 477171736)
+[2020.02.05-18.20.56:802][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.037096 seconds
+[2020.02.05-18.20.56:808][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.05-18.20.56:809][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.05-18.20.56:809][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.05-18.20.59:729][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.05-18.20.59:746][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.05-18.20.59:916][  0]SourceControl: Source control is disabled
+[2020.02.05-18.20.59:916][  0]SourceControl: Source control is disabled
+[2020.02.05-18.20.59:927][  0]SourceControl: Source control is disabled
+[2020.02.05-18.20.59:931][  0]SourceControl: Source control is disabled
+[2020.02.05-18.21.00:141][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.05-18.21.00:280][  0]LogOcInput: OculusInput pre-init called
+[2020.02.05-18.21.00:980][  0]LogEngine: Initializing Engine...
+[2020.02.05-18.21.00:982][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.05-18.21.00:984][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.02.05-18.21.01:166][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.05-18.21.01:202][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.05-18.21.01:235][  0]LogInit: XAudio2 using 'DELL U2419H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-18.21.01:361][  0]LogInit: FAudioDevice initialized.
+[2020.02.05-18.21.01:361][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.05-18.21.01:404][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/de768578/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.05-18.21.01:409][  0]LogInit: Texture streaming: Enabled
+[2020.02.05-18.21.01:433][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.05-18.21.01:467][  0]LogInit: Transaction tracking system initialized
+[2020.02.05-18.21.01:519][  0]BlueprintLog: New page: Editor Load
+[2020.02.05-18.21.01:692][  0]LocalizationService: Localization service is disabled
+[2020.02.05-18.21.02:046][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.05-18.21.02:046][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.05-18.21.02:444][  0]LogFileCache: Scanning file cache for directory 'C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/' took 0.04s
+[2020.02.05-18.21.02:444][  0]SourceControl: Source control is disabled
+[2020.02.05-18.21.02:445][  0]Cmd: MAP LOAD FILE="../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.05-18.21.02:449][  0]LightingResults: New page: Lighting Build
+[2020.02.05-18.21.02:457][  0]MapCheck: New page: Map Check
+[2020.02.05-18.21.02:457][  0]LightingResults: New page: Lighting Build
+[2020.02.05-18.21.02:491][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.05-18.21.03:048][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Explosion'
+[2020.02.05-18.21.03:048][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/P_Explosion.P_Explosion Referenced by ParticleSystem_GEN_VARIABLE
+[2020.02.05-18.21.03:048][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Explosion' while loading NULL.
+[2020.02.05-18.21.03:353][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Audio/Collapse01'
+[2020.02.05-18.21.03:353][  0]LoadErrors: Failed to load /Game/StarterContent/Audio/Collapse01 Referenced by CharacterMesh0
+[2020.02.05-18.21.03:353][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse01' while loading NULL.
+[2020.02.05-18.21.03:353][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Audio/Collapse01'
+[2020.02.05-18.21.03:353][  0]LoadErrors: Failed to load /Game/StarterContent/Audio/Collapse01.Collapse01 Referenced by CharacterMesh0
+[2020.02.05-18.21.03:353][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse01' while loading NULL.
+[2020.02.05-18.21.03:357][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Audio/Collapse01'
+[2020.02.05-18.21.03:357][  0]LoadErrors: Failed to load /Game/StarterContent/Audio/Collapse01.Collapse01 Referenced by K2Node_CallFunction_13
+[2020.02.05-18.21.03:357][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse01' while loading NULL.
+[2020.02.05-18.21.03:358][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Audio/Collapse01'
+[2020.02.05-18.21.03:358][  0]LoadErrors: Failed to load /Game/StarterContent/Audio/Collapse01.Collapse01 Referenced by K2Node_CallFunction_7
+[2020.02.05-18.21.03:358][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse01' while loading NULL.
+[2020.02.05-18.21.03:358][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Audio/Collapse01'
+[2020.02.05-18.21.03:358][  0]LoadErrors: Failed to load /Game/StarterContent/Audio/Collapse01.Collapse01 Referenced by K2Node_CallFunction_19
+[2020.02.05-18.21.03:358][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse01' while loading NULL.
+[2020.02.05-18.21.03:369][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Audio/Collapse01'
+[2020.02.05-18.21.03:369][  0]LoadErrors: Failed to load /Game/Menus_AD/PauseMenu.PauseMenu_C Referenced by CharacterMesh0
+[2020.02.05-18.21.03:370][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse01' while loading NULL.
+[2020.02.05-18.21.03:370][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Audio/Collapse01'
+[2020.02.05-18.21.03:370][  0]LoadErrors: Failed to load /Game/Menus_AD/PauseMenu.PauseMenu_C Referenced by CharacterMesh0
+[2020.02.05-18.21.03:370][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse01' while loading NULL.
+[2020.02.05-18.21.03:381][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Explosion'
+[2020.02.05-18.21.03:381][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/P_Explosion Referenced by CharacterMesh0
+[2020.02.05-18.21.03:381][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Explosion' while loading NULL.
+[2020.02.05-18.21.03:381][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Explosion'
+[2020.02.05-18.21.03:381][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/P_Explosion.P_Explosion Referenced by CharacterMesh0
+[2020.02.05-18.21.03:381][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Explosion' while loading NULL.
+[2020.02.05-18.21.03:527][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Explosion'
+[2020.02.05-18.21.03:527][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Explosion' while loading NULL.
+[2020.02.05-18.21.03:528][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Explosion'
+[2020.02.05-18.21.03:528][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Explosion' while loading NULL.
+[2020.02.05-18.21.04:210][  0]LogProperty: Warning: Serialized Class /Script/Engine.Skeleton for a property of Class /Script/Engine.SkeletalMesh. Reference will be nullptred.
+    Property = SoftObjectProperty /Script/Engine.PhysicsAsset:PreviewSkeletalMesh
+    Item = Skeleton /Game/Animations/Enemy_Anim/Enemy_Skeleton.Enemy_Skeleton
+[2020.02.05-18.21.04:834][  0]LogAIModule: Creating AISystem for world TestLevel
+[2020.02.05-18.21.04:880][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.05-18.21.04:918][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.02.05-18.21.04:918][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.05-18.21.04:918][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2020.02.05-18.21.04:918][  0]LogFileHelpers: Loading map 'TestLevel' took 2.474
+[2020.02.05-18.21.05:088][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.21.05:095][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.21.05:101][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.21.05:108][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.21.05:125][  0]LogCollectionManager: Loaded 0 collections in 0.001248 seconds
+[2020.02.05-18.21.05:169][  0]LogFileCache: Scanning file cache for directory 'C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Collections/' took 0.01s
+[2020.02.05-18.21.05:169][  0]LogFileCache: Scanning file cache for directory 'C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Developers/de768578/Collections/' took 0.01s
+[2020.02.05-18.21.05:169][  0]LogFileCache: Scanning file cache for directory 'C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Collections/' took 0.00s
+[2020.02.05-18.21.05:169][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.05-18.21.05:179][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2735 classes and 661 folders.
+[2020.02.05-18.21.05:191][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.05-18.21.05:198][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:219][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:235][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:240][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:245][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:250][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:256][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:270][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:281][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:291][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:297][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:321][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:326][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-18.21.05:545][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.05-18.21.05:558][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.05-18.21.05:610][  0]LogSlate: Took 0.005104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.05-18.21.05:616][  0]LogSlate: Took 0.004928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.05-18.21.05:627][  0]LogSlate: Took 0.006946 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.05-18.21.05:724][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 10 NumSamples 1 (Frame:1).
+[2020.02.05-18.21.05:863][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.05-18.21.05:863][  0]LogLoad: (Engine Initialization) Total time: 22.22 seconds
+[2020.02.05-18.21.05:863][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.05-18.21.05:924][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.05-18.21.05:926][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.05-18.21.06:005][  0]LogSlate: Took 0.006381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.05-18.21.06:897][ 79]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.05-18.21.09:796][426]LogSlate: Window 'Message Log' being destroyed
+[2020.02.05-18.21.09:800][426]LogSlate: Window 'Message Log' being destroyed
+[2020.02.05-18.21.11:039][575]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/' took 5.15s
+[2020.02.05-18.21.11:517][628]LogAssetRegistry: Asset discovery search completed in 16.4228 seconds
+[2020.02.05-18.21.11:519][628]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.05-18.21.11:519][628]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2020.02.05-18.22.51:608][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-18.22.54:026][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-18.22.56:930][513]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/Character/Nova2.Nova2
+[2020.02.05-18.22.57:173][513]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.02.05-18.22.58:056][513]LogSlate: Took 0.006212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.05-18.22.58:617][514]LogSlate: Took 0.007609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.05-18.23.40:524][764]LogSlate: Took 0.008054 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.05-18.23.56:584][597]BlueprintLog: New page: Compile Nova2
+[2020.02.05-18.23.56:949][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.02.05-18.24.31:484][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:484][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:485][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:566][514]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Reload' for  InputAction Reload
+[2020.02.05-18.24.31:566][514]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2020.02.05-18.24.31:566][514]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Shoot' for  InputAction Shoot
+[2020.02.05-18.24.31:567][514]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Aim' for  InputAction Aim
+[2020.02.05-18.24.31:593][514]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0227.95] Compile of ThirdPersonCharacter successful, but with 4 Warning(s) [in 80 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2020.02.05-18.24.31:611][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:611][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:611][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:611][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:611][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:611][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:611][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:611][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.02.05-18.24.31:612][514]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_762x39_ALB (AutoDXT, 256X256)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_762x39_M_MSK (AutoDXT, 256X256)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_762x39_NRM (BC5, 256X256)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_Stripes__Pattern (AutoDXT, 1024X1024)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_AR4_ALB (AutoDXT, 2048X2048)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_AR4_NRM (BC5, 2048X2048)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_KA74U_ALB (AutoDXT, 2048X2048)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_KA74U_NRM (BC5, 2048X2048)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_AR4_M_MSK (AutoDXT, 2048X2048)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_KA74U_M_MSK (AutoDXT, 2048X2048)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2020.02.05-18.24.33:973][514]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2020.02.05-18.24.33:973][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2020.02.05-18.24.33:973][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_51) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.33:978][514]LogMaterial: Display: Missing cached shader map for material M_Weapon_Master_USE, compiling. 
+[2020.02.05-18.24.34:089][514]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.02.05-18.24.34:150][514]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.02.05-18.24.34:194][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2020.02.05-18.24.34:194][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_59) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:195][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2020.02.05-18.24.34:195][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_58) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:196][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2020.02.05-18.24.34:197][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:197][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2020.02.05-18.24.34:198][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:198][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2020.02.05-18.24.34:198][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:199][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2020.02.05-18.24.34:200][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_61) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:201][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2020.02.05-18.24.34:201][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_60) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:206][514]LogMaterial: Display: Missing cached shader map for material tracerround_material, compiling. 
+[2020.02.05-18.24.34:226][514]LogStaticMesh: Building static mesh muzzleflash_mesh...
+[2020.02.05-18.24.34:239][514]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.02.05-18.24.34:243][514]LogStaticMesh: Built static mesh [0.02s] /Game/Gun/muzzleflash_mesh.muzzleflash_mesh
+[2020.02.05-18.24.34:255][514]LogMaterial: Display: Missing cached shader map for material muzzleflash_material, compiling. 
+[2020.02.05-18.24.34:282][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2020.02.05-18.24.34:282][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:283][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2020.02.05-18.24.34:283][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:285][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2020.02.05-18.24.34:285][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:286][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2020.02.05-18.24.34:287][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:288][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.02.05-18.24.34:288][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:292][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2020.02.05-18.24.34:292][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_22) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:293][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2020.02.05-18.24.34:293][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_21) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:294][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2020.02.05-18.24.34:294][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:297][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2020.02.05-18.24.34:298][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:300][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_UP.Aim_Ironsights_UP
+[2020.02.05-18.24.34:301][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_UP.Aim_Ironsights_UP) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:304][514]LogMaterial: Display: Missing cached shader map for material DirtParticle, compiling. 
+[2020.02.05-18.24.34:382][514]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2020.02.05-18.24.34:423][514]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2020.02.05-18.24.34:427][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2020.02.05-18.24.34:427][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:429][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2020.02.05-18.24.34:429][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:432][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2020.02.05-18.24.34:432][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:434][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2020.02.05-18.24.34:434][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:435][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2020.02.05-18.24.34:435][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:437][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_FWD.Aim_Ironsights_FWD
+[2020.02.05-18.24.34:437][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_FWD.Aim_Ironsights_FWD) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:437][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2020.02.05-18.24.34:438][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_33) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:441][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_DWN.Aim_Ironsights_DWN
+[2020.02.05-18.24.34:441][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_DWN.Aim_Ironsights_DWN) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:441][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_RTU.Aim_Ironsights_RTU
+[2020.02.05-18.24.34:441][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_RTU.Aim_Ironsights_RTU) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:442][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_RTD.Aim_Ironsights_RTD
+[2020.02.05-18.24.34:442][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_RTD.Aim_Ironsights_RTD) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:442][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_RT.Aim_Ironsights_RT
+[2020.02.05-18.24.34:442][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_RT.Aim_Ironsights_RT) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:443][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_LTU.Aim_Ironsights_LTU
+[2020.02.05-18.24.34:443][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_LTU.Aim_Ironsights_LTU) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:444][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_LTD.Aim_Ironsights_LTD
+[2020.02.05-18.24.34:444][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_LTD.Aim_Ironsights_LTD) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:444][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_LT.Aim_Ironsights_LT
+[2020.02.05-18.24.34:445][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aiming/IronSights/Aim_Ironsights_LT.Aim_Ironsights_LT) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:445][514]LogSkeletalMesh: Building Skeletal Mesh SK_AR4...
+[2020.02.05-18.24.34:457][514]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4.SK_AR4
+[2020.02.05-18.24.34:460][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2020.02.05-18.24.34:460][514]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.05-18.24.34:625][514]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Tasks/Shoot.Shoot
+[2020.02.05-18.24.43:739][499]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemy/Enemy.Enemy
+[2020.02.05-18.25.53:129][372]BlueprintLog: New page: Compile Enemy
+[2020.02.05-18.25.53:190][372]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_11:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.25.53:448][372]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2020.02.05-18.27.10:772][180]BlueprintLog: New page: Compile Enemy
+[2020.02.05-18.27.10:813][180]LogClass: Warning: Type mismatch in Objective of Enemy_C - Previous (BoolProperty) Current(StructProperty) for package:  FObjectReader
+[2020.02.05-18.27.10:814][180]LogBlueprint: Warning: [Compiler Enemy] Can't parse default value 'False' for  . Property: Objective.
+[2020.02.05-18.27.10:821][180]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_11:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.27.11:035][180]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.02.05-18.27.11:049][180]LogBlueprint: Warning: [Compiler Enemy] [0387.41] Compile of Enemy successful, but with 1 Warning(s) [in 276 ms] (/Game/Enemy/Enemy.Enemy)
+[2020.02.05-18.31.27:427][451]BlueprintLog: New page: Compile Enemy
+[2020.02.05-18.31.27:479][451]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_11:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.31.27:690][451]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.02.05-18.32.05:830][365]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.02.05-18.32.05:830][365]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Levels/Maps/TestLevel' took 0.044
+[2020.02.05-18.32.05:832][365]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/Actors/Character/Nova2] ([1] browsable assets)...
+[2020.02.05-18.32.05:854][365]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Content/Actors/Character/Nova2.Nova2]
+[2020.02.05-18.32.05:854][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Actors/Character/Nova2]
+[2020.02.05-18.32.06:255][365]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova2_Auto14105234A4C42194BA7E018BBA59D49D2.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Content/Actors/Character/Nova2_Auto1.uasset'
+[2020.02.05-18.32.06:260][365]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/Enemy] ([1] browsable assets)...
+[2020.02.05-18.32.06:293][365]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Enemy.Enemy]
+[2020.02.05-18.32.06:293][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Enemy]
+[2020.02.05-18.32.06:362][365]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Enemy_Auto11D640B74460B7B98EB49E4B6B52213D2.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Autosaves/Game/Enemy/Enemy_Auto1.uasset'
+[2020.02.05-18.32.06:362][365]LogFileHelpers: Auto-saving content packages took 0.532
+[2020.02.05-18.46.20:619][ 25]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.05-18.46.20:655][ 25]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.46.20:657][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-18.46.20:662][ 25]PIE: New page: PIE session: TestLevel (Feb 5, 2020, 8:46:20 AM)
+[2020.02.05-18.46.20:676][ 25]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_TestLevel
+[2020.02.05-18.46.20:789][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111699s)
+[2020.02.05-18.46.20:789][ 25]LogAIModule: Creating AISystem for world TestLevel
+[2020.02.05-18.46.20:789][ 25]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2020.02.05-18.46.20:789][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/TestLevel.TestLevel to /Game/Content/Levels/Maps/UEDPIE_0_TestLevel.TestLevel (0.112643s)
+[2020.02.05-18.46.20:835][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.02.05-18.46.20:850][ 25]LogInit: XAudio2 using 'DELL U2419H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-18.46.20:863][ 25]LogInit: FAudioDevice initialized.
+[2020.02.05-18.46.20:869][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.46.20:929][ 25]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Explosion'
+[2020.02.05-18.46.20:929][ 25]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Explosion' while loading NULL.
+[2020.02.05-18.46.20:930][ 25]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Explosion'
+[2020.02.05-18.46.20:930][ 25]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Explosion' while loading NULL.
+[2020.02.05-18.46.20:949][ 25]LogLoad: Game class is 'NovasJourney_C'
+[2020.02.05-18.46.20:958][ 25]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.02.05-13.46.20
+[2020.02.05-18.46.20:976][ 25]LogWorld: Bringing up level for play took: 0.022936
+[2020.02.05-18.46.20:998][ 25]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.02.05-18.46.21:009][ 25]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.02.05-18.46.21:010][ 25]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.05-18.46.21:012][ 25]LogBlueprintUserMessages: [Nova2_C_0] You've Discovered an Item!
+[2020.02.05-18.46.21:012][ 25]LogBlueprintUserMessages: [Nova2_C_0] You've Discovered an Item!
+[2020.02.05-18.46.21:032][ 25]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_TestLevel 0.241
+[2020.02.05-18.46.21:033][ 25]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.46.21:062][ 26]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2020.02.05-18.46.27:100][716]LogBlueprintUserMessages: [Nova2_C_0] finished
+[2020.02.05-18.46.27:527][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.46.27:527][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.46.27:549][767]LogSlate: Window 'NovasJourney Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.05-18.46.27:583][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-18.46.27:584][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.46.27:661][767]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.02.05-18.46.27:681][768]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.05-18.46.53:379][687]LogSlate: Window 'Shoot' being destroyed
+[2020.02.05-18.46.55:023][884]LogSlate: Window 'Enemy' being destroyed
+[2020.02.05-18.47.35:061][653]BlueprintLog: New page: Compile Enemy
+[2020.02.05-18.47.35:114][653]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_11:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.47.35:115][653]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_12:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.47.35:364][653]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.02.05-18.48.03:235][982]BlueprintLog: New page: Compile Enemy
+[2020.02.05-18.48.03:286][982]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_11:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.48.03:287][982]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_12:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.48.03:527][982]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.02.05-18.48.48:515][355]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ShooterEnemyAnimation_C /Engine/Transient.World_13:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ShooterEnemyAnimation_C_0
+	Function /Game/Enemy/ShooterEnemyAnimation.ShooterEnemyAnimation_C:ExecuteUbergraph_ShooterEnemyAnimation:0246
+[2020.02.05-18.48.59:037][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-18.49.03:683][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.05-18.49.05:524][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-18.49.08:377][704]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2020.02.05-18.49.10:426][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-18.49.15:913][585]Cmd: TRANSACTION UNDO
+[2020.02.05-18.49.15:913][585]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.05-18.49.16:502][644]Cmd: TRANSACTION UNDO
+[2020.02.05-18.49.16:502][644]LogEditorTransaction: Undo Paste Location
+[2020.02.05-18.49.18:594][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-18.49.22:369][319]LogEditorViewport: Clicking on Actor (LMB): HopWall_C (HopWall)
+[2020.02.05-18.49.23:453][445]LogEditorViewport: Clicking on Actor (LMB): ShootAI_C (ShootAI)
+[2020.02.05-18.49.24:810][600]Cmd: DELETE
+[2020.02.05-18.49.24:810][600]Cmd: ACTOR DELETE
+[2020.02.05-18.49.24:831][600]LogEditorActor: Deleted Actor: ShootAI_C
+[2020.02.05-18.49.24:879][600]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.02.05-18.49.24:879][600]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.02.05-18.49.27:139][871]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2020.02.05-18.49.28:668][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-18.50.25:106][727]BlueprintLog: New page: Compile Enemy
+[2020.02.05-18.50.25:235][727]LogBlueprint: Error: [Compiler Nova2] This blueprint (self) is not a MemoryHolder_C, therefore ' Target ' must have a connection.
+[2020.02.05-18.50.25:235][727]LogBlueprint: Error: [Compiler Nova2] The type of  Object  is undetermined.  Connect something to  Cast To Enemy  to imply a specific type.
+[2020.02.05-18.50.25:246][727]LogBlueprint: Error: [Compiler Nova2] Variable node  Get inRange  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.02.05-18.50.25:249][727]LogBlueprint: Error: [Compiler Nova2] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.05-18.50.25:279][727]LogBlueprint: Warning: [Compiler Nova2] [1781.63] Compile of Nova2 failed. 4 Fatal Issue(s) 0 Warning(s) [in 173 ms] (/Game/Content/Actors/Character/Nova2.Nova2)
+[2020.02.05-18.50.25:320][727]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_11:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.50.25:321][727]LogActor: Warning: Gun_Rifle_C /Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_74 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.50.25:351][727]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_12:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.50.25:602][727]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.02.05-18.51.55:699][388]BlueprintLog: New page: Compile Enemy
+[2020.02.05-18.51.55:792][388]LogBlueprint: Error: [Compiler Nova2] This blueprint (self) is not a MemoryHolder_C, therefore ' Target ' must have a connection.
+[2020.02.05-18.51.55:793][388]LogBlueprint: Error: [Compiler Nova2] The type of  Object  is undetermined.  Connect something to  Cast To Enemy  to imply a specific type.
+[2020.02.05-18.51.55:803][388]LogBlueprint: Error: [Compiler Nova2] Variable node  Get inRange  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.02.05-18.51.55:806][388]LogBlueprint: Error: [Compiler Nova2] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.05-18.51.55:837][388]LogBlueprint: Warning: [Compiler Nova2] [1872.19] Compile of Nova2 failed. 4 Fatal Issue(s) 0 Warning(s) [in 137 ms] (/Game/Content/Actors/Character/Nova2.Nova2)
+[2020.02.05-18.51.55:876][388]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_11:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.51.55:877][388]LogActor: Warning: Gun_Rifle_C /Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_74 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.51.55:908][388]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_12:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.51.56:166][388]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.02.05-18.52.18:990][104]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.02.05-18.52.19:050][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.02.05-18.52.19:422][104]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/TestLevel3C8E6BE049764185F21D5E9521855244.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/TestLevel.umap'
+[2020.02.05-18.52.19:469][104]LogFileHelpers: Saving map 'TestLevel' took 0.462
+[2020.02.05-18.52.19:851][104]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova2CB13BBCB49EFBD74260A8685BF272D40.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Actors/Character/Nova2.uasset'
+[2020.02.05-18.52.19:885][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Enemy" FILE="../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Enemy/Enemy.uasset" SILENT=true
+[2020.02.05-18.52.19:956][104]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Enemy7A5194F84CA016CE663294BBD1444884.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Enemy/Enemy.uasset'
+[2020.02.05-18.52.43:522][851]BlueprintLog: New page: Compile Enemy
+[2020.02.05-18.52.43:666][851]LogBlueprint: Error: [Compiler Nova2] The type of  Object  is undetermined.  Connect something to  Cast To Enemy  to imply a specific type.
+[2020.02.05-18.52.43:679][851]LogBlueprint: Error: [Compiler Nova2] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.05-18.52.43:710][851]LogBlueprint: Warning: [Compiler Nova2] [1920.06] Compile of Nova2 failed. 2 Fatal Issue(s) 0 Warning(s) [in 187 ms] (/Game/Content/Actors/Character/Nova2.Nova2)
+[2020.02.05-18.52.43:750][851]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_11:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.52.43:751][851]LogActor: Warning: Gun_Rifle_C /Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_74 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.52.43:782][851]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_12:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_38 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.52.44:035][851]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.02.05-18.53.56:786][462]BlueprintLog: New page: Compile Enemy
+[2020.02.05-18.53.56:929][462]LogBlueprint: Error: [Compiler Nova2] The type of  Object  is undetermined.  Connect something to  Cast To Enemy  to imply a specific type.
+[2020.02.05-18.53.56:942][462]LogBlueprint: Error: [Compiler Nova2] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.02.05-18.53.56:973][462]LogBlueprint: Warning: [Compiler Nova2] [1993.33] Compile of Nova2 failed. 2 Fatal Issue(s) 0 Warning(s) [in 186 ms] (/Game/Content/Actors/Character/Nova2.Nova2)
+[2020.02.05-18.53.57:013][462]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_11:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.53.57:014][462]LogActor: Warning: Gun_Rifle_C /Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_74 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.53.57:044][462]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_12:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_46 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.53.57:301][462]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.02.05-18.54.16:300][671]BlueprintLog: New page: Compile Nova2
+[2020.02.05-18.54.16:662][671]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.02.05-18.54.27:862][956]BlueprintLog: New page: Compile Nova2
+[2020.02.05-18.54.28:219][956]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.02.05-18.54.36:745][912]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.02.05-18.54.37:681][912]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.05-18.55.00:656][515]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.05-18.55.04:586][978]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.05-18.55.04:620][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.55.04:620][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-18.55.04:620][978]PIE: New page: PIE session: TestLevel (Feb 5, 2020, 8:55:04 AM)
+[2020.02.05-18.55.04:620][978]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_TestLevel
+[2020.02.05-18.55.04:638][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017842s)
+[2020.02.05-18.55.04:639][978]LogAIModule: Creating AISystem for world TestLevel
+[2020.02.05-18.55.04:639][978]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2020.02.05-18.55.04:639][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/TestLevel.TestLevel to /Game/Content/Levels/Maps/UEDPIE_0_TestLevel.TestLevel (0.018491s)
+[2020.02.05-18.55.04:731][978]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2020.02.05-18.55.04:743][978]LogInit: XAudio2 using 'DELL U2419H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-18.55.04:752][978]LogInit: FAudioDevice initialized.
+[2020.02.05-18.55.04:758][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.55.04:785][978]LogLoad: Game class is 'NovasJourney_C'
+[2020.02.05-18.55.04:790][978]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.02.05-13.55.04
+[2020.02.05-18.55.04:791][978]LogWorld: Bringing up level for play took: 0.005444
+[2020.02.05-18.55.04:805][978]LogBlueprintUserMessages: [Nova2_C_0] You've Discovered an Item!
+[2020.02.05-18.55.04:805][978]LogBlueprintUserMessages: [Nova2_C_0] You've Discovered an Item!
+[2020.02.05-18.55.04:813][978]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_TestLevel 0.022
+[2020.02.05-18.55.04:815][978]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.55.06:537][183]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.55.06:537][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.55.06:559][183]LogSlate: Window 'NovasJourney Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.05-18.55.06:592][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-18.55.06:592][183]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.55.06:667][183]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.02.05-18.55.06:686][184]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.05-18.55.08:821][431]LogRenderer: Reallocating scene render targets to support 1272x740 Format 10 NumSamples 1 (Frame:1).
+[2020.02.05-18.55.18:835][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-18.55.34:034][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-18.55.44:873][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-18.55.49:829][328]BlueprintLog: New page: Compile Enemy
+[2020.02.05-18.55.50:029][328]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_11:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.55.50:030][328]LogActor: Warning: Gun_Rifle_C /Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_74 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.55.50:031][328]LogActor: Warning: Gun_Rifle_C /Engine/Transient.World_12:PersistentLevel.Gun_Child_GEN_VARIABLE_Gun_Rifle_C_CAT_54 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.05-18.55.50:283][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.02.05-18.55.56:448][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.02.05-18.55.56:500][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.02.05-18.55.56:857][ 23]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/TestLevelFB480A7647C1BE6CEE365F874CA93FA6.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Levels/Maps/TestLevel.umap'
+[2020.02.05-18.55.56:901][ 23]LogFileHelpers: Saving map 'TestLevel' took 0.445
+[2020.02.05-18.55.57:286][ 23]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Nova20A9264DD4F9B1BB247266CA78853A4DC.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Content/Actors/Character/Nova2.uasset'
+[2020.02.05-18.55.57:312][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Enemy" FILE="../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Enemy/Enemy.uasset" SILENT=true
+[2020.02.05-18.55.57:383][ 23]LogSavePackage: Moving '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Saved/Enemy511C7F0C489346854EB15282DC44F8D2.tmp' to '../../../../../../Users/de768578/Documents/GitHub/NovasJourney/NovasJourney/Content/Enemy/Enemy.uasset'
+[2020.02.05-18.56.00:618][400]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.05-18.56.00:653][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.56.00:653][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-18.56.00:653][400]PIE: New page: PIE session: TestLevel (Feb 5, 2020, 8:56:00 AM)
+[2020.02.05-18.56.00:653][400]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_TestLevel
+[2020.02.05-18.56.00:670][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017111s)
+[2020.02.05-18.56.00:670][400]LogAIModule: Creating AISystem for world TestLevel
+[2020.02.05-18.56.00:671][400]LogPlayLevel: PIE: World Init took: (0.000433s)
+[2020.02.05-18.56.00:671][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/TestLevel.TestLevel to /Game/Content/Levels/Maps/UEDPIE_0_TestLevel.TestLevel (0.017647s)
+[2020.02.05-18.56.00:715][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.02.05-18.56.00:727][400]LogInit: XAudio2 using 'DELL U2419H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-18.56.00:734][400]LogInit: FAudioDevice initialized.
+[2020.02.05-18.56.00:742][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.56.00:772][400]LogLoad: Game class is 'NovasJourney_C'
+[2020.02.05-18.56.00:777][400]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.02.05-13.56.00
+[2020.02.05-18.56.00:778][400]LogWorld: Bringing up level for play took: 0.005310
+[2020.02.05-18.56.00:792][400]LogBlueprintUserMessages: [Nova2_C_0] You've Discovered an Item!
+[2020.02.05-18.56.00:792][400]LogBlueprintUserMessages: [Nova2_C_0] You've Discovered an Item!
+[2020.02.05-18.56.00:797][400]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_TestLevel 0.005
+[2020.02.05-18.56.00:797][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.56.08:474][320]LogBlueprintUserMessages: [Nova2_C_0] Enemy Memory Acquired
+[2020.02.05-18.56.15:541][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.56.15:542][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.56.15:564][168]LogSlate: Window 'NovasJourney Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.05-18.56.15:599][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-18.56.15:599][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.56.15:653][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.02.05-18.56.15:671][169]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.02.05-18.58.04:903][139]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.05-18.58.04:935][139]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.58.04:935][139]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.05-18.58.04:965][139]LogPlayLevel: [PlayLevel] Compiling Nova2 before play...
+[2020.02.05-18.58.05:402][139]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.02.05-18.58.05:402][139]LogPlayLevel: PlayLevel: Blueprint regeneration took 467 ms (1 blueprints)
+[2020.02.05-18.58.05:402][139]PIE: New page: PIE session: TestLevel (Feb 5, 2020, 8:58:05 AM)
+[2020.02.05-18.58.05:402][139]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_TestLevel
+[2020.02.05-18.58.05:419][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016984s)
+[2020.02.05-18.58.05:420][139]LogAIModule: Creating AISystem for world TestLevel
+[2020.02.05-18.58.05:420][139]LogPlayLevel: PIE: World Init took: (0.000429s)
+[2020.02.05-18.58.05:420][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/TestLevel.TestLevel to /Game/Content/Levels/Maps/UEDPIE_0_TestLevel.TestLevel (0.017513s)
+[2020.02.05-18.58.05:465][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.02.05-18.58.05:476][139]LogInit: XAudio2 using 'DELL U2419H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-18.58.05:483][139]LogInit: FAudioDevice initialized.
+[2020.02.05-18.58.05:489][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.58.05:522][139]LogLoad: Game class is 'NovasJourney_C'
+[2020.02.05-18.58.05:526][139]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.02.05-13.58.05
+[2020.02.05-18.58.05:528][139]LogWorld: Bringing up level for play took: 0.005340
+[2020.02.05-18.58.05:542][139]LogBlueprintUserMessages: [Nova2_C_0] You've Discovered an Item!
+[2020.02.05-18.58.05:542][139]LogBlueprintUserMessages: [Nova2_C_0] You've Discovered an Item!
+[2020.02.05-18.58.05:546][139]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_TestLevel 0.755
+[2020.02.05-18.58.05:546][139]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.58.09:581][533]LogBlueprintUserMessages: [Nova2_C_0] Enemy Memory Acquired
+[2020.02.05-18.58.15:238][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.58.15:238][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.58.15:260][148]LogSlate: Window 'NovasJourney Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.05-18.58.15:296][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-18.58.15:296][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.58.15:350][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.02.05-18.58.15:363][149]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.02.05-18.58.17:913][454]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2020.02.05-18.58.29:652][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.05-18.58.39:696][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-18.58.44:037][568]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2020.02.05-18.58.46:338][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-18.58.58:359][259]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.05-18.58.58:391][259]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.58.58:391][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-18.58.58:391][259]PIE: New page: PIE session: TestLevel (Feb 5, 2020, 8:58:58 AM)
+[2020.02.05-18.58.58:391][259]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_TestLevel
+[2020.02.05-18.58.58:408][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017239s)
+[2020.02.05-18.58.58:409][259]LogAIModule: Creating AISystem for world TestLevel
+[2020.02.05-18.58.58:409][259]LogPlayLevel: PIE: World Init took: (0.000423s)
+[2020.02.05-18.58.58:409][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/TestLevel.TestLevel to /Game/Content/Levels/Maps/UEDPIE_0_TestLevel.TestLevel (0.017765s)
+[2020.02.05-18.58.58:456][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.02.05-18.58.58:467][259]LogInit: XAudio2 using 'DELL U2419H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-18.58.58:474][259]LogInit: FAudioDevice initialized.
+[2020.02.05-18.58.58:480][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.58.58:509][259]LogLoad: Game class is 'NovasJourney_C'
+[2020.02.05-18.58.58:514][259]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.02.05-13.58.58
+[2020.02.05-18.58.58:515][259]LogWorld: Bringing up level for play took: 0.005352
+[2020.02.05-18.58.58:528][259]LogBlueprintUserMessages: [Nova2_C_0] You've Discovered an Item!
+[2020.02.05-18.58.58:529][259]LogBlueprintUserMessages: [Nova2_C_0] You've Discovered an Item!
+[2020.02.05-18.58.58:534][259]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_TestLevel -0.258
+[2020.02.05-18.58.58:534][259]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.59.02:425][725]LogBlueprintUserMessages: [Nova2_C_0] Enemy Memory Acquired
+[2020.02.05-18.59.11:209][779]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.59.11:210][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-18.59.11:231][779]LogSlate: Window 'NovasJourney Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.05-18.59.11:268][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-18.59.11:268][779]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-18.59.11:322][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.02.05-18.59.11:342][780]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.05-18.59.27:917][702]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Content/Actors/AI/MemoryPawn1.MemoryPawn1
+[2020.02.05-19.00.32:055][292]BlueprintLog: New page: Compile MemoryPawn1
+[2020.02.05-19.00.32:308][292]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.02.05-19.00.34:180][514]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.05-19.00.34:215][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-19.00.34:215][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-19.00.34:215][514]PIE: New page: PIE session: TestLevel (Feb 5, 2020, 9:00:34 AM)
+[2020.02.05-19.00.34:215][514]LogPlayLevel: Creating play world package: /Game/Content/Levels/Maps/UEDPIE_0_TestLevel
+[2020.02.05-19.00.34:234][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017780s)
+[2020.02.05-19.00.34:234][514]LogAIModule: Creating AISystem for world TestLevel
+[2020.02.05-19.00.34:234][514]LogPlayLevel: PIE: World Init took: (0.000493s)
+[2020.02.05-19.00.34:234][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Levels/Maps/TestLevel.TestLevel to /Game/Content/Levels/Maps/UEDPIE_0_TestLevel.TestLevel (0.018748s)
+[2020.02.05-19.00.34:280][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.02.05-19.00.34:292][514]LogInit: XAudio2 using 'DELL U2419H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-19.00.34:299][514]LogInit: FAudioDevice initialized.
+[2020.02.05-19.00.34:305][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.00.34:336][514]LogLoad: Game class is 'NovasJourney_C'
+[2020.02.05-19.00.34:341][514]LogWorld: Bringing World /Game/Content/Levels/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.02.05-14.00.34
+[2020.02.05-19.00.34:343][514]LogWorld: Bringing up level for play took: 0.005443
+[2020.02.05-19.00.34:356][514]LogBlueprintUserMessages: [Nova2_C_0] You've Discovered an Item!
+[2020.02.05-19.00.34:356][514]LogBlueprintUserMessages: [Nova2_C_0] You've Discovered an Item!
+[2020.02.05-19.00.34:360][514]PIE: Play in editor start time for /Game/Content/Levels/Maps/UEDPIE_0_TestLevel -0.432
+[2020.02.05-19.00.34:360][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-19.00.37:813][912]LogBlueprintUserMessages: [Nova2_C_0] Enemy Memory Acquired
+[2020.02.05-19.00.44:138][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-19.00.44:139][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.00.44:160][671]LogSlate: Window 'NovasJourney Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.05-19.00.44:199][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-19.00.44:199][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Content/Levels/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Content/Levels/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.02.05-19.00.44:255][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.02.05-19.00.44:272][672]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.05-19.01.03:440][942]LogUObjectArray: Warning: Other object in slot
+[2020.02.05-19.01.03:442][942]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.05-19.01.03:929][942]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.487 s
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: 
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: Stack: 
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff89e09c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff89d916fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff89d924e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff89e9637f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff89c2e5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff89c2a1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8a2f75984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8a31615e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8a2fbd70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8a2f9af5a UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8a2f90287 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8cabfb726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8cabeef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8cabfd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8cabec090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8f7155b6d USER32.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8f7155562 USER32.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8cabfe946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff6714f5d3e UE4Editor.exe!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff67150554c UE4Editor.exe!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff6715055ca UE4Editor.exe!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff67151316c UE4Editor.exe!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff671515b8e UE4Editor.exe!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8f68f7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: [Callstack] 0x00007ff8f806ced1 ntdll.dll!UnknownFunction []
+[2020.02.05-19.01.03:929][942]LogOutputDevice: Error: 
+[2020.02.05-19.01.03:937][942]LogStats:                SubmitErrorReport -  0.000 s
